@@ -1,629 +1,675 @@
-,Sport,Date,Competition,Description
-0,Baseball,07-Jan 01:30,Mexico LMP,Naranjeros De Hermosillo @ Charros de Jalisco
-1,Baseball,07-Jan 02:30,Mexico LMP,Tomateros De Culiacan @ Caneros De Los Mochis
-2,Baseball,07-Jan 02:30,Mexico LMP,Jaguares de Nayarit @ Algodoneros De Guasave
-3,Baseball,07-Jan 03:30,Mexico LMP,Yaquis de Cd Obregon @ Aguilas de Mexicali
-4,Basketball,06-Jan 19:15,Poland PBL,Anwil Wloclawek v Gornik Walbrzych
-5,Basketball,06-Jan 19:15,Euroleague,Panathinaikos BC v Olimpia Milano
-6,Basketball,06-Jan 19:15,Iceland Premier League Women,Armann Women v Hamar Thor
-7,Basketball,06-Jan 19:15,Iceland Premier League Women,Njardvik Women v KR Women
-8,Basketball,06-Jan 19:15,Iceland Premier League Women,Haukar Hafnarfjördur Women v Keflavik Women
-9,Basketball,06-Jan 19:15,Iceland Premier League Women,Tindastoll Women v Valur Women
-10,Basketball,06-Jan 19:30,Euroleague,FC Barcelona Regal v Maccabi Tel Aviv
-11,Basketball,06-Jan 19:30,Euroleague,Virtus Bologna v Zalgiris Kaunas
-12,Basketball,06-Jan 20:00,Portugal LPB,FC Porto v Ovarense Dolce Vita
-13,Basketball,06-Jan 23:00,NCAA,Massachusetts Minutemen @ Ohio Bobcats
-14,Basketball,07-Jan 00:00,NCAA,Western Michigan Broncos @ Miami Ohio RedHawks
-15,Basketball,07-Jan 00:00,NCAA,Central Michigan Chippewas @ Akron Zips
-16,Basketball,07-Jan 00:00,NCAA,Cincinnati Bearcats @ West Virginia Mountaineers
-17,Basketball,07-Jan 00:00,Argentina LNB,Racing Chivilcoy v Instituto (C)
-18,Basketball,07-Jan 00:00,NCAA,Georgia Bulldogs @ Florida Gators
-19,Basketball,07-Jan 00:00,Argentina LNB,Obras Sanitarias v CA Union Santa Fe
-20,Basketball,07-Jan 00:00,NCAA,Duke Blue Devils @ Louisville Cardinals
-21,Basketball,07-Jan 00:00,NCAA,St Johns Red Storm @ Butler Bulldogs
-22,Basketball,07-Jan 00:00,NCAA,Eastern Michigan Eagles @ Ball State Cardinals
-23,Basketball,07-Jan 00:00,NCAA,Michigan Wolverines @ Penn State Nittany Lions
-24,Basketball,07-Jan 00:00,NCAA,South Carolina Gamecocks @ LSU Tigers
-25,Basketball,07-Jan 00:00,NCAA,Syracuse Orange @ Georgia Tech Yellow Jackets
-26,Basketball,07-Jan 00:00,NCAA,Bowling Green Falcons @ Kent State Golden Flashes
-27,Basketball,07-Jan 00:05,US NBA,Cleveland Cavaliers @ Indiana Pacers
-28,Basketball,07-Jan 00:05,US NBA,Orlando Magic @ Washington Wizards
-29,Basketball,07-Jan 00:30,Argentina LNB,Regatas Corrientes v Obera TC
-30,Basketball,07-Jan 01:00,NCAA,George Washington Revolutionaries @ Dayton Flyers
-31,Basketball,07-Jan 01:00,NCAA,Iowa Hawkeyes @ Minnesota Golden Gophers
-32,Basketball,07-Jan 01:00,NCAA,Georgetown Hoyas @ DePaul Blue Demons
-33,Basketball,07-Jan 01:00,Argentina LNB,Ciclista Olimpico v Club Atletico San Lorenzo de Almagro
-34,Basketball,07-Jan 01:00,NCAA,Toledo Rockets @ Northern Illinois Huskies
-35,Basketball,07-Jan 01:00,NCAA,Georgetown Hoyas @ DePaul Blue Demons
-36,Basketball,07-Jan 01:00,NCAA,Toledo Rockets @ Northern Illinois Huskies
-37,Basketball,07-Jan 01:05,US NBA,Los Angeles Lakers @ New Orleans Pelicans
-38,Basketball,07-Jan 01:05,US NBA,San Antonio Spurs @ Memphis Grizzlies
-39,Basketball,07-Jan 01:05,US NBA,Miami Heat @ Minnesota Timberwolves
-40,Basketball,07-Jan 01:30,NCAA,Lindenwood Lions @ SIU Edwardsville Cougars
-41,Basketball,07-Jan 02:00,NCAA,New Mexico Lobos @ Colorado State Rams
-42,Basketball,07-Jan 02:00,NCAA,Texas Longhorns @ Tennessee Volunteers
-43,Basketball,07-Jan 02:00,NCAA,Utah State Aggies @ Air Force Falcons
-44,Basketball,07-Jan 02:00,NCAA,North Carolina State Wolfpack @ Boston College Eagles
-45,Basketball,07-Jan 02:00,NCAA,Texas Tech Red Raiders @ Houston Cougars
-46,Basketball,07-Jan 02:00,NCAA,Texas A&M Aggies @ Auburn Tigers
-47,Basketball,07-Jan 02:00,NCAA,UCLA Bruins @ Wisconsin Badgers
-48,Basketball,07-Jan 02:00,NCAA,TCU Horned Frogs @ Kansas Jayhawks
-49,Basketball,07-Jan 03:00,NCAA,Fresno State Bulldogs @ San Jose State Spartans
-50,Basketball,07-Jan 03:00,NCAA,UNLV Rebels @ Wyoming Cowboys
-51,Basketball,07-Jan 04:00,NCAA,San Diego State Aztecs @ Nevada Wolfpack
-52,Basketball,07-Jan 04:05,US NBA,Dallas Mavericks @ Sacramento Kings
-53,Basketball,07-Jan 08:35,Australia NBL,Melbourne United v Cairns Taipans
-54,Basketball,07-Jan 09:15,Philippines PBA Philippine Cup,San Miguel Beermen v Barangay Ginebra
-55,Basketball,07-Jan 10:00,South Korea KBL,Changwon LG Sakers v Samsung Thunders
-56,Basketball,07-Jan 11:30,Philippines PBA Philippine Cup,TNT KaTropa v Meralco Bolts
-57,Basketball,07-Jan 11:35,China CBA,GuangDong Southern Tigers v Shenzhen Leopards
-58,Basketball,07-Jan 11:35,China CBA,Qingdao Eagles v Shanghai Sharks
-59,Basketball,07-Jan 12:10,East Asian Super League,Eastern v SK Knights
-60,Basketball,07-Jan 14:30,Turkey Cup Women,Kayseri Kaskispor Women v Emlak Konut Women
-61,Basketball,07-Jan 16:00,Qatar Basketball League,Al Sadd v Al Wakrah
-62,Basketball,07-Jan 16:00,EuroCup (M),Turk Telekom v Aquila Trento
-63,Basketball,07-Jan 16:30,Finland Korisliiga,Nilan Bisons v Joensuun Kataja
-64,Basketball,07-Jan 16:30,Finland Korisliiga,Namika Lahti v Lapuan Korikobrat
-65,Basketball,07-Jan 16:30,Finland Korisliiga Women,Torpan Pojat Women v Pyrinto Women
-66,Basketball,07-Jan 16:30,Finland Korisliiga Women,Torpan Pojat Women v Pyrinto Women
-67,Basketball,07-Jan 16:30,Finland Korisliiga,Tampereen Pyrinto v Helsinki Seagulls
-68,Basketball,07-Jan 16:30,Finland Korisliiga Women,Tapiolan Honka Women v Kouvottaret Women
-69,Basketball,07-Jan 16:30,Finland Korisliiga Women,Vimpelin Veto Women v BC Nokia Women
-70,Basketball,07-Jan 17:00,Slovakia Extraliga,Inter Bratislava v MBK Rieker Komarno
-71,Basketball,07-Jan 17:00,Poland PBL,GTK Gliwice v Czarni Slupsk
-72,Basketball,07-Jan 17:00,Slovakia Extraliga,BK Levicki Patrioti v BC Prievidza
-73,Basketball,07-Jan 17:00,Slovakia Extraliga,MBK Handlova v MBK Lucenec
-74,Basketball,07-Jan 17:00,EuroCup (M),BC Lietkabelis v Bourg-en-Bresse
-75,Basketball,07-Jan 17:00,Slovakia Extraliga,BK Iskra Svit v Nitra Blue Wings
-76,Basketball,07-Jan 17:00,Slovakia Extraliga,Kosice Wolves v BK 04 AC LB Spisska Nova Ves
-77,Basketball,07-Jan 17:00,Latvia - Estonian Basketball League,Valmiera Glass VIA v BC Kalev/Cramo
-78,Basketball,07-Jan 17:00,Latvia - Estonian Basketball League,KK Parnu v Ogres BS
-79,Basketball,07-Jan 17:00,Turkey Cup Women,Besiktas JK Women v Galatasaray Women
-80,Basketball,07-Jan 17:15,Bulgaria Cup,Academic Bultex 99 v BC Botev 2012
-81,Basketball,07-Jan 17:30,Bulgaria Cup,Levski v Minyor 2015
-82,Basketball,07-Jan 17:30,EuroCup (M),Panionios BC v Buducnost VOLI
-83,Basketball,07-Jan 17:30,Euroleague,Anadolu Efes v Paris
-84,Basketball,07-Jan 18:00,France Women's LfB,Chartres Women v Charnay Basket Burgundy Women
-85,Basketball,07-Jan 18:00,France Women's LfB,Flames Carolo Women v Landerneau Women
-86,Basketball,07-Jan 18:00,Qatar Basketball League,Al-Rayyan v Al Khor
-87,Basketball,07-Jan 18:00,EuroCup (M),Slask Wroclaw v Hapoel Jerusalem
-88,Basketball,07-Jan 18:00,Norway BLNO,Fyllingen v Gimle BBK
-89,Basketball,07-Jan 18:00,Norway BLNO,Centrum Tigers v Baerum Basket
-90,Basketball,07-Jan 18:00,Czech Republic NBL,TJ Sokol Hradec Kralove v MMCITE Brno
-91,Basketball,07-Jan 18:00,Latvia - Estonian Basketball League,Latvijas Universitate v TTU Korvpalliklubi
-92,Basketball,07-Jan 18:00,Slovenia Liga Telemach,KD Ilirija v KK Helios Suns
-93,Basketball,07-Jan 18:30,Switzerland LNA,Neuchatel v BBC Monthey
-94,Basketball,07-Jan 18:45,EuroCup (M),Hamburg Towers v BC Neptunas
-95,Basketball,07-Jan 19:00,Spain Women's Liga Femenina,CAB Estepona Women v Gran Canaria Women
-96,Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Baloncesto Leganes Women v Ferrol Women
-97,Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Baloncesto Leganes Women v Ferrol Women
-98,Basketball,07-Jan 19:00,EuroCup (M),Reyer Venezia Mestre v U BT Cluj Napoca
-99,Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Club Joventut Badalona Women v Cadí La Seu Women
-100,Basketball,07-Jan 19:00,Spain Cup,Asefa Estudiantes v Tizona Burgos
-101,Basketball,07-Jan 19:00,France Women's LfB,Villeneuve D'Ascq Women v Montpellier Women
-102,Basketball,07-Jan 19:00,Spain Cup,CB Moron v Baloncesto Fuenlabrada
-103,Basketball,07-Jan 19:00,France Women's LfB,Basket Landes Women v Bourges Basket Women
-104,Basketball,07-Jan 19:00,France Women's LfB,Lyon Women v UFAB Angers 49 Women
-105,Basketball,07-Jan 19:00,Spain Women's Liga Femenina,RPK Araski Women v Hozono Global Jairis Women
-106,Basketball,07-Jan 19:00,Spain Women's Liga Femenina,CB Avenida Women v CB Estudiantes Women
-107,Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Casademont Zaragoza Women v CD Ibaeta Women
-108,Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Lointek Gernika Bizkaia Women v Spar Citylift Girona Women
-109,Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Porta XI Ensino Women v Valencia Basket Club Women
-110,Basketball,07-Jan 19:00,Poland BLK (W),SKK Polonia Warszawa Women v Artego Bydgoszcz Women
-111,Cricket,06-Jan 23:40,Women's Super Smash,Wellington Blaze Women v Central Hinds Women
-112,Cricket,07-Jan 03:25,New Zealand T20 Super Smash,Wellington Firebirds v Central Stags
-113,Cricket,07-Jan 07:00,Bangladesh Premier League,Dhaka Capital v Noakhali Express
-114,Cricket,07-Jan 07:30,Zimbabwe Domestic Twenty20 Competition,Southern Rocks v Mountaineers
-115,Cricket,07-Jan 08:00,U19 International,South Africa Under-19s v India Under-19s
-116,Cricket,07-Jan 08:15,Australia Twenty20 Big Bash,Perth Scorchers v Melbourne Renegades
-117,Cricket,07-Jan 11:45,Zimbabwe Domestic Twenty20 Competition,Mid West Rhinos v Mashonaland Eagles
-118,Cricket,07-Jan 12:00,Bangladesh Premier League,Chattogram Royals v Sylhet Titans
-119,Cricket,07-Jan 13:00,ICCA Arabian Cricket League Phase 1,Dubai Gymkhana v Gorilla XI
-120,Cricket,07-Jan 13:30,International Twenty20,Sri Lanka v Pakistan
-121,Cricket,07-Jan 15:30,SA20,Durban's Super Giants v Pretoria Capitals
-122,Cricket,07-Jan 17:00,Falcons Champions Trophy T20,Thunder Cats v Salmiya Strikers
-123,Cricket,07-Jan 17:00,ICCA Arabian Cricket League Phase 1,Alif Pharma v Dubai Dare Devils
-124,Darts,07-Jan 09:35,Modus Super Series,Steve West v Richie Howson
-125,Darts,07-Jan 09:45,Modus Super Series,Michael Huntley v Robert Thornton
-126,Darts,07-Jan 09:55,Modus Super Series,Neil Duff v Richard Rowlands
-127,Darts,07-Jan 10:05,Modus Super Series,Richie Howson v Michael Huntley
-128,Darts,07-Jan 10:15,Modus Super Series,Richard Rowlands v Steve West
-129,Darts,07-Jan 10:25,Modus Super Series,Robert Thornton v Neil Duff
-130,Darts,07-Jan 10:35,Modus Super Series,Richie Howson v Richard Rowlands
-131,Darts,07-Jan 10:45,Modus Super Series,Michael Huntley v Neil Duff
-132,Darts,07-Jan 10:55,Modus Super Series,Steve West v Robert Thornton
-133,Darts,07-Jan 11:05,Modus Super Series,Richard Rowlands v Michael Huntley
-134,Darts,07-Jan 11:15,Modus Super Series,Robert Thornton v Richie Howson
-135,Darts,07-Jan 11:25,Modus Super Series,Neil Duff v Steve West
-136,Darts,07-Jan 11:35,Modus Super Series,Robert Thornton v Richard Rowlands
-137,Darts,07-Jan 11:45,Modus Super Series,Steve West v Michael Huntley
-138,Darts,07-Jan 11:55,Modus Super Series,Richie Howson v Neil Duff
-139,Football,06-Jan 19:30,England Southern Premier South,Wimborne Town FC v Taunton Town
-140,Football,06-Jan 19:45,Italy Serie A,Sassuolo v Juventus
-141,Football,06-Jan 19:45,England Northern Premier League,Lancaster City v Rushall Olympic
-142,Football,06-Jan 19:45,Scotland Challenge Cup,Airdrieonians v Montrose
-143,Football,06-Jan 19:45,England Northern Premier League Division One Midlands,Coventry Sphinx FC v Lichfield City FC
-144,Football,06-Jan 19:45,Scotland Challenge Cup,Raith Rovers v Queen Of The South
-145,Football,06-Jan 19:45,England Northern Premier League Division One Midlands,Carlton Town v Anstey Nomads
-146,Football,06-Jan 19:45,Scotland Premiership,Livingston v St Mirren
-147,Football,06-Jan 19:45,England Northern Premier League Division One East,Garforth Town AFC v Lincoln United
-148,Football,06-Jan 19:45,Club Friendly,Bray Wanderers v Waterford
-149,Football,06-Jan 19:45,England Southern Football League Division One Central,Hadley v Flackwell Heath
-150,Football,06-Jan 19:45,England Northern Premier League Division One West,Runcorn Linnets v Chasetown
-151,Football,06-Jan 19:45,Scotland Challenge Cup,St Johnstone v Ross County
-152,Football,06-Jan 19:45,England National League South,Enfield Town v Hampton & Richmond
-153,Football,06-Jan 19:45,England Northern Premier League Division One East,Matlock Town FC v Newton Aycliffe
-154,Football,06-Jan 19:45,England Southern Football League Division One Central,Dunstable v Biggleswade FC
-155,Football,06-Jan 19:45,England Southern Premier South,Yate Town v Poole Town
-156,Football,06-Jan 19:45,Wales Cymru North,Penrhyncoch v Caersws FC
-157,Football,06-Jan 19:45,England Northern Premier League,Cleethorpes Town v Whitby
-158,Football,06-Jan 19:45,Scotland Challenge Cup,Arbroath v East Fife
-159,Football,06-Jan 19:45,England Northern Premier League,Bamber Bridge v Gainsborough
-160,Football,06-Jan 19:45,Scotland Challenge Cup,Ayr United v Stranraer
-161,Football,06-Jan 19:45,England Isthmian League Premier Division,Lewes FC v Billericay Town
-162,Football,06-Jan 19:45,Scotland Challenge Cup,Queens Park FC v Forfar Athletic
-163,Football,06-Jan 19:45,England Isthmian League Premier Division,Canvey Island v Chichester
-164,Football,06-Jan 19:45,Scotland Challenge Cup,Stirling Albion v Stenhousemuir
-165,Football,06-Jan 19:45,Scotland Challenge Cup,Partick Thistle v Inverness CT
-166,Football,06-Jan 19:45,England Northern Premier League,FC United of Manchester v Stockton Town FC
-167,Football,06-Jan 19:45,Wales Premier League,The New Saints v Bala Town
-168,Football,06-Jan 19:45,England Isthmian League Division One South Central,Westfield v Egham Town
-169,Football,06-Jan 19:45,England Northern Premier League Division One East,Ashington v Consett
-170,Football,06-Jan 19:45,England Northern Premier League Division One Midlands,Coventry Sphinx FC v Lichfield City FC
-171,Football,06-Jan 19:45,England National League South,Eastbourne Borough FC v Horsham F.C.
-172,Football,06-Jan 19:45,England Northern Premier League Division One Midlands,Carlton Town v Anstey Nomads
-173,Football,06-Jan 19:45,Scotland Challenge Cup,Airdrieonians v Montrose
-174,Football,06-Jan 19:45,England Southern Football League Division One Central,Hadley v Flackwell Heath
-175,Football,06-Jan 19:45,England Southern Premier South,Basingstoke v Hanwell Town
-176,Football,06-Jan 19:45,Wales Premier League,The New Saints v Bala Town
-177,Football,06-Jan 19:45,England Northern Premier League,FC United of Manchester v Stockton Town FC
-178,Football,06-Jan 19:45,England Northern Premier League Division One West,Runcorn Linnets v Chasetown
-179,Football,06-Jan 19:45,England Southern Football League Division One Central,Dunstable v Biggleswade FC
-180,Football,06-Jan 20:00,England Premier League,West Ham United v Nottingham Forest
-181,Football,06-Jan 20:00,Scotland Premiership,Rangers v Aberdeen
-182,Football,06-Jan 20:00,Portugal League Cup,Sporting Lisbon v Guimaraes
-183,Football,06-Jan 20:00,Malta Premier League,Sliema Wanderers v Marsaxlokk FC
-184,Football,06-Jan 20:15,Brazil Sao Paulo Youth Cup,XV de Jau U20 v Trindade AC U20
-185,Football,06-Jan 20:15,Brazil Sao Paulo Youth Cup,I9 Futebol Clube U20 v Velo Clube U20
-186,Football,06-Jan 21:00,Brazil Sao Paulo Youth Cup,Comercial SP U20 v Noroeste SP U20
-187,Football,06-Jan 21:15,Brazil Sao Paulo Youth Cup,Francana U20 v Barra SC U20
-188,Football,06-Jan 21:45,Brazil Sao Paulo Youth Cup,Aracatuba Futebol Clube LTDA U20 v Oeste FC U20
-189,Football,06-Jan 21:45,Brazil Sao Paulo Youth Cup,Assisense U20 v Guarani FC SP U20
-190,Football,06-Jan 22:00,Brazil Catarinense 1 Division,Chapecoense v Brusque
-191,Football,06-Jan 22:00,Brazil Cearense 1,Maracana EC v Ferroviario AC Fortaleza
-192,Football,06-Jan 22:15,Brazil Sao Paulo Youth Cup,Gremio Prudente U20 v Olimpico SE U20
-193,Football,06-Jan 22:30,Brazil Sao Paulo Youth Cup,Luverdense EC U20 v SC Corinthians U20
-194,Football,06-Jan 23:00,Brazil Catarinense 1 Division,Santa Catarina v Camboriu
-195,Football,06-Jan 23:00,Brazil Paranaense,Independente Futebol Sao Joseense v Galo Maringa
-196,Football,06-Jan 23:15,Brazil Sao Paulo Youth Cup,Atletico PI U20 v America MG U20
-197,Football,06-Jan 23:30,Brazil Sao Paulo Youth Cup,Esporte Club de Patos U20 v Cruzeiro U20
-198,Football,07-Jan 00:00,Brazil Sao Paulo Youth Cup,Marica U20 v Clube Atletico Paranaense U20
-199,Football,07-Jan 00:00,Argentina Torneo Federal,Club Rivadavia Lincoln v CA Villa Belgrano
-200,Football,07-Jan 00:00,Brazil Sao Paulo Youth Cup,Naviraiense U20 v Athletic Club MG U20
-201,Football,07-Jan 00:00,Brazil Sao Paulo Youth Cup,Naviraiense U20 v Athletic Club MG U20
-202,Football,07-Jan 00:30,Brazil Sao Paulo Youth Cup,Carajas U20 v Ceara SC Fortaleza U20
-203,Football,07-Jan 01:00,Mexico Liga MX Femenil,FC Atlas Women v CF Pachuca Women
-204,Football,07-Jan 03:06,Mexico Liga MX Femenil,Mazatlan Women v FC Juarez Women
-205,Football,07-Jan 08:00,Thailand League 3 Cup,Kasembundit University v Satun United FC
-206,Football,07-Jan 08:00,Thailand League 3 Cup,Royal Thai Air Force FC v Samutsongkhram City
-207,Football,07-Jan 08:00,Liga Nusantara,Nusantara United v Batavia FC
-208,Football,07-Jan 08:00,Thailand League 3 Cup,Udon Banjan United v Customs United
-209,Football,07-Jan 08:00,Liga Nusantara,Persibo Bojonegoro v Cilegon United FC
-210,Football,07-Jan 08:00,Kenya Women's Premier League,Kenya Police Bullets Women v Kisped Queens FC Women
-211,Football,07-Jan 08:30,Vietnam U19 National League Women,Ha Noi FC U19 Women v Ha Nam U19 Women
-212,Football,07-Jan 09:30,Myanmar National League,Yadanarbon v Hantharwady Utd
-213,Football,07-Jan 10:00,Thailand League 3 Cup,Samut Sakhon City FC v Prime Bangkok
-214,Football,07-Jan 10:00,Club Friendly,Slaven Koprivnica v Primorje
-215,Football,07-Jan 10:00,Kenya Women's Premier League,Vihiga Queens FC Women v Madira Soccer Assassins Women
-216,Football,07-Jan 10:45,HKPL U22 League,Kowloon City District SA U22 v Eastern District SA U22
-217,Football,07-Jan 11:00,Vietnam U19 National League Women,TP Ho Chi Minh U19 Women v Thai Nguyen U19 Women
-218,Football,07-Jan 11:30,AFC U23 Championship,Korea Republic U23 v Iran U23
-219,Football,07-Jan 11:30,AFC U23 Championship,Japan U23 v Syria U23
-220,Football,07-Jan 11:45,Brazil Sao Paulo Youth Cup,Nacional SP U20 v Portuguesa Santista U20
-221,Football,07-Jan 12:00,Liga Nusantara,Persipa Pati FC v Dejan FC
-222,Football,07-Jan 12:00,Liga Nusantara,Persika Karanganyar v Persikutim United
-223,Football,07-Jan 12:00,Spain Tercera Division,AD Ceuta FC II v UD Tomares
-224,Football,07-Jan 12:15,Israel Liga Bet,Hapoel Kiryat Uno v Hapoel Bnei Lod
-225,Football,07-Jan 12:30,Saudi Arabia Division 1,Al-Zulfi v Jeddah Club (KSA)
-226,Football,07-Jan 12:30,Saudi Arabia Division 1,Al-Raed (KSA) v Al-Ula
-227,Football,07-Jan 12:40,Saudi Arabia Division 1,Al-Jandal v Al-Taee (KSA)
-228,Football,07-Jan 12:45,HKPL U22 League,Hong Kong Rangers FC U22 v Hong Kong U22
-229,Football,07-Jan 12:55,Oman Elite League,Al Shabab (KSA) v Sur
-230,Football,07-Jan 13:00,Uganda Premier League,Kitara FC v UPDF
-231,Football,07-Jan 13:00,U23 Pro League,Al Sharjah U23 v Al Nasr SC (Dubai) U23
-232,Football,07-Jan 13:00,Club Friendly,SK Sigma Olomouc v Polonia Bytom
-233,Football,07-Jan 13:00,United Arab Emirates Premier,Al Ittihad Kalba v Al Wasl Sports Club (UAE)
-234,Football,07-Jan 13:00,U23 Pro League,Al Sharjah U23 v Al Nasr SC (Dubai) U23
-235,Football,07-Jan 13:00,Kenya Premier League,Nairobi United FC v AFC Leopards
-236,Football,07-Jan 13:30,Coppa Italia Serie D,US Ancona 1905 v FC Francavilla
-237,Football,07-Jan 13:30,Coppa Italia Serie D,ASD Calcio Club Milano v Pistoiese
-238,Football,07-Jan 13:30,Italy Eccellenza,SC Cenaia 1969 v ASD Fratres Perignano 2019
-239,Football,07-Jan 13:30,Italy Eccellenza,Lucchese v Zenith Prato SSD
-240,Football,07-Jan 13:30,Italy Eccellenza,SSD Ferentino Calcio v ASD Polisportiva Gaeta 1931
-241,Football,07-Jan 13:30,Italy Eccellenza,Massese v ASD Pro Livorno Sorgenti
-242,Football,07-Jan 13:30,Italy Eccellenza,Sestese Calcio SSD v Real Cerretese
-243,Football,07-Jan 13:30,Italy Eccellenza,Roma City FC v ADC Viterbese Castrense
-244,Football,07-Jan 14:00,Club Friendly,Greuther Furth v Schweinfurt
-245,Football,07-Jan 14:00,Brazil Sao Paulo Youth Cup,CSE U20 v Internacional U20
-246,Football,07-Jan 14:00,Portugal Cup Women,CS Maritimo Funchal Women v Valadares Gaia Women
-247,Football,07-Jan 14:00,Brazil Sao Paulo Youth Cup,Ibrachina U20 v Santo Andre U20
-248,Football,07-Jan 14:00,Club Friendly,Holstein Kiel v Servette
-249,Football,07-Jan 14:00,Italy Eccellenza,ASD Montespertoli v AC Sporting Cecina 1929
-250,Football,07-Jan 14:00,Club Friendly,Young Boys v Dinamo Bucharest
-251,Football,07-Jan 14:00,AFC U23 Championship,Uzbekistan U23 v Lebanon U23
-252,Football,07-Jan 14:20,Oman Elite League,Ibri Club v Saham Club
-253,Football,07-Jan 14:30,Qatari Stars League,Al Ahli SC (Doha) v Al Shamal SC
-254,Football,07-Jan 14:35,Oman Elite League,Dhofar v AL-Nahda (OMA)
-255,Football,07-Jan 15:00,Ghana FA Cup,Asante Kotoko v King Faisal Babies
-256,Football,07-Jan 15:00,Greece Cup,OFI Crete v Asteras Tripolis
-257,Football,07-Jan 15:00,Cyprus Cup,Ethnikos Ach. v Enosis
-258,Football,07-Jan 15:00,Spain Tercera Division,Villarreal CF III v Hercules CF II
-259,Football,07-Jan 15:00,Cyprus Cup,AE Paphos v Akritas Chlorakas
-260,Football,07-Jan 15:00,Ghana FA Cup,Heart of Lions FC v Na God FC
-261,Football,07-Jan 15:00,Ghana FA Cup,Swedru All Blacks v Sefwi All Stars FC
-262,Football,07-Jan 15:00,Cyprus Cup,APOEL Nicosia v Apea Akrotiriou
-263,Football,07-Jan 15:00,Cyprus Cup,APOEL Nicosia v Apea Akrotiriou
-264,Football,07-Jan 15:00,Ghana FA Cup,Medeama SC v Bibiani Gold Stars
-265,Football,07-Jan 15:45,United Arab Emirates Premier,Al Bataeh v Shabab Al-Ahli Dubai FC
-266,Football,07-Jan 15:55,Oman Elite League,Al Seeb v Al-Rustaq
-267,Football,07-Jan 16:00,Brazil Sao Paulo Youth Cup,Cosmopolitano Sports SP U20 v Bragantino U20
-268,Football,07-Jan 16:00,Brazil Sao Paulo Youth Cup,Uniao Mogi SP U20 v AD Centro Olimpico U20
-269,Football,07-Jan 16:00,Brazil Sao Paulo Youth Cup,Aster Itaqua U20 v Gremio Novorizontino U20
-270,Football,07-Jan 16:00,Brazil Sao Paulo Youth Cup,Paulinia FC U20 v Portuguesa SP U20
-271,Football,07-Jan 16:00,Brazil Sao Paulo Youth Cup,Referencia Futebol Clube U20 v Ituano U20
-272,Football,07-Jan 16:00,Brazil Sao Paulo Youth Cup,Guaratingueta U20 v Sao Jose EC SP U20
-273,Football,07-Jan 16:00,Brazil Sao Paulo Youth Cup,Comercial FC Tiete U20 v XV de Piracicaba U20
-274,Football,07-Jan 16:00,Spain Segunda B3,Torrent CF v UD Poblense
-275,Football,07-Jan 16:00,Brazil Sao Paulo Youth Cup,Cosmopolitano U20 v Bragantino U20
-276,Football,07-Jan 16:10,Saudi Arabia Crown Prince Cup,Al Shabab (KUW) v Al Qadsia (KUW)
-277,Football,07-Jan 16:15,Brazil Sao Paulo Youth Cup,Ferroviarario AC Fortaleza U20 v Bangu U20
-278,Football,07-Jan 16:30,Senegal Ligue 1,Teungueth v US Ouakam
-279,Football,07-Jan 16:30,AFC U23 Championship,Qatar U23 v United Arab Emirates U23
-280,Football,07-Jan 16:30,Qatari Stars League,Al Wakrah v Al Arabi SC (Qatar)
-281,Football,07-Jan 17:00,Spain Segunda RFEF - Group 3,Barcelona B v Valencia-Mestalla
-282,Football,07-Jan 17:00,Brazil Sao Paulo Youth Cup,Ferroviaria U20 v America FC Rio de Janeiro U20
-283,Football,07-Jan 17:00,Italy Eccellenza,ASD W3 Maccarese v ASD Astrea
-284,Football,07-Jan 17:00,Uganda Premier League,NEC FC v Lugazi FC
-285,Football,07-Jan 17:30,Italy Serie A,Bologna v Atalanta BC
-286,Football,07-Jan 17:30,Italy Serie A,Napoli v Hellas Verona FC
-287,Football,07-Jan 18:00,Brazil Sao Paulo Youth Cup,Independente FC U20 v Sao Paulo U20
-288,Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Nacional Fast Clube Manaus U20 v Juventude U20
-289,Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Ivinhema U20 v Real SC RS U20
-290,Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Sao Luis U20 v Figueirense FC Florianopolis U20
-291,Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,AB Projeto Nordeste Canaa U20 v Criciuma EC U20
-292,Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Operario PR U20 v Vila Nova FC Goiania U20
-293,Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Juventude Samas MA U20 v Nautico U20
-294,Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Juventude Samas MA U20 v Nautico U20
-295,Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Confianca PB U20 v Fortaleza U20
-296,Football,07-Jan 18:30,Malta Premier League,Floriana v Hamrun Spartans
-297,Football,07-Jan 18:30,Malta Premier League,Valletta v Birkirkara
-298,Football,07-Jan 19:00,Spain Tercera Division,CD Huetor Vega v Mijas Las Lagunas
-299,Football,07-Jan 19:00,England Premier League Cup,Blackburn U21 v Coventry U21
-300,Football,07-Jan 19:00,Spain Supercup,Barcelona v Athletic Club Bilbao
-301,Football,07-Jan 19:00,Israel Liga Bet,Maccabi Beer Sheva v Ironi Beth SHemesh
-302,GreyhoundRacing,06-Jan 19:11,Sunderland,{2026-01-06T19:11:00.0000000Z} @ Sunderland
-303,GreyhoundRacing,06-Jan 19:22,Central Park,{2026-01-06T19:22:00.0000000Z} @ Central Park
-304,GreyhoundRacing,06-Jan 19:24,Star Pelaw,{2026-01-06T19:24:00.0000000Z} @ Star Pelaw
-305,GreyhoundRacing,06-Jan 19:27,Sunderland,{2026-01-06T19:27:00.0000000Z} @ Sunderland
-306,GreyhoundRacing,06-Jan 19:39,Central Park,{2026-01-06T19:39:00.0000000Z} @ Central Park
-307,GreyhoundRacing,06-Jan 19:42,Star Pelaw,{2026-01-06T19:42:00.0000000Z} @ Star Pelaw
-308,GreyhoundRacing,06-Jan 19:44,Sunderland,{2026-01-06T19:44:00.0000000Z} @ Sunderland
-309,GreyhoundRacing,06-Jan 19:56,Central Park,{2026-01-06T19:56:00.0000000Z} @ Central Park
-310,GreyhoundRacing,06-Jan 19:58,Star Pelaw,{2026-01-06T19:58:00.0000000Z} @ Star Pelaw
-311,GreyhoundRacing,06-Jan 20:01,Sunderland,{2026-01-06T20:01:00.0000000Z} @ Sunderland
-312,GreyhoundRacing,06-Jan 20:13,Central Park,{2026-01-06T20:13:00.0000000Z} @ Central Park
-313,GreyhoundRacing,06-Jan 20:16,Star Pelaw,{2026-01-06T20:16:00.0000000Z} @ Star Pelaw
-314,GreyhoundRacing,06-Jan 20:19,Sunderland,{2026-01-06T20:19:00.0000000Z} @ Sunderland
-315,GreyhoundRacing,06-Jan 20:31,Central Park,{2026-01-06T20:31:00.0000000Z} @ Central Park
-316,GreyhoundRacing,06-Jan 20:36,Sunderland,{2026-01-06T20:36:00.0000000Z} @ Sunderland
-317,GreyhoundRacing,06-Jan 20:47,Central Park,{2026-01-06T20:47:00.0000000Z} @ Central Park
-318,GreyhoundRacing,06-Jan 20:54,Sunderland,{2026-01-06T20:54:00.0000000Z} @ Sunderland
-319,GreyhoundRacing,06-Jan 21:04,Central Park,{2026-01-06T21:04:00.0000000Z} @ Central Park
-320,GreyhoundRacing,06-Jan 21:11,Sunderland,{2026-01-06T21:11:00.0000000Z} @ Sunderland
-321,GreyhoundRacing,06-Jan 21:23,Central Park,{2026-01-06T21:23:00.0000000Z} @ Central Park
-322,GreyhoundRacing,06-Jan 21:28,Sunderland,{2026-01-06T21:28:00.0000000Z} @ Sunderland
-323,GreyhoundRacing,06-Jan 21:46,Sunderland,{2026-01-06T21:46:00.0000000Z} @ Sunderland
-324,Handball,07-Jan 12:00,Romania Liga Nationala Women,Danubius Galati Women v ASC Corona 2010 Brasov Women
-325,Handball,07-Jan 14:00,Poland Ekstraklasa,Chrobry Glogow v MKS Kalisz
-326,Handball,07-Jan 14:00,Poland Ekstraklasa,Kielce Vive v Piotrkowianin Piotrkow Tryb
-327,Handball,07-Jan 14:00,Poland Ekstraklasa,Legionowo v Gwardia Opole
-328,Handball,07-Jan 14:00,Poland Ekstraklasa,Wisla Plock v Zaglebie Lubin
-329,Handball,07-Jan 14:00,Poland Ekstraklasa,Stal Mielec v Wybrzeze Gdansk
-330,Handball,07-Jan 14:00,Poland Ekstraklasa,Ostrow Wielkopolski v Kwidzyn
-331,Handball,07-Jan 17:00,Norway REMA1000-ligaen (Womens),Follo HK Women v Storhamar Handball Elite Women
-332,Handball,07-Jan 17:00,Poland Ekstraklasa Women,Metraco Zaglebie Lubin Women v HC Galytchanka Lviv Women
-333,Handball,07-Jan 17:00,Hungary NB 1 Women,Motherson Mosonmagyarovar Women v Szombathelyi Kka
-334,Handball,07-Jan 17:00,Norway REMA1000-ligaen (Womens),Fana Women v Molde Elite Women
-335,Handball,07-Jan 17:00,Norway REMA1000-ligaen (Womens),Gjerpen Women v Tertnes Bergen Women
-336,Handball,07-Jan 17:00,Norway REMA1000-ligaen (Womens),Fredrikstad BKL Women v Larvik Women
-337,Handball,07-Jan 17:15,Norway REMA1000-ligaen (Womens),Sola Women v Byasen Women
-338,Handball,07-Jan 17:30,Norway REMA1000-ligaen (Womens),Romerike Ravens Women v Haslum Baerum Women
-339,Handball,07-Jan 18:00,Sweden Elitserien (Womens),Vasterasirsta Women v IF Hallby HK Women
-340,Handball,07-Jan 18:00,Sweden Elitserien (Womens),Skuru Women v Onnereds HK Women
-341,Handball,07-Jan 18:00,Sweden Elitserien (Womens),Kungalvs HK Women v Kristianstad HK Women
-342,Handball,07-Jan 18:00,Sweden Elitserien (Womens),HK Aranas Women v IK Savehof Women
-343,Handball,07-Jan 18:00,Germany Bundesliga (W),Ludwigsburg Women v Frisch Auf Goppingen Women
-344,Handball,07-Jan 18:00,Sweden Allsvenskan (Women),Ystads IF Women v HK Drott Halmstad Women
-345,Handball,07-Jan 18:00,Sweden Elitserien (Womens),Boden Handboll IF Women v Skara HF Women
-346,Handball,07-Jan 18:00,Germany Bundesliga (W),SV Union Halle-Neustadt Women v Thuringer HC Women
-347,Handball,07-Jan 18:00,Denmark Handball League Women,Bjerringbro FH Women v SonderjyskE Women
-348,Handball,07-Jan 18:30,Germany Bundesliga (W),TuS Metzingen Women v Borussia Dortmund Women
-349,Handball,07-Jan 18:30,Sweden Allsvenskan (Women),Karra HF Women v OV Helsingborg HK Women
-350,Handball,07-Jan 18:30,France Division 1 (Women),Havre Women v Achenheim Truchtersheim Women
-351,Handball,07-Jan 18:30,Denmark 1. Division (W),Fredericia HK Women v Sondermarkens Women
-352,Handball,07-Jan 18:30,France Division 1 (Women),St Amand Women v Issy Paris Women
-353,Handball,07-Jan 18:30,Denmark Handball League Women,HOJ Women v Ikast Women
-354,Handball,07-Jan 18:30,Germany Bundesliga (W),Buxtehuder SV Women v HSG Blomberg-Lippe Women
-355,Handball,07-Jan 18:30,Germany Bundesliga (W),Buxtehuder SV Women v HSG Blomberg-Lippe Women
-356,Handball,07-Jan 19:00,France Division 1 (Women),Metz Women v Cercle Dijon Bourgogne Women
-357,Handball,07-Jan 19:00,France Division 1 (Women),Chambray Women v ESBF Besançon Women
-358,Handball,07-Jan 19:00,France Division 1 (Women),OGC Nice Cote d'Azur Women v Sambre Avesnois Women
-359,Handball,07-Jan 19:00,France Division 1 (Women),Plan de Cuques Women v Brest Bretagne Handball Women
-360,Handball,07-Jan 19:00,Spain Division de Honor Women,Malaga Women v Zonzamas Cicar Lanzarote Women
-361,Handball,07-Jan 19:00,Denmark Handball League Women,Nykoping Falster Women v Kobenhavn Women
-362,HorseRacing,06-Jan 19:20,Philadelphia,{2026-01-06T19:20:00.0000000Z} 6f 110yds
-363,HorseRacing,06-Jan 19:30,Southwell,{2026-01-06T19:30:00.0000000Z} 0m 7f 14y
-364,HorseRacing,06-Jan 19:47,Philadelphia,{2026-01-06T19:47:00.0000000Z} 6f 110yds
-365,HorseRacing,06-Jan 20:00,Southwell,{2026-01-06T20:00:00.0000000Z} 0m 6f 16y
-366,HorseRacing,06-Jan 20:14,Philadelphia,{2026-01-06T20:14:00.0000000Z} 1m
-367,HorseRacing,06-Jan 20:30,Southwell,{2026-01-06T20:30:00.0000000Z} 0m 6f 16y
-368,HorseRacing,06-Jan 20:41,Philadelphia,{2026-01-06T20:41:00.0000000Z} 6f 110yds
-369,HorseRacing,06-Jan 21:08,Philadelphia,{2026-01-06T21:08:00.0000000Z} 6f
-370,HorseRacing,07-Jan 03:20,Warwick Farm,{2026-01-07T03:20:00.0000000Z} 0m 6f 211y
-371,HorseRacing,07-Jan 03:35,Eagle Farm,{2026-01-07T03:35:00.0000000Z} 0m 4f 213y
-372,HorseRacing,07-Jan 03:55,Warwick Farm,{2026-01-07T03:55:00.0000000Z} 0m 5f 212y
-373,HorseRacing,07-Jan 04:10,Eagle Farm,{2026-01-07T04:10:00.0000000Z} 0m 5f 212y
-374,HorseRacing,07-Jan 04:30,Warwick Farm,{2026-01-07T04:30:00.0000000Z} 0m 5f 212y
-375,HorseRacing,07-Jan 04:47,Eagle Farm,{2026-01-07T04:47:00.0000000Z} 0m 6f 211y
-376,HorseRacing,07-Jan 05:05,Warwick Farm,{2026-01-07T05:05:00.0000000Z} 0m 4f 213y
-377,HorseRacing,07-Jan 05:20,Eagle Farm,{2026-01-07T05:20:00.0000000Z} 0m 7f 209y
-378,HorseRacing,07-Jan 05:40,Warwick Farm,{2026-01-07T05:40:00.0000000Z} 0m 7f 209y
-379,HorseRacing,07-Jan 05:55,Eagle Farm,{2026-01-07T05:55:00.0000000Z} 0m 7f 209y
-380,HorseRacing,07-Jan 06:07,Devonport,{2026-01-07T06:07:00.0000000Z} 1m 1f 75y
-381,HorseRacing,07-Jan 06:15,Warwick Farm,{2026-01-07T06:15:00.0000000Z} 0m 7f 209y
-382,HorseRacing,07-Jan 06:32,Eagle Farm,{2026-01-07T06:32:00.0000000Z} 0m 4f 213y
-383,HorseRacing,07-Jan 06:50,Warwick Farm,{2026-01-07T06:50:00.0000000Z} 0m 6f 211y
-384,HorseRacing,07-Jan 07:10,Eagle Farm,{2026-01-07T07:10:00.0000000Z} 0m 5f 212y
-385,HorseRacing,07-Jan 07:45,Eagle Farm,{2026-01-07T07:45:00.0000000Z} 0m 5f 212y
-386,HorseRacing,07-Jan 12:35,Lingfield,{2026-01-07T12:35:00.0000000Z} 1m 7f 169y
-387,HorseRacing,07-Jan 13:05,Lingfield,{2026-01-07T13:05:00.0000000Z} 0m 6f 1y
-388,HorseRacing,07-Jan 13:35,Lingfield,{2026-01-07T13:35:00.0000000Z} 0m 5f 6y
-389,HorseRacing,07-Jan 14:05,Lingfield,{2026-01-07T14:05:00.0000000Z} 1m 0f 1y
-390,HorseRacing,07-Jan 14:35,Lingfield,{2026-01-07T14:35:00.0000000Z} 0m 7f 1y
-391,HorseRacing,07-Jan 15:05,Lingfield,{2026-01-07T15:05:00.0000000Z} 0m 7f 1y
-392,HorseRacing,07-Jan 15:35,Lingfield,{2026-01-07T15:35:00.0000000Z} 0m 6f 1y
-393,HorseRacing,07-Jan 15:35,Lingfield,{2026-01-07T15:35:00.0000000Z} 0m 6f 1y
-394,HorseRacing,07-Jan 17:00,Kempton,{2026-01-07T17:00:00.0000000Z} 0m 6f 0y
-395,HorseRacing,07-Jan 17:30,Kempton,{2026-01-07T17:30:00.0000000Z} 0m 7f 0y
-396,HorseRacing,07-Jan 18:00,Kempton,{2026-01-07T18:00:00.0000000Z} 0m 7f 0y
-397,HorseRacing,07-Jan 18:30,Kempton,{2026-01-07T18:30:00.0000000Z} 0m 7f 0y
-398,HorseRacing,07-Jan 19:00,Kempton,{2026-01-07T19:00:00.0000000Z} 1m 0f 0y
-399,IceHockey,07-Jan 00:00,PWHL,Toronto Sceptres Women v New York Sirens Women
-400,IceHockey,07-Jan 00:05,US NHL,Dallas Stars @ Carolina Hurricanes
-401,IceHockey,07-Jan 00:05,US NHL,Colorado Avalanche @ Tampa Bay Lightning
-402,IceHockey,07-Jan 00:05,US NHL,Vancouver Canucks @ Buffalo Sabres
-403,IceHockey,07-Jan 00:05,US NHL,Anaheim Ducks @ Philadelphia Flyers
-404,IceHockey,07-Jan 00:35,US NHL,New Jersey Devils @ New York Islanders
-405,IceHockey,07-Jan 00:35,US NHL,Florida Panthers @ Toronto Maple Leafs
-406,IceHockey,07-Jan 01:00,AHL,Manitoba Moose @ Rockford IceHogs
-407,IceHockey,07-Jan 01:05,US NHL,Vegas Golden Knights @ Winnipeg Jets
-408,IceHockey,07-Jan 02:05,US NHL,Nashville Predators @ Edmonton Oilers
-409,IceHockey,07-Jan 03:00,AHL,Bakersfield Condors @ Abbotsford Canucks
-410,IceHockey,07-Jan 03:00,Canada WHL,Prince George Cougars v Penticton Vees
-411,IceHockey,07-Jan 03:05,US NHL,Boston Bruins @ Seattle Kraken
-412,IceHockey,07-Jan 03:05,US NHL,Columbus Blue Jackets @ San Jose Sharks
-413,IceHockey,07-Jan 10:30,IIHF World Championship U20 Div II,South Korea U20 v China U20
-414,IceHockey,07-Jan 12:00,Kazakhstan Championship,HC Nomad v HC Aktobe
-415,IceHockey,07-Jan 12:00,Kazakhstan Championship,HC Arlan v Gornyak Rudnyi
-416,IceHockey,07-Jan 12:00,Kazakhstan Championship,Kazzinc Torpedo v HC Beybarys
-417,IceHockey,07-Jan 12:00,Kazakhstan Championship,Saryarka Karagandy v Yertis Pavlodar
-418,IceHockey,07-Jan 14:00,IIHF World Championship U20 Div II,Croatia U20 v Great Britain U20
-419,IceHockey,07-Jan 16:00,Czechia 1. Liga,Pirati Chomutov v Slavia Prague
-420,IceHockey,07-Jan 16:00,Czechia Extraliga,HC Ocelari Trinec v HC Energie Karlovy Vary
-421,IceHockey,07-Jan 16:00,Czechia 1. Liga,HC Frydek-Mistek v SC Kolin
-422,IceHockey,07-Jan 16:30,Czechia 1. Liga,VHK Vsetin v Pardubice B
-423,IceHockey,07-Jan 16:30,Czechia 1. Liga,PSG Zlin v SK Horacka Slavia Trebic
-424,IceHockey,07-Jan 16:30,Czechia 1. Liga,HC Zubr Prerov v Dukla Jihlava
-425,IceHockey,07-Jan 16:30,Finland SM-Liiga,Lukko v SaiPa
-426,IceHockey,07-Jan 16:30,Finland SM-Liiga,HIFK v KalPa
-427,IceHockey,07-Jan 16:30,Finland SM-Liiga,Ilves v Vaasan Sport
-428,IceHockey,07-Jan 16:30,Finland Mestis,Kiekko-Vantaa v IPK
-429,IceHockey,07-Jan 16:30,Finland SM-Liiga,Assat v Oulun Karpat
-430,IceHockey,07-Jan 16:30,Finland SM-Liiga,Ilves v Vaasan Sport
-431,IceHockey,07-Jan 16:30,Finland SM-Liiga,Assat v Oulun Karpat
-432,IceHockey,07-Jan 17:00,Czechia 2. Liga,HK Novy Jicin v Valasske Mezirici
-433,IceHockey,07-Jan 17:00,Czechia 2. Liga,Draci Pars Sumperk v HC Slezan Opava
-434,IceHockey,07-Jan 17:00,Czechia 2. Liga,LHK Jestrabi Prostejov v SHK Hodonin
-435,IceHockey,07-Jan 17:00,Czechia 2. Liga,HC Orli Znojmo v Koprivinice
-436,IceHockey,07-Jan 17:00,Czechia 2. Liga,Zdar nad Sazavou v HK Kromeriz
-437,IceHockey,07-Jan 17:00,Czechia 2. Liga,BK Havlickuv Brod v Technika Hockey Brno
-438,IceHockey,07-Jan 17:00,Czechia 2. Liga,Pisek v Kadan
-439,IceHockey,07-Jan 17:00,Czechia 2. Liga,HC Benatky nad Jizerou v Milevsko
-440,IceHockey,07-Jan 17:00,Czechia 2. Liga,HC Vrchlabi v Kralupy
-441,IceHockey,07-Jan 17:00,Czechia 2. Liga,Cheb v HC Kobra Praha
-442,IceHockey,07-Jan 17:00,Czechia 2. Liga,Uhersky Brod v Technika Hockey Brno
-443,IceHockey,07-Jan 17:00,Czechia 2. Liga,BK Havlickuv Brod v HC Decin
-444,IceHockey,07-Jan 17:00,Czechia 1. Liga,HC RT Torax Poruba v HC Banik Sokolov
-445,IceHockey,07-Jan 17:00,Czechia 2. Liga,HC Wikov Hronov v Hokej Usti nad Labem
-446,IceHockey,07-Jan 17:00,Czechia 1. Liga,HC Tabor v HC Stadion Litomerice
-447,IceHockey,07-Jan 17:00,Latvia LHL,HC Panter v HK Prizma
-448,IceHockey,07-Jan 17:00,Latvia LHL,Zemgale/JLSS v Kyiv Capitals
-449,IceHockey,07-Jan 17:15,Latvia LHL,Mogo Riga v HS Riga
-450,IceHockey,07-Jan 17:30,Czechia 2. Liga,Pribram v Mostecti Lvi
-451,IceHockey,07-Jan 17:30,IIHF World Championship U20 Div II,Romania U20 v Spain U20
-452,IceHockey,07-Jan 17:30,Latvia LHL,Energija Elektrenai v HK Liepaja
-453,IceHockey,07-Jan 18:00,Danish Metal Ligaen,Herlev Eagles v Aalborg Pirates
-454,IceHockey,07-Jan 18:00,Norway 1st Division,Gruner v Ringerike
-455,IceHockey,07-Jan 18:00,Norway 1st Division,Ski Elite v Gjovik Hockey
-456,IceHockey,07-Jan 18:00,Sweden Allsvenskan,Nybro Vikings IF v Mora IK
-457,IceHockey,07-Jan 18:00,Norway 1st Division,Kongsvinger IL v Manglerud Star
-458,IceHockey,07-Jan 18:00,Sweden Allsvenskan,BIK Karlskoga v IK Oskarshamn
-459,IceHockey,07-Jan 18:00,Sweden Allsvenskan,Ostersund IK v AIK IF Stockholm
-460,IceHockey,07-Jan 18:00,Sweden Allsvenskan,VIK Vasteras HK v IF Troja/Ljungby
-461,IceHockey,07-Jan 18:00,Sweden Allsvenskan,VIK Vasteras HK v IF Troja/Ljungby
-462,IceHockey,07-Jan 18:00,Sweden Allsvenskan,Vimmerby HC v MODO Hockey
-463,IceHockey,07-Jan 18:00,Sweden Allsvenskan,Kalmar HC v Almtuna IS
-464,IceHockey,07-Jan 18:00,Sweden Hockeyettan,Enkopings SK HK v Wings HC Arlanda
-465,IceHockey,07-Jan 18:00,Sweden Allsvenskan,Sodertalje SK v IF Bjorkloven
-466,IceHockey,07-Jan 18:00,Sweden Hockeyettan,IF Vallentuna BK v Falu IF
-467,IceHockey,07-Jan 18:00,Sweden Hockeyettan,Surahammars IF v Lindlovens IF
-468,IceHockey,07-Jan 18:00,Sweden Hockeyettan,Hanvikens SK v HC Vita Hasten
-469,IceHockey,07-Jan 18:00,Sweden Hockeyettan,Vasby IK HK v Sollentuna HC
-470,IceHockey,07-Jan 18:00,Sweden Hockeyettan,Grastorps IK v Halmstad HF
-471,IceHockey,07-Jan 18:00,Sweden Hockeyettan,IF Sundsvall Hockey v Ornskoldsvik HF
-472,IceHockey,07-Jan 18:00,Sweden Hockeyettan,Tranas AIF v Boras HC
-473,IceHockey,07-Jan 18:00,Sweden Hockeyettan,Borlange HF v Hudiksvalls HC
-474,IceHockey,07-Jan 18:00,Sweden Hockeyettan,HC Dalen v Mjolby HC
-475,IceHockey,07-Jan 18:45,Switzerland NLA,Lausanne HC v HC Lugano
-476,Snooker,06-Jan 19:10,Championship League Snooker,Yuan Sijun v Antoni Kowalski
-477,Snooker,06-Jan 19:30,Championship League Snooker,Xiao Guodong v Joe O'Connor
-478,Snooker,07-Jan 10:00,German Masters Qualifiers,Jimmy Robertson v Artemijs Zizins
-479,Snooker,07-Jan 11:00,Championship League Snooker,Xiao Guodong v Chris Wakelin
-480,Snooker,07-Jan 11:00,Championship League Snooker,Si Jiahui v Antoni Kowalski
-481,Snooker,07-Jan 12:00,Championship League Snooker,Chris Wakelin v Gary Wilson
-482,Snooker,07-Jan 12:00,Championship League Snooker,Joe O'Connor v Yuan Sijun
-483,Snooker,07-Jan 13:00,Championship League Snooker,Xiao Guodong v Antoni Kowalski
-484,Snooker,07-Jan 13:00,Championship League Snooker,Si Jiahui v Gary Wilson
-485,Snooker,07-Jan 14:00,Championship League Snooker,Chris Wakelin v Joe O'Connor
-486,Snooker,07-Jan 14:30,German Masters Qualifiers,Ryan Day v Ben Mertens
-487,Snooker,07-Jan 16:30,Championship League Snooker,Gary Wilson v Yuan Sijun
-488,Snooker,07-Jan 16:30,Championship League Snooker,Si Jiahui v Joe O'Connor
-489,Snooker,07-Jan 19:00,German Masters Qualifiers,Noppon Saengkham v Sam Craigie
-490,Tennis,06-Jan 22:30,Auckland,Iva Jovic v Sara Bejlek
-491,Tennis,06-Jan 23:30,United Cup,Hubert Hurkacz v Tallon Griekspoor
-492,Tennis,06-Jan 23:30,Canberra 125k,En Shuo Liang v Daria Snigur
-493,Tennis,06-Jan 23:30,Canberra Challenger,Daniel Elahi Galan v Kyrian Jacquet
-494,Tennis,06-Jan 23:30,Canberra 125k,Simona Waltert v Darja Vidmanova
-495,Tennis,06-Jan 23:30,Canberra 125k,Ekaterine Gorgodze v Moyuka Uchijima
-496,Tennis,06-Jan 23:30,Canberra Challenger,Dusan Lajovic v Justin Engel
-497,Tennis,07-Jan 00:00,Noumea Challenger,Christian Langmo v Jurij Rodionov
-498,Tennis,07-Jan 00:00,Noumea Challenger,Michael Zheng v Dan Added
-499,Tennis,07-Jan 00:30,Auckland,Sinja Kraus v Francesca Jones
-500,Tennis,07-Jan 01:00,Brisbane,Alex Michelsen v Learner Tien
-501,Tennis,07-Jan 01:00,Brisbane,Anna Kalinskaya v Jessica Pegula
-502,Tennis,07-Jan 01:00,Brisbane,Leylah Annie Fernandez v Dayana Yastremska
-503,Tennis,07-Jan 01:30,Canberra 125k,Tamara Zidansek v Lanlana Tararudee
-504,Tennis,07-Jan 01:30,United Cup,Iga Swiatek v Suzan Lamens
-505,Tennis,07-Jan 01:30,Canberra 125k,Lola Radivojevic v Polina Kudermetova
-506,Tennis,07-Jan 01:30,Canberra Challenger,Roberto Carballes Baena v Alexander Blockx
-507,Tennis,07-Jan 01:30,Canberra 125k,Polina Iatcenko v Joanna Garland
-508,Tennis,07-Jan 01:30,Canberra Challenger,Marcelo Tomas Barrios-Vera v Ugo Blanchet
-509,Tennis,07-Jan 02:00,Noumea Challenger,Clement Tabur v Titouan Droguet
-510,Tennis,07-Jan 02:30,Brisbane,Emerson Jones v Ludmilla Samsonova
-511,Tennis,07-Jan 02:30,United Cup,Iga Swiatek v Hubert Hurkacz
-512,Tennis,07-Jan 03:00,Nonthaburi Challenger,Akira Santillan v Lorenzo Giustino
-513,Tennis,07-Jan 03:00,Brisbane,Clara Tauson v Aliaksandra Sasnovich
-514,Tennis,07-Jan 03:00,Brisbane,Daniil Medvedev v Frances Tiafoe
-515,Tennis,07-Jan 03:00,Nonthaburi Challenger,Tung-Lin Wu v Rio Noguchi
-516,Tennis,07-Jan 03:00,Nonthaburi Challenger,Kaichi Uchida v Marat Sharipov
-517,Tennis,07-Jan 03:30,Noumea Challenger,Blake Ellis v Andre Ilagan
-518,Tennis,07-Jan 03:30,Canberra Challenger,James McCabe v Jack Pinnington Jones
-519,Tennis,07-Jan 03:30,Canberra Challenger,Vit Kopriva v Lukas Klein
-520,Tennis,07-Jan 03:30,Canberra 125k,Yue Yuan v Tatiana Prozorova
-521,Tennis,07-Jan 03:30,Canberra 125k,Yue Yuan v Tatiana Prozorova
-522,Tennis,07-Jan 04:00,Noumea Challenger,Jordan Thompson v Nicolas Moreno De Alboran
-523,Tennis,07-Jan 04:30,Brisbane,Magdalena Frech v Linda Noskova
-524,Tennis,07-Jan 05:00,Brisbane,Jiri Lehecka v Sebastian Korda
-525,Tennis,07-Jan 05:00,Nonthaburi Challenger,Tibo Colson v Fajing Sun
-526,Tennis,07-Jan 05:00,Auckland,Xinyu Wang v Renata Zarazua
-527,Tennis,07-Jan 05:00,Nonthaburi Challenger,Yuta Shimizu v Marek Gengel
-528,Tennis,07-Jan 05:00,Nonthaburi Challenger,Tibo Colson v Hayato Matsuoka
-529,Tennis,07-Jan 05:00,Nonthaburi Challenger,Joel Schwaerzler v Florent Bax
-530,Tennis,07-Jan 05:30,Canberra Challenger,Jaime Faria v Rafael Jodar
-531,Tennis,07-Jan 05:30,Bengaluru Challenger,Dan Martin v Jonas Forejtek
-532,Tennis,07-Jan 05:30,Noumea Challenger,James Watt v Bernard Tomic
-533,Tennis,07-Jan 05:30,Hong Kong,Lorenzo Musetti v Tomas Martin Etcheverry
-534,Tennis,07-Jan 05:30,Bengaluru Challenger,Timofey Skatov v Mitsuki Wei Kang Leong
-535,Tennis,07-Jan 06:00,Canberra 125k,Mayar Sherif v Himeno Sakatsume
-536,Tennis,07-Jan 06:30,Brisbane,Mirra Andreeva v Olivia Gadecki
-537,Tennis,07-Jan 07:00,Nonthaburi Challenger,Robin Bertrand v Sergey Fomin
-538,Tennis,07-Jan 07:00,Auckland,Sofia Costoulas v Kaitlin Quevedo
-539,Tennis,07-Jan 07:00,Nonthaburi Challenger,Zdenek Kolar v Kasidit Samrej
-540,Tennis,07-Jan 07:00,Bengaluru Challenger,Borna Gojo v Cedrik-Marcel Stebe
-541,Tennis,07-Jan 07:30,Hong Kong,Marin Cilic v Nuno Borges
-542,Tennis,07-Jan 07:30,Hong Kong,Chak Lam Coleman Wong v Gabriel Diallo
-543,Tennis,07-Jan 07:30,Canberra Challenger,Sho Shimabukuro v Chris Rodesch
-544,Tennis,07-Jan 07:30,Bengaluru Challenger,Felix Balshaw v Dhakshineswar Suresh
-545,Tennis,07-Jan 07:30,Bengaluru Challenger,Matteo Martineau v Eric Vanshelboim
-546,Tennis,07-Jan 07:30,Noumea Challenger,Arthur Gea v Facundo Diaz Acosta
-547,Tennis,07-Jan 08:00,Brisbane,Marta Kostyuk v Yulia Putintseva
-548,Tennis,07-Jan 08:00,Brisbane,Kamil Majchrzak v Reilly Opelka
-549,Tennis,07-Jan 08:30,Bengaluru Challenger,Pedro Martinez Portero v Michael Geerts
-550,Tennis,07-Jan 08:30,Brisbane,Kimberly Birrell v Amanda Anisimova
-551,Tennis,07-Jan 09:00,Noumea Challenger,Moerani Bouzige v Liam Draxl
-552,Tennis,07-Jan 09:00,Noumea Challenger,Moerani Bouzige v Liam Draxl
-553,Tennis,07-Jan 09:30,Bengaluru Challenger,Beibit Zhukayev v Manas Dhamne
-554,Tennis,07-Jan 10:00,Hong Kong,Andrey Rublev v Yibing Wu
-555,Tennis,07-Jan 10:30,Nottingham Challenger,Johannus Monday v Giles Hussey
-556,Tennis,07-Jan 10:30,Bengaluru Challenger,Sumit Nagal v Harold Mayot
-557,Tennis,07-Jan 10:30,Nottingham Challenger,Christoph Negritu v Mikhail Kukushkin
-558,Tennis,07-Jan 10:30,Nottingham Challenger,Alexander Ritschard v Charles Broom
-559,Tennis,07-Jan 12:30,Nottingham Challenger,Stefan Kozlov v Mathys Erhard
-560,Tennis,07-Jan 12:30,Nottingham Challenger,Paul Jubb v Clement Chidekh
-561,Tennis,07-Jan 12:30,Nottingham Challenger,Cannon Kingsley v Alastair Gray
-562,Tennis,07-Jan 14:30,Nottingham Challenger,Liam Broady v Toby Samuel
-563,TennisDoubles,07-Jan 00:00,Auckland,"Yi-Fan Xu, Zhaoxuan Yang v Isabelle Haverlag, Maia Lumsden"
-564,TennisDoubles,07-Jan 01:05,Brisbane,"Manuel Guinard, Luke Johnson v Marcelo Demoliner, Giovanni Perricard"
-565,TennisDoubles,07-Jan 01:30,Auckland,"Shuko Aoyama, Magda Linette v Hanyu Guo, Kristina Mladenovic"
-566,TennisDoubles,07-Jan 02:30,Canberra 125k,"Eudice Chong, En Shuo Liang v Ena Shibahara, Vera Zvonareva"
-567,TennisDoubles,07-Jan 03:00,Brisbane,"Hugo Nys, Sem Verbeek v Valentin Vacherot, Raphael Collignon"
-568,TennisDoubles,07-Jan 03:30,Auckland,"Caty Mcnally, Janice Tjen v Makoto Ninomiya, Aldila Sutjiadi"
-569,TennisDoubles,07-Jan 04:00,Canberra 125k,"Alina Korneeva, Dominika Salkova v Mariia Kozyreva, Iryna Shymanovich"
-570,TennisDoubles,07-Jan 04:00,Brisbane,"Paula Badosa Gibert, Aryna Sabalenka v Cristina Bucsa, Ellen Perez"
-571,TennisDoubles,07-Jan 04:00,Canberra 125k,"Ekaterine Gorgodze, Camilla Rosatello v Momoko Kobori, Ayano Shimizu"
-572,TennisDoubles,07-Jan 05:00,Brisbane,"Ariel Behar, Joran Vliegen v Lucas Miedler, Francisco Cabral"
-573,TennisDoubles,07-Jan 05:30,Brisbane,"Su-Wei Hsieh, Jelena Ostapenko v Priscilla Hon, Karolina Muchova"
-574,TennisDoubles,07-Jan 05:30,Canberra 125k,"Quinn Gleason, Elena Pridankina v Hiroko Kuwata, Alexandra Osborne"
-575,TennisDoubles,07-Jan 05:35,Hong Kong,"Hendrik Jebens, Ray Ho v Alexander Erler, Robert Galloway"
-576,TennisDoubles,07-Jan 07:00,Brisbane,"Sebastian Korda, Brandon Nakashima v Evan King, John Peers"
-577,TennisDoubles,07-Jan 09:30,Hong Kong,"Tomislav Brkic, Damir Dzumhur v Robin Haase, Constantin Frantzen"
-578,TennisDoubles,07-Jan 10:05,Brisbane,"Sadio Doumbia, Fabien Reboul v Nick Kyrgios, Thanasi Kokkinakis"
-579,TennisDoubles,07-Jan 12:00,Hong Kong,"Miguel Angel Reyes-Varela, Gonzalo Escobar v Emilio Nava, Jesper De Jong"
-580,Volleyball,06-Jan 19:30,Switzerland NLA Women,NLZ Volleyball Academy Women v Sagres Neuchatel UC Women
-581,Volleyball,06-Jan 19:30,Champions League Men,SC Portugal Lisboa v Aluron Virtu Warta Zawiercie
-582,Volleyball,06-Jan 19:30,CEV Challenge Cup (M),KS Norwid Czestochowa v Merkur Maribor
-583,Volleyball,06-Jan 20:30,CEV Challenge Cup Women,Braga Women v Panathinaikos Athens Women
-584,Volleyball,06-Jan 21:30,Brazil Superliga Women,Batavo Mackenzie Women v Camponesa/Minas Women
-585,Volleyball,06-Jan 23:00,Brazil Superliga Women,Unilife Maringa v Fluminense FC Women
-586,Volleyball,07-Jan 00:00,Brazil Superliga Women,BRB/Brasilia Volei Women v Dentil Praia Women
-587,Volleyball,07-Jan 10:00,South Korea V League,Daejeon Samsung Bluefangs v KB Stars
-588,Volleyball,07-Jan 10:00,South Korea V League Women,Korea Expressway Women v Hyundai Hillstate Women
-589,Volleyball,07-Jan 14:00,Champions League Women,Zeren Spor Women v Dresdner SC Women
-590,Volleyball,07-Jan 16:00,CEV Challenge Cup (M),TFL Altekma v Sliedrecht Sport
-591,Volleyball,07-Jan 16:00,CEV Cup (M),Panathinaikos A.O. v Stade Poitevin Poitiers
-592,Volleyball,07-Jan 16:00,CEV Cup (M),CSU Brasov v Schonenwerd
-593,Volleyball,07-Jan 16:00,CEV Cup (M),Fenerbahce v Radnicki Kragujevac
-594,Volleyball,07-Jan 16:00,Romania Divizia A1,Unirea Dej v Steaua Bucuresti
-595,Volleyball,07-Jan 16:30,Finland Women's SM-Liiga,Nurmon Jymy Women v LP Vampula Huittinen Women
-596,Volleyball,07-Jan 16:30,Champions League Women,Maritsa Plovdiv Women v Levallois Women
-597,Volleyball,07-Jan 16:30,Finland Mestaruusliiga Men,Raision Loimu v Kokkolan Tiikerit
-598,Volleyball,07-Jan 16:30,Champions League Women,Eczacibasi Women v Saugella Team Monza Women
-599,Volleyball,07-Jan 16:30,CEV Challenge Cup (M),PAOK v Pafiakos Pafos
-600,Volleyball,07-Jan 17:00,CEV Cup (M),VK Jihostroj Ceske Budejovice v LPR Piacenza
-601,Volleyball,07-Jan 17:00,Champions League Women,LKS Commercecon Lodz Women v Imoco Volley Conegliano Women
-602,Volleyball,07-Jan 17:00,CEV Cup (M),Jastrzebski Wegiel v MAV Elore SC
-603,Volleyball,07-Jan 17:00,Champions League Men,Halkbank v Galatasaray
-604,Volleyball,07-Jan 17:00,CEV Cup (M),CEZ Karlovarsko v AONS Milon
-605,Volleyball,07-Jan 17:00,CEV Challenge Cup Women,KNRC Women v PVK Olymp Praha Women
-606,Volleyball,07-Jan 17:30,Denmark VolleyLiga (Men),Ikast KFUM v Nordenskov Ungdoms-og IF
-607,Volleyball,07-Jan 18:00,CEV Challenge Cup Women,GEN-I Volley Nova Gorica Women v CSM Lugoj Women
-608,Volleyball,07-Jan 18:00,CEV Cup (M),SK Aich/Dob v Akaa Volley
-609,Volleyball,07-Jan 18:00,CEV Cup (W),VfB Suhl LOTTO Thuringen Women v Voluntari Women
-610,Volleyball,07-Jan 18:00,CEV Cup (M),Volley Amriswil v Orion Doetinchem
-611,Volleyball,07-Jan 18:00,CEV Cup (M),SK Aich/Dob v Akaa Volley
-612,Volleyball,07-Jan 18:00,CEV Cup (M),Volley Amriswil v Orion Doetinchem
-613,Volleyball,07-Jan 18:00,CEV Challenge Cup (M),Lukoil Neftokhimik v Maccabi Tel Aviv
-614,Volleyball,07-Jan 18:30,CEV Challenge Cup (M),Volley Nafels v Volejbal Brno
-615,Volleyball,07-Jan 18:30,Switzerland NLA Women,SmAesch Pfeffingen Women v TSV Dudingen Women
-616,Volleyball,07-Jan 18:30,CEV Cup (M),OK Alpacem Kanal v Mok Mursa Osijek
-617,Volleyball,07-Jan 18:30,Champions League Men,Guaguas v Sir Safety Conad Perugia
-618,Volleyball,07-Jan 18:30,CEV Cup (M),Dynamo Apeldoorn v Olympiacos O.S. Piraeus
-619,Volleyball,07-Jan 19:00,Switzerland NLA Women,Vbc Cheseaux Women v VFM Franches-Montagnes Women
-620,Volleyball,07-Jan 19:00,Switzerland NLA Women,Chenois Geneva Women v Kanti Schaffhausen
-621,Volleyball,07-Jan 19:00,CEV Cup (M),VfB Friedrichshafen v Levski Ball
-622,Volleyball,07-Jan 19:00,Switzerland NLA Women,Toggenburg v Volley Lugano Women
-623,Volleyball,07-Jan 19:00,CEV Cup (W),Sagres Neuchatel UC Women v Asterix Avo Beveren Women
-624,Volleyball,07-Jan 19:00,Champions League Men,Ach Volley v Ziraat Bankasi Ankara
-625,Volleyball,07-Jan 19:00,CEV Cup (W),Vandoeuvre Nancy Women v Reale Mutua Fenera Chieri Women
-626,Volleyball,07-Jan 19:00,CEV Challenge Cup (M),Prima Donna Kaas Huizen v VKP Bratislava
-627,Volleyball,07-Jan 19:00,CEV Cup (W),Roeselare Women v Galatasaray Women
+Sport,Date,Competition,Description
+Baseball,07-Jan 03:30,Mexico LMP,Yaquis de Cd Obregon @ Aguilas de Mexicali
+Baseball,08-Jan 08:30,Australia ABL,Adelaide Giants @ Brisbane Bandits
+Baseball,08-Jan 11:00,Australia ABL,Sydney Blue Sox @ Perth Heat
+Basketball,07-Jan 17:00,Poland PBL,GTK Gliwice v Czarni Slupsk
+Basketball,07-Jan 17:00,Slovakia Extraliga,BK Levicki Patrioti v BC Prievidza
+Basketball,07-Jan 17:00,Slovakia Extraliga,Inter Bratislava v MBK Rieker Komarno
+Basketball,07-Jan 17:15,Bulgaria Cup,Academic Bultex 99 v BC Botev 2012
+Basketball,07-Jan 17:30,Bulgaria Cup,Levski v Minyor 2015
+Basketball,07-Jan 18:00,Czech Republic NBL,TJ Sokol Hradec Kralove v MMCITE Brno
+Basketball,07-Jan 18:00,Latvia - Estonian Basketball League,Latvijas Universitate v TTU Korvpalliklubi
+Basketball,07-Jan 18:00,Qatar Basketball League,Al-Rayyan v Al Khor
+Basketball,07-Jan 18:00,Norway BLNO,Centrum Tigers v Baerum Basket
+Basketball,07-Jan 18:00,France Women's LfB,Chartres Women v Charnay Basket Burgundy Women
+Basketball,07-Jan 18:00,France Women's LfB,Flames Carolo Women v Landerneau Women
+Basketball,07-Jan 18:00,Norway BLNO,Fyllingen v Gimle BBK
+Basketball,07-Jan 18:00,Slovenia Liga Telemach,KD Ilirija v KK Helios Suns
+Basketball,07-Jan 18:30,Switzerland LNA,Neuchatel v BBC Monthey
+Basketball,07-Jan 18:45,EuroCup (M),Hamburg Towers v BC Neptunas
+Basketball,07-Jan 19:00,Spain Cup,Asefa Estudiantes v Tizona Burgos
+Basketball,07-Jan 19:00,France Women's LfB,Lyon Women v UFAB Angers 49 Women
+Basketball,07-Jan 19:00,Spain Women's Liga Femenina,CAB Estepona Women v Gran Canaria Women
+Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Club Joventut Badalona Women v Cadí La Seu Women
+Basketball,07-Jan 19:00,Spain Cup,CB Moron v Baloncesto Fuenlabrada
+Basketball,07-Jan 19:00,Spain Women's Liga Femenina,CB Avenida Women v CB Estudiantes Women
+Basketball,07-Jan 19:00,EuroCup (M),Reyer Venezia Mestre v U BT Cluj Napoca
+Basketball,07-Jan 19:00,France Women's LfB,Basket Landes Women v Bourges Basket Women
+Basketball,07-Jan 19:00,Spain Women's Liga Femenina,RPK Araski Women v Hozono Global Jairis Women
+Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Lointek Gernika Bizkaia Women v Spar Citylift Girona Women
+Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Casademont Zaragoza Women v CD Ibaeta Women
+Basketball,07-Jan 19:00,France Women's LfB,Villeneuve D'Ascq Women v Montpellier Women
+Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Baloncesto Leganes Women v Ferrol Women
+Basketball,07-Jan 19:00,Spain Women's Liga Femenina,Porta XI Ensino Women v Valencia Basket Club Women
+Basketball,07-Jan 19:00,Poland BLK (W),SKK Polonia Warszawa Women v Artego Bydgoszcz Women
+Basketball,07-Jan 19:15,Iceland Premier League Women,Haukar Hafnarfjördur Women v Keflavik Women
+Basketball,07-Jan 19:15,Iceland Premier League Women,Tindastoll Women v Valur Women
+Basketball,07-Jan 19:15,Iceland Premier League Women,Haukar Hafnarfjördur Women v Keflavik Women
+Basketball,07-Jan 19:30,EuroCup (M),London Lions v BV Chemnitz 99
+Basketball,07-Jan 19:30,Euroleague,FC Bayern Munich Basketball v Cazoo Baskonia Vitoria Gasteiz
+Basketball,07-Jan 19:30,Spain Cup,LogroBasket v Ourense
+Basketball,07-Jan 19:30,Spain Cup,Palencia Baloncesto v Obradoiro CAB
+Basketball,07-Jan 19:45,France Women's LfB,Roche Vendee Women v Toulouse Women
+Basketball,07-Jan 22:00,NCAA,Furman Paladins @ Chattanooga Mocs
+Basketball,07-Jan 23:00,NCAA,Loyola Maryland Greyhounds @ Army Black Knights
+Basketball,07-Jan 23:00,NCAA,NC Greensboro Spartans @ Wofford Terriers
+Basketball,07-Jan 23:00,NCAA,Holy Cross Crusaders @ Lehigh Mountain Hawks
+Basketball,07-Jan 23:15,Uruguay Liga Capital,Hebraica Macabi v Bigua
+Basketball,07-Jan 23:15,Uruguay Liga Capital,Urunday v Defensor Sporting
+Basketball,07-Jan 23:15,Uruguay Liga Capital,Nacional v Club Atletico Goes
+Basketball,07-Jan 23:30,NCAA,Longwood Lancers @ UNC Asheville Bulldogs
+Basketball,07-Jan 23:30,NCAA,Charleston Southern Buccaneers @ Winthrop Eagles
+Basketball,07-Jan 23:30,NCAA,Indiana Hoosiers @ Maryland Terrapins
+Basketball,08-Jan 00:00,NCAA,The Citadel Bulldogs @ Mercer Bears
+Basketball,08-Jan 00:00,NCAA,George Mason Patriots @ Fordham Rams
+Basketball,08-Jan 00:00,NCAA,Marshall Thundering Herd @ James Madison Dukes
+Basketball,08-Jan 00:00,NCAA,Richmond Spiders @ St Bonaventure Bonnies
+Basketball,08-Jan 00:00,NCAA,East Carolina Pirates @ Temple Owls
+Basketball,08-Jan 00:00,NCAA,Gardner Webb Runnin' Bulldogs @ High Point Panthers
+Basketball,08-Jan 00:00,NCAA,Missouri Tigers @ Kentucky Wildcats
+Basketball,08-Jan 00:00,NCAA,Xavier Musketeers @ Marquette Golden Eagles
+Basketball,08-Jan 00:00,NCAA,Belmont Bruins @ Northern Iowa Panthers
+Basketball,08-Jan 00:00,NCAA,Western Carolina Catamounts @ Samford Bulldogs
+Basketball,08-Jan 00:00,NCAA,La Salle Explorers @ Rhode Island Rams
+Basketball,08-Jan 00:00,NCAA,Virginia Military Keydets @ East Tennessee State Buccaneers
+Basketball,08-Jan 00:00,NCAA,Saint Louis Billikens @ VCU Rams
+Basketball,08-Jan 00:00,NCAA,Missouri State Bears @ Kennesaw State Owls
+Basketball,08-Jan 00:00,NCAA,Virginia Military Keydets @ East Tennessee State Buccaneers
+Basketball,08-Jan 00:00,NCAA,Boston University Terriers @ Lafayette College Leopards
+Basketball,08-Jan 00:00,NCAA,Missouri State Bears @ Kennesaw State Owls
+Basketball,08-Jan 00:00,NCAA,Miami FL Hurricanes @ Wake Forest Demon Deacons
+Basketball,08-Jan 00:00,NCAA,Oklahoma Sooners @ Mississippi State Bulldogs
+Basketball,08-Jan 00:00,NCAA,Stanford Cardinal @ Virginia Tech Hokies
+Basketball,08-Jan 00:00,NCAA,Florida International Panthers @ Jacksonville St Gamecocks
+Basketball,08-Jan 00:00,NCAA,Bucknell Bison @ Navy Midshipmen
+Basketball,08-Jan 00:00,NCAA,The Citadel Bulldogs @ Mercer Bears
+Basketball,08-Jan 00:00,NCAA,Marshall Thundering Herd @ James Madison Dukes
+Basketball,08-Jan 00:00,NCAA,East Carolina Pirates @ Temple Owls
+Basketball,08-Jan 00:05,US NBA,Washington Wizards @ Philadelphia 76ers
+Basketball,08-Jan 00:05,US NBA,Chicago Bulls @ Detroit Pistons
+Basketball,08-Jan 00:05,US NBA,Toronto Raptors @ Charlotte Hornets
+Basketball,08-Jan 00:05,US NBA,Denver Nuggets @ Boston Celtics
+Basketball,08-Jan 00:10,Argentina LNB,Platense v Gimnasia y Esgrima (CR)
+Basketball,08-Jan 00:15,Uruguay Liga Capital,Malvin v Aguada
+Basketball,08-Jan 00:17,NCAA,Purdue Fort Wayne Mastodons @ Youngstown State Penguins
+Basketball,08-Jan 00:30,NCAA,Rice Owls @ Wichita State Shockers
+Basketball,08-Jan 00:30,NCAA,Florida Atlantic Owls @ UAB Blazers
+Basketball,08-Jan 00:30,NCAA,Creighton Bluejays @ Villanova Wildcats
+Basketball,08-Jan 00:35,US NBA,Orlando Magic @ Brooklyn Nets
+Basketball,08-Jan 00:35,US NBA,New Orleans Pelicans @ Atlanta Hawks
+Basketball,08-Jan 00:35,US NBA,Los Angeles Clippers @ New York Knicks
+Basketball,08-Jan 01:00,NCAA,Southern Illinois Salukis @ Illinois Chicago Flames
+Basketball,08-Jan 01:00,NCAA,Iowa State Cyclones @ Baylor Bears
+Basketball,08-Jan 01:00,NCAA,Illinois State Redbirds @ Valparaiso Beacons
+Basketball,08-Jan 01:00,NCAA,South Florida Bulls @ North Texas Mean Green
+Basketball,08-Jan 01:00,NCAA,Murray State Racers @ Evansville Purple Aces
+Basketball,08-Jan 01:00,NCAA,Charlotte 49ers @ UTSA Roadrunners
+Basketball,08-Jan 01:00,NCAA,Troy Trojans @ Arkansas State Red Wolves
+Basketball,08-Jan 01:00,NCAA,Troy Trojans @ Arkansas State Red Wolves
+Basketball,08-Jan 01:05,US NBA,Phoenix Suns @ Memphis Grizzlies
+Basketball,08-Jan 01:05,US NBA,Utah Jazz @ Oklahoma City Thunder
+Basketball,08-Jan 01:30,NCAA,Washington Huskies @ Purdue Boilermakers
+Basketball,08-Jan 02:00,NCAA,Arizona State Sun Devils @ BYU Cougars
+Basketball,08-Jan 02:00,NCAA,Kansas State Wildcats @ Arizona Wildcats
+Basketball,08-Jan 02:00,NCAA,Arkansas Razorbacks @ Ole Miss Rebels
+Basketball,08-Jan 02:00,NCAA,Alabama Crimson Tide @ Vanderbilt Commodores
+Basketball,08-Jan 02:00,NCAA,Drake University Bulldogs @ Bradley Braves
+Basketball,08-Jan 02:00,NCAA,SMU Mustangs @ Clemson Tigers
+Basketball,08-Jan 02:00,NCAA,Davidson Wildcats @ Loyola Chicago Ramblers
+Basketball,08-Jan 02:00,NCAA,Utah Utes @ Colorado Buffaloes
+Basketball,08-Jan 02:00,NCAA,California Golden Bears @ Virginia Cavaliers
+Basketball,08-Jan 02:00,NCAA,South Dakota Coyotes @ St. Thomas (MN) Tommies
+Basketball,08-Jan 02:35,US NBA,Los Angeles Lakers @ San Antonio Spurs
+Basketball,08-Jan 03:05,US NBA,Houston Rockets @ Portland Trail Blazers
+Basketball,08-Jan 03:05,US NBA,Milwaukee Bucks @ Golden State Warriors
+Basketball,08-Jan 04:00,NCAA,Grand Canyon Antelopes @ Boise State Broncos
+Basketball,08-Jan 08:35,Australia NBL,South East Melbourne Phoenix v Illawarra Hawks
+Basketball,08-Jan 10:00,South Korea KBL,Wonju Dongbu Promy v Suwon KT Sonicboom
+Basketball,08-Jan 11:35,China CBA,Shanxi Loongs v Tianjin Pioneers
+Basketball,08-Jan 11:35,China CBA,Guangzhou Long-Lions v Zhejiang Golden Bulls
+Basketball,08-Jan 11:35,China CBA,Jilin v Fujian Sturgeons
+Basketball,08-Jan 11:35,China CBA,Sichuan Blue Whales v Beijing Royal Fighters
+Basketball,08-Jan 15:00,Qatar Basketball League,Al Gharafa v Qatar Sports
+Basketball,08-Jan 15:50,Israel Ligat Haal,Hapoel Galil Elion v Hapoel Beer Sheva
+Basketball,08-Jan 16:00,Euroleague,BC Dubai v Fenerbahce
+Basketball,08-Jan 16:00,Lithuania NKL,Suduva Mantinga v Omega-Tauras
+Basketball,08-Jan 16:00,Lithuania NKL,Vytis VDU v KK Telsiai
+Basketball,08-Jan 16:00,Lithuania NKL,Zalgiris 2 v Kedainiu SC
+Basketball,08-Jan 16:00,Lithuania NKL,Klaipedos Neptunas v Mazeikiai
+Basketball,08-Jan 16:00,Lithuania NKL,Klaipedos Neptunas v Mazeikiai
+Basketball,08-Jan 16:00,Lithuania NKL,Silute v Ukmerges Stekas
+Basketball,08-Jan 16:30,FIBA Basketball Champions League,AS Karditsas v Spartak Subotica
+Basketball,08-Jan 17:00,Qatar Basketball League,Al Arabi v Al Ahli
+Basketball,08-Jan 17:00,Poland PBL,Asseco Prokom Gdynia v Twarde Pierniki Torun
+Basketball,08-Jan 17:00,Lithuania NKL,BC Olimpas Palanga v Alytaus Alytus
+Basketball,08-Jan 17:00,Poland PBL,MKS Start SA Lublin v MKS Dabrowa Gornicza
+Basketball,08-Jan 17:00,Lithuania NKL,Plunge Olimpas v Vilkaviskis
+Basketball,08-Jan 17:00,Lithuania NKL,Jurbarkas v Rytas 2
+Basketball,08-Jan 17:00,FIBA Basketball Champions League,Levice v Baskets Wurzburg
+Basketball,08-Jan 17:30,NCAA,Hofstra Pride @ Towson Tigers
+Basketball,08-Jan 17:30,FIBA Basketball Champions League,CEZ Nymburk v Academics Heidelberg
+Basketball,08-Jan 18:00,Denmark Basketligaen,Bakken Bears v Svendborg Rabbits
+Basketball,08-Jan 18:04,Sweden Ligan,Boras Basket v Sloga Uppsala
+Basketball,08-Jan 18:30,FIBA Basketball Champions League,ASP Promitheas v Elan Chalon
+Basketball,08-Jan 19:00,Germany BBL,Science City Jena v Rostock Seawolves
+Basketball,08-Jan 19:00,FIBA Basketball Champions League,Le Mans v Mersin BSB
+Basketball,08-Jan 19:00,FIBA Basketball Champions League,Cholet Basket v Tofas SK
+Basketball,08-Jan 19:00,FIBA Basketball Champions League,Pallacanestro Trieste v Szolnoki Olaj
+Basketball,08-Jan 19:15,Iceland Premier League,Keflavik v Tindastoll
+Basketball,08-Jan 19:15,Iceland Premier League,Valur v Stjarnan
+Basketball,08-Jan 19:15,Iceland Premier League,Alftanes v Thor
+Basketball,08-Jan 19:15,Iceland Premier League,KR v Armann
+Basketball,08-Jan 19:15,Iceland Premier League,IA Akranes v Grindavik
+Basketball,08-Jan 19:15,Iceland Premier League,IR Reykjavik v Njardvik
+Basketball,08-Jan 19:15,Euroleague,Panathinaikos BC v Virtus Bologna
+Basketball,08-Jan 19:15,Poland PBL,GTK Gliwice v Czarni Slupsk
+Basketball,08-Jan 19:30,FIBA Basketball Champions League,Pallacanestro Trapani v Hapoel Holon
+Basketball,08-Jan 19:30,Euroleague,Valencia BC v Monaco
+Basketball,08-Jan 19:45,Euroleague,Real Madrid v Maccabi Tel Aviv
+Cricket,07-Jan 17:00,ICCA Arabian Cricket League Phase 1,Alif Pharma v Dubai Dare Devils
+Cricket,07-Jan 17:00,Falcons Champions Trophy T20,Thunder Cats v Salmiya Strikers
+Cricket,07-Jan 23:00,WNCL,ACT Meteors v Victoria Women
+Cricket,08-Jan 01:10,New Zealand T20 Super Smash,Northern Brave v Canterbury Kings
+Cricket,08-Jan 03:30,Vijay Hazare Trophy,Delhi v Haryana
+Cricket,08-Jan 03:30,Vijay Hazare Trophy,Karnataka v Madhya Pradesh
+Cricket,08-Jan 03:30,S.S. Rajan Trophy,Chengalpattu v Theni District
+Cricket,08-Jan 03:30,Vijay Hazare Trophy,Odisha v Railways
+Cricket,08-Jan 03:30,Vijay Hazare Trophy,Baroda v Chandigarh
+Cricket,08-Jan 05:20,Women's Super Smash,Northern Brave (W) v Canterbury Magicians Women
+Cricket,08-Jan 06:00,WNCL,Western Australia Women v SA Scorpions
+Cricket,08-Jan 07:00,Bangladesh Premier League,Noakhali Express v Durbar Rajshahi
+Cricket,08-Jan 07:30,S.S. Rajan Trophy,Ranipet v Coimbatore District
+Cricket,08-Jan 08:15,Australia Twenty20 Big Bash,Melbourne Stars v Sydney Sixers
+Cricket,08-Jan 12:00,Bangladesh Premier League,Dhaka Capital v Sylhet Titans
+Cricket,08-Jan 13:00,ICCA Arabian Cricket League Phase 1,Seven Districts v DCC Starlets
+Cricket,08-Jan 15:30,SA20,Joburg Super Kings v Paarl Royals
+Cricket,08-Jan 16:30,Falcons Champions Trophy T20,Fakhr E Kashmir v Lexus
+Cricket,08-Jan 17:00,ICCA Arabian Cricket League Phase 1,ADCL v Dubai Wanderers
+Cricket,08-Jan 19:45,Falcons Champions Trophy T20,Thunder Cats v Farwaniya Blasters
+Darts,07-Jan 09:35,Modus Super Series,Steve West v Richie Howson
+Darts,07-Jan 10:05,Modus Super Series,Richie Howson v Michael Huntley
+Darts,07-Jan 10:35,Modus Super Series,Richie Howson v Richard Rowlands
+Darts,07-Jan 11:15,Modus Super Series,Robert Thornton v Richie Howson
+Darts,07-Jan 11:55,Modus Super Series,Richie Howson v Neil Duff
+Darts,08-Jan 13:05,Modus Super Series,Kevin Painter v Robert Thornton
+Darts,08-Jan 13:15,Modus Super Series,Martyn Turner v Johnny Haines
+Darts,08-Jan 13:25,Modus Super Series,Terry Jenkins v Michael Huntley
+Darts,08-Jan 13:35,Modus Super Series,Robert Thornton v Martyn Turner
+Darts,08-Jan 13:45,Modus Super Series,Michael Huntley v Kevin Painter
+Darts,08-Jan 13:55,Modus Super Series,Johnny Haines v Terry Jenkins
+Football,07-Jan 08:00,Kenya Women's Premier League,Kenya Police Bullets Women v Kisped Queens FC Women
+Football,07-Jan 08:30,Vietnam U19 National League Women,Ha Noi FC U19 Women v Ha Nam U19 Women
+Football,07-Jan 10:00,Club Friendly,Slaven Koprivnica v Primorje
+Football,07-Jan 11:00,Vietnam U19 National League Women,TP Ho Chi Minh U19 Women v Thai Nguyen U19 Women
+Football,07-Jan 12:00,Club Friendly,NK Vukovar '91 v Aresimi 1973
+Football,07-Jan 14:00,Italy Eccellenza,ASD Montespertoli v AC Sporting Cecina 1929
+Football,07-Jan 15:00,Nigeria Premier League,Wikki Tourists v Warri Wolves
+Football,07-Jan 15:00,Ghana FA Cup,Heart of Lions FC v Na God FC
+Football,07-Jan 15:00,Nigeria Premier League,Enugo Rangers v Rivers United
+Football,07-Jan 15:00,Nigeria Premier League,Abia Warriors v Plateau United FC
+Football,07-Jan 15:00,Nigeria Premier League,Katsina United v Kun Khalifa
+Football,07-Jan 15:00,Nigeria Premier League,Kwara United v Bendel Insurance FC
+Football,07-Jan 15:00,Nigeria Premier League,El Kanemi Wanderers v Bayelsa United
+Football,07-Jan 15:00,Nigeria Premier League,Nasarawa United v Kano Pillars FC
+Football,07-Jan 15:00,Nigeria Premier League,Remo Stars v Ikorodu City
+Football,07-Jan 15:00,Nigeria Premier League,Shooting Stars SC v Enyimba
+Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Nacional Fast Clube Manaus U20 v Juventude U20
+Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,AB Projeto Nordeste Canaa U20 v Criciuma EC U20
+Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Sao Luis U20 v Figueirense FC Florianopolis U20
+Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Operario PR U20 v Vila Nova FC Goiania U20
+Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Confianca PB U20 v Fortaleza U20
+Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Juventude Samas MA U20 v Nautico U20
+Football,07-Jan 18:15,Brazil Sao Paulo Youth Cup,Ivinhema U20 v Real SC RS U20
+Football,07-Jan 18:30,Malta Premier League,Floriana v Hamrun Spartans
+Football,07-Jan 18:30,Malta Premier League,Valletta v Birkirkara
+Football,07-Jan 19:00,Spain Tercera Division,CD Huetor Vega v Mijas Las Lagunas
+Football,07-Jan 19:00,Spain Supercup,Barcelona v Athletic Club Bilbao
+Football,07-Jan 19:00,Israel Liga Bet,Maccabi Beer Sheva v Ironi Beth SHemesh
+Football,07-Jan 19:00,England Premier League Cup,Blackburn U21 v Coventry U21
+Football,07-Jan 19:15,Brazil Sao Paulo Youth Cup,Quixada FC U20 v Cuiaba U20
+Football,07-Jan 19:30,England Premier League,Everton v Wolverhampton Wanderers
+Football,07-Jan 19:30,England Premier League,Everton v Wolverhampton Wanderers
+Football,07-Jan 19:30,England Premier League,Manchester City v Brighton and Hove Albion
+Football,07-Jan 19:30,England Premier League,Crystal Palace v Aston Villa
+Football,07-Jan 19:30,England Premier League,Bournemouth v Tottenham Hotspur
+Football,07-Jan 19:30,England Premier League,Brentford v Sunderland
+Football,07-Jan 19:30,England Premier League,Fulham v Chelsea
+Football,07-Jan 19:45,Italy Serie A,Parma FC v FC Internazionale
+Football,07-Jan 19:45,Italy Serie A,Torino v Udinese
+Football,07-Jan 19:45,England Southern Premier South,Havant & Waterlooville v Farnham Town
+Football,07-Jan 19:45,England Northern Premier League Division One Midlands,Corby Town v Shepshed Dynamo
+Football,07-Jan 19:45,Italy Serie A,Lazio v Fiorentina
+Football,07-Jan 19:45,England Southern League Division One South,Tavistock AFC v Larkhall Athletic
+Football,07-Jan 19:45,England Isthmian League Division One South Central,Kingstonian v Ascot Utd
+Football,07-Jan 20:00,Jamaica Premier League,Harbour View v Mount Pleasant FC
+Football,07-Jan 20:00,Portugal League Cup,Benfica v Braga
+Football,07-Jan 20:00,Jamaica Premier League,Treasure Beach v Dunbeholden FC
+Football,07-Jan 20:15,England Premier League,Burnley v Manchester United
+Football,07-Jan 20:15,England Premier League,Newcastle United v Leeds United
+Football,07-Jan 20:15,Brazil Sao Paulo Youth Cup,Real Soccer U20 v Maruinense U20
+Football,07-Jan 20:15,Brazil Sao Paulo Youth Cup,Sao Carlense U20 v Real Brasilia U20
+Football,07-Jan 21:45,Brazil Sao Paulo Youth Cup,Osasco Audax SP U20 v Uniao EC Mato Grosso U20
+Football,07-Jan 22:00,Trinidad and Tobago TT Premier Football League,La Horquetta Rangers FC v Eagles FC
+Football,07-Jan 22:00,Brazil Cearense 1,Horizonte v Quixada FC
+Football,07-Jan 22:00,Brazil Cearense 1,Tirol CE v Floresta EC
+Football,07-Jan 22:00,Brazil Catarinense 1 Division,Marcilio Dias v Criciuma
+Football,07-Jan 22:00,Brazil Paranaense,Londrina v Operario PR
+Football,07-Jan 22:15,Brazil Sao Paulo Youth Cup,Taubate U20 v Aguia de Maraba U20
+Football,07-Jan 22:30,Brazil Sao Paulo Youth Cup,Cacoalense U20 v Santos FC U20
+Football,07-Jan 23:00,Brazil Paranaense,Cianorte v Metropolitano Maringa
+Football,07-Jan 23:00,Club Friendly,Vitoria ES v Rio Branco ES
+Football,07-Jan 23:00,Brazil Catarinense 1 Division,Joinville Esporte Clube v Figueirense
+Football,07-Jan 23:00,Club Friendly,Vitoria ES v Rio Branco ES
+Football,07-Jan 23:30,Brazil Paranaense,Coritiba v Foz do Iguacu
+Football,08-Jan 00:00,Brazil Sao Paulo Youth Cup,QFC RN U20 v Clube Atletico Mineiro U20
+Football,08-Jan 00:00,Saudi Arabia Pro League,Al-Akhdoud (KSA) v Al Ahli Jeddah (KSA)
+Football,08-Jan 00:00,Trinidad and Tobago TT Premier Football League,Caledonia AIA v Defence Force FC
+Football,08-Jan 00:00,Saudi Arabia Pro League,Al-Riyadh v Al Feiha (KSA)
+Football,08-Jan 00:00,Saudi Arabia Pro League,Neom SC v Al-Fateh (KSA)
+Football,08-Jan 00:00,Brazil Sao Paulo Youth Cup,Quinho Futebol Clube U20 v Clube Atletico Mineiro U20
+Football,08-Jan 00:00,Brazil Sao Paulo Youth Cup,QFC U20 v Clube Atletico Mineiro U20
+Football,08-Jan 00:30,Brazil Sao Paulo Youth Cup,Estrela de Marco U20 v Botafogo FR U20
+Football,08-Jan 00:30,Brazil Catarinense 1 Division,Avai v Barra SC
+Football,08-Jan 01:00,Honduras Liga Nacional,CD Olimpia v CD Marathon
+Football,08-Jan 08:00,Liga Nusantara,Gresik United v Persekabpas Pasuruan
+Football,08-Jan 08:00,Liga Nusantara,Pekanbaru v Tri Brata Rafflesia FC
+Football,08-Jan 09:45,Club Friendly,Lausanne v Neuchatel Xamax
+Football,08-Jan 10:00,Ethiopia Premier League,Suhul Shire FC v Negele Arsi Ketema
+Football,08-Jan 11:00,Club Friendly,Muscelul Campulung v Unirea Slobozia
+Football,08-Jan 11:30,AFC U23 Championship,Australia U23 v Thailand U23
+Football,08-Jan 12:00,Liga Nusantara,Persikota Tangerang v Persitara
+Football,08-Jan 12:30,Egypt Cup,Haras El Hodood v Smouha Sporting Club
+Football,08-Jan 12:30,Egypt Second Division,Asyut Petroleum v Tanta
+Football,08-Jan 12:30,Egypt Second Division,Raya Ghazi v El Entag El Harby
+Football,08-Jan 12:30,Egypt Second Division,El Mansoura v Abu Qir Semad
+Football,08-Jan 12:30,Egypt Second Division,WE Telecom v Al Qanah
+Football,08-Jan 12:30,Egypt Second Division,La Viena v Masar
+Football,08-Jan 12:30,Egypt Second Division,Tersana v El Sekka El Hadid SC
+Football,08-Jan 13:00,U23 Pro League,Shabab Al Ahli U23 v Al Bataeh Club U23
+Football,08-Jan 13:00,Rwanda Premier League,Al Hilal (Sudan) v Etincelles FC
+Football,08-Jan 13:00,United Arab Emirates Premier,Dibba Al Fujairah v Khor Fakkan Club
+Football,08-Jan 13:00,Ethiopia Premier League,Welwalo Adigrat University v Adama City FC
+Football,08-Jan 13:00,United Arab Emirates Premier,Al Jazira SCC v Ajman
+Football,08-Jan 13:00,United Arab Emirates Premier,Al Jazira SCC v Ajman
+Football,08-Jan 13:00,Algeria Ligue 1,ES Ben Aknoun v Olympique Akbou
+Football,08-Jan 13:00,Algeria Ligue 1,MC El Bayadh v ES Mostaganem
+Football,08-Jan 13:00,Rwanda Premier League,Al Hilal (Sudan) v Etincelles FC
+Football,08-Jan 13:00,U23 Pro League,Al Wasl Dubai U23 v Al Ittihad Kalba U23
+Football,08-Jan 13:30,Club Friendly,Odra Opole v FK Velez Mostar
+Football,08-Jan 14:00,Uganda Premier League,Uganda Revenue Authority SC v Gaddafi FC
+Football,08-Jan 14:00,AFC U23 Championship,Iraq U23 v China U23
+Football,08-Jan 14:10,Oman Elite League,Oman Club v Bahla
+Football,08-Jan 14:30,Qatari Stars League,Al-Shahaniya v Al Duhail SC (QAT)
+Football,08-Jan 14:30,Club Friendly,Lausanne v Stade Nyonnais
+Football,08-Jan 14:55,Saudi Arabia Pro League,Al-Hilal (KSA) v Al Hazm Rass
+Football,08-Jan 15:00,Cyprus Cup,Olympiakos Nicosia v Omonia Aradippou
+Football,08-Jan 15:00,Israel Ligat Al Women,Hapoel Ra'anana Women v Ramat Hasharon Women
+Football,08-Jan 15:00,Club Friendly,Preussen Munster v Oud-Heverlee Leuven
+Football,08-Jan 15:05,Israel Ligat Al Women,Maccabi Panthers Ashdod Women v Maccabi Tel Aviv FC Women
+Football,08-Jan 15:10,Israel Ligat Al Women,Kiryat Gat Women v Hapoel Katamon Jerusalem Women
+Football,08-Jan 15:15,Israel Ligat Al Women,Maccabi Kishronot Hadera Women v Maccabi Holon FC Women
+Football,08-Jan 15:45,United Arab Emirates Premier,Al Dhafra v Al Ain (UAE)
+Football,08-Jan 16:00,Bahrain Premier League,Al-Shabbab Manama v Al Hidd
+Football,08-Jan 16:00,Bahrain Premier League,Al Ahli Manama v Al-Budaiya
+Football,08-Jan 16:00,Brazil Sao Paulo Youth Cup,Ponte Preta U20 v Associacao Esportiva Real U20
+Football,08-Jan 16:30,Senegal Ligue 1,ASC Jaraaf v AS Generation Foot
+Football,08-Jan 16:30,Rwanda Premier League,Al Merreikh v Police FC Rwanda
+Football,08-Jan 16:30,Qatari Stars League,Qatar SC v Al Sadd (QAT)
+Football,08-Jan 16:45,Algeria Ligue 1,ES Setif v AC Paradou
+Football,08-Jan 17:00,Uganda Premier League,Express FC v SC Villa
+Football,08-Jan 17:00,Israel Liga Bet,SC Hapoel Yeruham v Maccabi Shaarayim
+Football,08-Jan 17:00,Israel Liga Bet,Beitar Kfar Saba Shlomi v Beitar Petah Tikva
+Football,08-Jan 17:30,Saudi Arabia Pro League,Al Nasr (KSA) v Al-Quadisiya (KSA)
+Football,08-Jan 17:30,Italy Serie A,Cremonese v Cagliari
+Football,08-Jan 17:30,Italy Serie A,Cremonese v Cagliari
+Football,08-Jan 17:30,Malta Premier League,Mosta FC v Tarxien Rainbows
+Football,08-Jan 17:30,Saudi Arabia Pro League,Al-Najma (KSA) v Al Ittifaq Dammam (KSA)
+Football,08-Jan 17:45,Israel Liga Bet,Hapoel Bnei Ashdod v Maccabi Ironi Netivot FC
+Football,08-Jan 18:00,France Super Cup,Paris Saint Germain v Marseille
+Football,08-Jan 18:15,Brazil Sao Paulo Youth Cup,EC Meia Noite U20 v Coritiba U20
+Football,08-Jan 19:00,Algeria Ligue 1,USM Alger v MC Oran
+Football,08-Jan 19:00,Spain Supercup,Atletico Madrid v Real Madrid
+Football,08-Jan 19:00,Israel Liga Bet,Hapoel Mahane Yehuda v Hakoah Ramat Gan
+Football,08-Jan 19:00,Iceland Reykjavik Cup,Throttur Reykjavik v Valur Reykjavik
+Football,08-Jan 19:30,Brazil Sao Paulo Youth Cup,Brasiliense U20 v Fluminense FC U20
+Football,08-Jan 19:45,Iceland Reykjavik Cup,IR Reykjavik v Fjolnir
+Football,08-Jan 19:45,Italy Serie A,AC Milan v Genoa
+Football,08-Jan 20:00,England Premier League,Arsenal v Liverpool
+Football,08-Jan 20:00,Malta Premier League,Zabbar St Patrick v Naxxar Lions
+GreyhoundRacing,07-Jan 20:01,Romford,{2026-01-07T20:01:00.0000000Z} @ Romford
+GreyhoundRacing,07-Jan 20:13,Yarmouth,{2026-01-07T20:13:00.0000000Z} @ Yarmouth
+GreyhoundRacing,07-Jan 20:16,Harlow,{2026-01-07T20:16:00.0000000Z} @ Harlow
+GreyhoundRacing,07-Jan 20:19,Romford,{2026-01-07T20:19:00.0000000Z} @ Romford
+GreyhoundRacing,07-Jan 20:31,Yarmouth,{2026-01-07T20:31:00.0000000Z} @ Yarmouth
+GreyhoundRacing,07-Jan 20:34,Harlow,{2026-01-07T20:34:00.0000000Z} @ Harlow
+GreyhoundRacing,07-Jan 20:36,Romford,{2026-01-07T20:36:00.0000000Z} @ Romford
+GreyhoundRacing,07-Jan 20:47,Yarmouth,{2026-01-07T20:47:00.0000000Z} @ Yarmouth
+GreyhoundRacing,07-Jan 20:52,Harlow,{2026-01-07T20:52:00.0000000Z} @ Harlow
+GreyhoundRacing,07-Jan 20:54,Romford,{2026-01-07T20:54:00.0000000Z} @ Romford
+GreyhoundRacing,07-Jan 21:04,Yarmouth,{2026-01-07T21:04:00.0000000Z} @ Yarmouth
+GreyhoundRacing,07-Jan 21:11,Romford,{2026-01-07T21:11:00.0000000Z} @ Romford
+GreyhoundRacing,07-Jan 21:23,Yarmouth,{2026-01-07T21:23:00.0000000Z} @ Yarmouth
+GreyhoundRacing,07-Jan 21:28,Romford,{2026-01-07T21:28:00.0000000Z} @ Romford
+GreyhoundRacing,07-Jan 21:46,Romford,{2026-01-07T21:46:00.0000000Z} @ Romford
+Handball,07-Jan 12:00,Romania Liga Nationala Women,Danubius Galati Women v ASC Corona 2010 Brasov Women
+Handball,07-Jan 14:00,Poland Ekstraklasa,Chrobry Glogow v MKS Kalisz
+Handball,07-Jan 14:00,Poland Ekstraklasa,Kielce Vive v Piotrkowianin Piotrkow Tryb
+Handball,07-Jan 14:00,Poland Ekstraklasa,Legionowo v Gwardia Opole
+Handball,07-Jan 14:00,Poland Ekstraklasa,Wisla Plock v Zaglebie Lubin
+Handball,07-Jan 14:00,Poland Ekstraklasa,Stal Mielec v Wybrzeze Gdansk
+Handball,07-Jan 14:00,Poland Ekstraklasa,Ostrow Wielkopolski v Kwidzyn
+Handball,07-Jan 17:00,Poland Ekstraklasa Women,Metraco Zaglebie Lubin Women v HC Galytchanka Lviv Women
+Handball,07-Jan 18:00,Sweden Allsvenskan (Women),Ystads IF Women v HK Drott Halmstad Women
+Handball,07-Jan 18:00,Sweden Elitserien (Womens),Vasterasirsta Women v IF Hallby HK Women
+Handball,07-Jan 18:00,Sweden Elitserien (Womens),Kungalvs HK Women v Kristianstad HK Women
+Handball,07-Jan 18:00,Germany Bundesliga (W),Ludwigsburg Women v Frisch Auf Goppingen Women
+Handball,07-Jan 18:30,Germany Bundesliga (W),TuS Metzingen Women v Borussia Dortmund Women
+Handball,07-Jan 18:30,Sweden Allsvenskan (Women),Karra HF Women v OV Helsingborg HK Women
+Handball,07-Jan 18:30,France Division 1 (Women),Havre Women v Achenheim Truchtersheim Women
+Handball,07-Jan 18:30,Denmark 1. Division (W),Fredericia HK Women v Sondermarkens Women
+Handball,07-Jan 18:30,France Division 1 (Women),St Amand Women v Issy Paris Women
+Handball,07-Jan 18:30,Denmark Handball League Women,HOJ Women v Ikast Women
+Handball,07-Jan 18:30,Germany Bundesliga (W),Buxtehuder SV Women v HSG Blomberg-Lippe Women
+Handball,07-Jan 19:00,France Division 1 (Women),Metz Women v Cercle Dijon Bourgogne Women
+Handball,07-Jan 19:00,Spain Division de Honor Women,Malaga Women v Zonzamas Cicar Lanzarote Women
+Handball,07-Jan 19:00,France Division 1 (Women),OGC Nice Cote d'Azur Women v Sambre Avesnois Women
+Handball,07-Jan 19:00,France Division 1 (Women),Chambray Women v ESBF Besançon Women
+Handball,07-Jan 19:00,France Division 1 (Women),Plan de Cuques Women v Brest Bretagne Handball Women
+Handball,07-Jan 19:00,Denmark Handball League Women,Nykoping Falster Women v Kobenhavn Women
+Handball,07-Jan 19:30,France Division 1 (Women),Stella Saint-Maur Women v Toulon Saint-Cyr Var Women
+Handball,07-Jan 19:30,Poland Ekstraklasa Women,MKS Urbis Gniezno Women v MKS Lublin Women
+Handball,08-Jan 17:00,Golden League (M),Norway v Denmark
+Handball,08-Jan 18:00,Sweden Elitserien (Womens),Skovde HF Women v Hoors HK H 65 Women
+Handball,08-Jan 18:00,Denmark Handball League Women,Horsens Women v Ringkobing Handbold Women
+Handball,08-Jan 19:45,Golden League (M),Netherlands v Greece
+Handball,08-Jan 19:45,Golden League (M),Netherlands v Greece
+HorseRacing,07-Jan 20:00,Kempton,{2026-01-07T20:00:00.0000000Z} 1m 2f 219y
+HorseRacing,07-Jan 20:00,Valparaiso,{2026-01-07T20:00:00.0000000Z} 5f 103yds
+HorseRacing,07-Jan 20:14,Philadelphia,{2026-01-07T20:14:00.0000000Z} 6f 110yds
+HorseRacing,07-Jan 20:41,Philadelphia,{2026-01-07T20:41:00.0000000Z} 6f 110yds
+HorseRacing,07-Jan 21:08,Philadelphia,{2026-01-07T21:08:00.0000000Z} 1m 70yds
+HorseRacing,08-Jan 02:35,Rockhampton,{2026-01-08T02:35:00.0000000Z} 0m 7f 209y
+HorseRacing,08-Jan 03:10,Rockhampton,{2026-01-08T03:10:00.0000000Z} 0m 5f 48y
+HorseRacing,08-Jan 03:45,Rockhampton,{2026-01-08T03:45:00.0000000Z} 0m 5f 48y
+HorseRacing,08-Jan 04:25,Rockhampton,{2026-01-08T04:25:00.0000000Z} 0m 6f 101y
+HorseRacing,08-Jan 05:05,Rockhampton,{2026-01-08T05:05:00.0000000Z} 0m 5f 102y
+HorseRacing,08-Jan 05:40,Rockhampton,{2026-01-08T05:40:00.0000000Z} 0m 7f 209y
+HorseRacing,08-Jan 06:15,Rockhampton,{2026-01-08T06:15:00.0000000Z} 0m 5f 212y
+HorseRacing,08-Jan 06:55,Rockhampton,{2026-01-08T06:55:00.0000000Z} 0m 5f 212y
+HorseRacing,08-Jan 07:34,Rockhampton,{2026-01-08T07:34:00.0000000Z} 0m 6f 211y
+HorseRacing,08-Jan 12:20,Clonmel,{2026-01-08T12:20:00.0000000Z} 2m
+HorseRacing,08-Jan 12:40,Ffos Las,{2026-01-08T12:40:00.0000000Z} 1m 7f 182y
+HorseRacing,08-Jan 12:50,Clonmel,{2026-01-08T12:50:00.0000000Z} 2m 4f 63yds
+HorseRacing,08-Jan 13:00,Taunton,{2026-01-08T13:00:00.0000000Z} 2m 3f 1y
+HorseRacing,08-Jan 13:10,Ffos Las,{2026-01-08T13:10:00.0000000Z} 2m 4f 0y
+HorseRacing,08-Jan 13:20,Clonmel,{2026-01-08T13:20:00.0000000Z} 2m 202yds
+HorseRacing,08-Jan 13:30,Taunton,{2026-01-08T13:30:00.0000000Z} 2m 0f 104y
+HorseRacing,08-Jan 13:40,Ffos Las,{2026-01-08T13:40:00.0000000Z} 2m 3f 83y
+HorseRacing,08-Jan 13:50,Clonmel,{2026-01-08T13:50:00.0000000Z} 2m 202yds
+HorseRacing,08-Jan 14:00,Taunton,{2026-01-08T14:00:00.0000000Z} 2m 0f 104y
+HorseRacing,08-Jan 14:10,Ffos Las,{2026-01-08T14:10:00.0000000Z} 2m 4f 0y
+HorseRacing,08-Jan 14:20,Clonmel,{2026-01-08T14:20:00.0000000Z} 2m 202yds
+HorseRacing,08-Jan 14:30,Taunton,{2026-01-08T14:30:00.0000000Z} 2m 0f 12y
+HorseRacing,08-Jan 14:40,Ffos Las,{2026-01-08T14:40:00.0000000Z} 2m 7f 177y
+HorseRacing,08-Jan 14:50,Clonmel,{2026-01-08T14:50:00.0000000Z} 2m 202yds
+HorseRacing,08-Jan 15:00,Taunton,{2026-01-08T15:00:00.0000000Z} 2m 3f 1y
+HorseRacing,08-Jan 15:10,Ffos Las,{2026-01-08T15:10:00.0000000Z} 2m 5f 192y
+HorseRacing,08-Jan 15:10,Ffos Las,{2026-01-08T15:10:00.0000000Z} 2m 5f 192y
+HorseRacing,08-Jan 15:20,Clonmel,{2026-01-08T15:20:00.0000000Z} 2m 3f 219yds
+HorseRacing,08-Jan 15:30,Taunton,{2026-01-08T15:30:00.0000000Z} 2m 5f 150y
+HorseRacing,08-Jan 15:40,Ffos Las,{2026-01-08T15:40:00.0000000Z} 1m 7f 182y
+HorseRacing,08-Jan 16:00,Taunton,{2026-01-08T16:00:00.0000000Z} 2m 0f 104y
+HorseRacing,08-Jan 17:30,Chelmsford City,{2026-01-08T17:30:00.0000000Z} 0m 6f 0y
+HorseRacing,08-Jan 18:00,Chelmsford City,{2026-01-08T18:00:00.0000000Z} 0m 6f 0y
+HorseRacing,08-Jan 18:30,Chelmsford City,{2026-01-08T18:30:00.0000000Z} 0m 6f 0y
+HorseRacing,08-Jan 19:00,Chelmsford City,{2026-01-08T19:00:00.0000000Z} 1m 5f 66y
+HorseRacing,08-Jan 19:30,Chelmsford City,{2026-01-08T19:30:00.0000000Z} 0m 5f 0y
+HorseRacing,08-Jan 20:00,Chelmsford City,{2026-01-08T20:00:00.0000000Z} 1m 0f 0y
+IceHockey,07-Jan 01:00,AHL,Manitoba Moose @ Rockford IceHogs
+IceHockey,07-Jan 03:00,Canada WHL,Prince George Cougars v Penticton Vees
+IceHockey,07-Jan 12:00,Kazakhstan Championship,Saryarka Karagandy v Yertis Pavlodar
+IceHockey,07-Jan 16:30,Czechia 2. Liga,HC AZ Havirov 2010 v Velke Mezirici
+IceHockey,07-Jan 17:00,Czechia 2. Liga,HK Novy Jicin v Valasske Mezirici
+IceHockey,07-Jan 17:00,Czechia 2. Liga,HC Wikov Hronov v Hokej Usti nad Labem
+IceHockey,07-Jan 17:00,Czechia 2. Liga,Zdar nad Sazavou v HK Kromeriz
+IceHockey,07-Jan 17:00,Latvia LHL,Zemgale/JLSS v Kyiv Capitals
+IceHockey,07-Jan 17:00,Czechia 2. Liga,Draci Pars Sumperk v HC Slezan Opava
+IceHockey,07-Jan 17:30,Czechia 2. Liga,Pribram v Mostecti Lvi
+IceHockey,07-Jan 18:00,Norway 1st Division,Kongsvinger IL v Manglerud Star
+IceHockey,07-Jan 18:00,Sweden Hockeyettan,HC Dalen v Mjolby HC
+IceHockey,07-Jan 18:00,Sweden Hockeyettan,Enkopings SK HK v Wings HC Arlanda
+IceHockey,07-Jan 18:00,Sweden Allsvenskan,VIK Vasteras HK v IF Troja/Ljungby
+IceHockey,07-Jan 18:00,Sweden Hockeyettan,IF Vallentuna BK v Falu IF
+IceHockey,07-Jan 18:00,Sweden Hockeyettan,IF Sundsvall Hockey v Ornskoldsvik HF
+IceHockey,07-Jan 18:00,Sweden Hockeyettan,Grastorps IK v Halmstad HF
+IceHockey,07-Jan 18:00,Sweden Allsvenskan,Kalmar HC v Almtuna IS
+IceHockey,07-Jan 18:00,Sweden Hockeyettan,Hanvikens SK v HC Vita Hasten
+IceHockey,07-Jan 18:00,Sweden Allsvenskan,Nybro Vikings IF v Mora IK
+IceHockey,07-Jan 18:00,Sweden Hockeyettan,Tranas AIF v Boras HC
+IceHockey,07-Jan 18:00,Sweden Hockeyettan,Surahammars IF v Lindlovens IF
+IceHockey,07-Jan 18:00,Sweden Allsvenskan,Vimmerby HC v MODO Hockey
+IceHockey,07-Jan 18:00,Sweden Hockeyettan,Borlange HF v Hudiksvalls HC
+IceHockey,07-Jan 18:00,Norway 1st Division,Ski Elite v Gjovik Hockey
+IceHockey,07-Jan 18:00,Sweden Hockeyettan,Vasby IK HK v Sollentuna HC
+IceHockey,07-Jan 18:00,Danish Metal Ligaen,Herlev Eagles v Aalborg Pirates
+IceHockey,07-Jan 18:00,Sweden Allsvenskan,BIK Karlskoga v IK Oskarshamn
+IceHockey,07-Jan 18:00,Sweden Allsvenskan,Ostersund IK v AIK IF Stockholm
+IceHockey,07-Jan 18:00,Sweden Allsvenskan,Sodertalje SK v IF Bjorkloven
+IceHockey,07-Jan 18:00,Norway 1st Division,Gruner v Ringerike
+IceHockey,07-Jan 18:00,Sweden Allsvenskan,Sodertalje SK v IF Bjorkloven
+IceHockey,07-Jan 18:45,Switzerland NLA,Lausanne HC v HC Lugano
+IceHockey,07-Jan 19:30,Great Britain Elite League,Dundee Stars v Belfast Giants
+IceHockey,07-Jan 23:00,Canada QMJHL,Moncton Wildcats v Gatineau Olympiques
+IceHockey,08-Jan 00:00,US ECHL,Greenville Swamp Rabbits @ Jacksonville Icemen
+IceHockey,08-Jan 00:00,Canada QMJHL,Rimouski Oceanic v Cape Breton Screaming Eagles
+IceHockey,08-Jan 00:00,Professional Women's Hockey League,Ottawa Women v Vancouver Women
+IceHockey,08-Jan 00:00,Canada QMJHL,Val-D’Or Foreurs v Blainville-Boisbriand Armada
+IceHockey,08-Jan 00:00,Canada OHL,Brantford Bulldogs v Niagara Icedogs
+IceHockey,08-Jan 00:00,US ECHL,Worcester Railers @ Adirondack Thunder
+IceHockey,08-Jan 00:00,Canada OHL,Owen Sound Attack v Guelph Storm
+IceHockey,08-Jan 00:00,Canada OHL,Flint Firebirds v Sarnia Sting
+IceHockey,08-Jan 00:00,Canada QMJHL,Sherbrooke Phoenix v Quebec Remparts
+IceHockey,08-Jan 00:00,AHL,Rochester Americans @ Syracuse Crunch
+IceHockey,08-Jan 00:00,AHL,Cleveland Monsters @ Toronto Marlies
+IceHockey,08-Jan 00:00,AHL,Texas Stars @ Grand Rapids Griffins
+IceHockey,08-Jan 00:00,AHL,Springfield Thunderbirds @ Utica Comets
+IceHockey,08-Jan 00:00,PWHL,Boston Fleet Women v Seattle Torrent Women
+IceHockey,08-Jan 00:05,US NHL,Dallas Stars @ Washington Capitals
+IceHockey,08-Jan 00:07,Canada OHL,Sault Sainte Marie Greyhounds v Sudbury Wolves
+IceHockey,08-Jan 00:35,US NHL,Calgary Flames @ Montreal Canadiens
+IceHockey,08-Jan 01:00,Canada WHL,Swift Current Broncos v Edmonton Oil Kings
+IceHockey,08-Jan 01:00,US ECHL,Kalamazoo Wings @ Bloomington Bison
+IceHockey,08-Jan 01:00,Canada WHL,Brandon Wheat Kings v Red Deer Rebels
+IceHockey,08-Jan 01:05,US ECHL,Tulsa Oilers @ Kansas City Mavericks
+IceHockey,08-Jan 01:10,US ECHL,Wichita Thunder @ Allen Americans
+IceHockey,08-Jan 02:00,Canada WHL,Lethbridge Hurricanes v Seattle Thunderbirds
+IceHockey,08-Jan 02:10,US ECHL,Greensboro Gargoyles @ Idaho Steelheads
+IceHockey,08-Jan 02:30,AHL,Henderson Silver Knights @ Coachella Valley Firebirds
+IceHockey,08-Jan 02:35,US NHL,St Louis Blues @ Chicago Blackhawks
+IceHockey,08-Jan 02:35,US NHL,Ottawa Senators @ Utah Mammoth
+IceHockey,08-Jan 02:35,US NHL,Ottawa Senators @ Utah Mammoth
+IceHockey,08-Jan 03:00,Canada WHL,Prince George Cougars v Penticton Vees
+IceHockey,08-Jan 03:00,AHL,San Jose Barracuda @ San Diego Gulls
+IceHockey,08-Jan 03:00,AHL,Iowa Wild @ Ontario Reign
+IceHockey,08-Jan 03:00,AHL,Bakersfield Condors @ Abbotsford Canucks
+IceHockey,08-Jan 03:05,Canada WHL,Kelowna Rockets v Tri-City Americans
+IceHockey,08-Jan 03:35,US NHL,San Jose Sharks @ Los Angeles Kings
+IceHockey,08-Jan 10:00,Asia League Ice Hockey,Anyang Halla v Red Eagles Hokkaido
+IceHockey,08-Jan 10:30,IIHF World Championship U20 Div II,China U20 v Croatia U20
+IceHockey,08-Jan 14:00,IIHF World Championship U20 Div II,Spain U20 v South Korea U20
+IceHockey,08-Jan 14:00,Kazakhstan Championship,HC Nomad v HC Aktobe
+IceHockey,08-Jan 16:30,Finland Mestis,Jokerit v Hermes
+IceHockey,08-Jan 17:30,Elitehockeyligaen,Stavanger Oilers v Narvik IK
+IceHockey,08-Jan 17:30,IIHF World Championship U20 Div II,Great Britain U20 v Romania U20
+IceHockey,08-Jan 17:30,Elitehockeyligaen,Nidaros Hockey v Lillehammer IK
+IceHockey,08-Jan 17:30,Elitehockeyligaen,Frisk Asker Ishockey v Lorenskog IK
+IceHockey,08-Jan 18:00,Sweden Hockey League,Djurgardens IF v Orebro Hockeyklubb
+IceHockey,08-Jan 18:00,Elitehockeyligaen,Valerenga Ishockey v Sparta Sarpsborg
+IceHockey,08-Jan 18:00,Sweden Hockey League,Skelleftea AIK v HV 71
+IceHockey,08-Jan 18:00,Sweden Hockey League,Timra IK v Rogle BK
+IceHockey,08-Jan 18:00,Sweden Hockey League,Leksands IF v Linkopings HC
+IceHockey,08-Jan 18:00,Sweden Hockey League,IF Malmo Redhawks v Brynas IF
+IceHockey,08-Jan 18:00,Sweden Hockey League,Vaxjo Lakers HC v Farjestad BK
+IceHockey,08-Jan 18:00,Sweden Hockey League,Frolunda HC v Lulea HF
+IceHockey,08-Jan 18:00,Austria Alps Hockey League,HK Acroni Jesenice v Hockey Unterland Cavaliers
+IceHockey,08-Jan 18:15,Switzerland Cup,GDT Bellinzona v La Chaux Fonds
+IceHockey,08-Jan 18:30,Austria Alps Hockey League,EK Zeller Eisbaren v EC Die Adler Stadtwerke Kitzbuhel
+IceHockey,08-Jan 18:30,Germany DEL,Iserlohn Roosters v Eisbaren Berlin
+IceHockey,08-Jan 18:45,Switzerland NLA,HC Fribourg-Gotteron v EV Zug
+IceHockey,08-Jan 18:45,Switzerland NLA,Geneve-Servette HC v HC Lugano
+IceHockey,08-Jan 19:00,Switzerland Cup,HC Sierre v Hockey Thurgau
+IceHockey,08-Jan 19:00,Switzerland Cup,HC Sierre v Hockey Thurgau
+IceHockey,08-Jan 19:00,Switzerland NLA,Rapperswil-Jona Lakers v SCL Tigers
+IceHockey,08-Jan 19:30,Austria Alps Hockey League,HC Meran/o Pircher v KHL Sisak
+RugbyUnion,08-Jan 20:00,France Pro D2,Provence Rugby v Grenoble
+Snooker,07-Jan 10:00,German Masters Qualifiers,Ishpreet Chadha v Louis Heathcote
+Snooker,07-Jan 14:30,German Masters Qualifiers,Daniel Wells v Ross Muir
+Snooker,07-Jan 14:30,German Masters Qualifiers,Robbie Williams v Allan Taylor
+Snooker,07-Jan 19:00,German Masters Qualifiers,Michael Holt v Jun Jiang
+Snooker,07-Jan 19:00,German Masters Qualifiers,Ricky Walden v Liam Pullen
+Snooker,07-Jan 19:00,German Masters Qualifiers,Scott Donaldson v Sunny Akani
+Snooker,07-Jan 19:00,German Masters Qualifiers,Liu Hongyu v Gong Chenzhi
+Snooker,07-Jan 19:00,German Masters Qualifiers,Lyu Haotian v Ken Doherty
+Snooker,07-Jan 19:00,German Masters Qualifiers,Xu Si v Ian Burns
+Snooker,07-Jan 19:00,German Masters Qualifiers,Long Zehuang v Hanyang Zhao
+Snooker,07-Jan 19:00,German Masters Qualifiers,Noppon Saengkham v Sam Craigie
+Snooker,07-Jan 19:17,Championship League Snooker,Joe O'Connor v Si Jiahui
+Snooker,08-Jan 10:00,German Masters Qualifiers,Jak Jones v Marco Fu
+Snooker,08-Jan 14:30,German Masters Qualifiers,David Gilbert v Luca Brecel
+TableTennis,08-Jan 07:30,Challenger Series,Adam Cseri v Dauud Cheaib
+TableTennis,08-Jan 08:00,Challenger Series,Alexander Valuch v Karl Walter
+TableTennis,08-Jan 08:30,Challenger Series,Damian Zech v Daniel Rinderer
+TableTennis,08-Jan 09:00,Challenger Series,Andreas Levenko v Marco Stefanidis
+TableTennis,08-Jan 09:30,Challenger Series,Adam Cseri v Alexander Valuch
+TableTennis,08-Jan 10:00,Challenger Series,Damian Zech v Karl Walter
+TableTennis,08-Jan 10:30,Challenger Series,Andreas Levenko v Daniel Rinderer
+TableTennis,08-Jan 11:00,Challenger Series,Marco Stefanidis v Dauud Cheaib
+TableTennis,08-Jan 11:30,Challenger Series,Adam Cseri v Damian Zech
+TableTennis,08-Jan 12:00,Challenger Series,Alexander Valuch v Dauud Cheaib
+TableTennis,08-Jan 12:30,Challenger Series,Marco Stefanidis v Daniel Rinderer
+TableTennis,08-Jan 13:00,Challenger Series,Andreas Levenko v Karl Walter
+TableTennis,08-Jan 13:30,Challenger Series,Alexander Valuch v Damian Zech
+TableTennis,08-Jan 14:00,Challenger Series,Daniel Rinderer v Dauud Cheaib
+TableTennis,08-Jan 14:30,Challenger Series,Marco Stefanidis v Karl Walter
+TableTennis,08-Jan 15:00,Challenger Series,Adam Cseri v Andreas Levenko
+TableTennis,08-Jan 15:30,Challenger Series,Damian Zech v Dauud Cheaib
+TableTennis,08-Jan 16:00,Challenger Series,Adam Cseri v Marco Stefanidis
+TableTennis,08-Jan 16:30,Challenger Series,Daniel Rinderer v Karl Walter
+TableTennis,08-Jan 17:00,Challenger Series,Alexander Valuch v Andreas Levenko
+TableTennis,08-Jan 17:30,Challenger Series,Damian Zech v Marco Stefanidis
+TableTennis,08-Jan 18:00,Challenger Series,Adam Cseri v Daniel Rinderer
+TableTennis,08-Jan 18:30,Challenger Series,Andreas Levenko v Dauud Cheaib
+Tennis,07-Jan 05:00,Nonthaburi Challenger,Tibo Colson v Hayato Matsuoka
+Tennis,07-Jan 23:30,Canberra 125k,Simona Waltert v Daria Snigur
+Tennis,08-Jan 00:00,Auckland,Petra Marcinko v Alexandra Eala
+Tennis,08-Jan 01:00,Brisbane,Aryna Sabalenka v Sorana Cirstea
+Tennis,08-Jan 01:00,Brisbane,Cameron Norrie v Aleksandar Kovacevic
+Tennis,08-Jan 01:00,Canberra 125k,Tamara Zidansek v Joanna Garland
+Tennis,08-Jan 01:30,Canberra 125k,Yue Yuan v Polina Kudermetova
+Tennis,08-Jan 02:00,Auckland,Magda Linette v Elisabetta Cocciaretto
+Tennis,08-Jan 02:00,Nonthaburi Challenger,Joel Schwaerzler v Lorenzo Giustino
+Tennis,08-Jan 02:30,Brisbane,Karolina Muchova v Ekaterina Alexandrova
+Tennis,08-Jan 03:00,Brisbane,Quentin Halys v Brandon Nakashima
+Tennis,08-Jan 03:00,Canberra 125k,Himeno Sakatsume v Ekaterine Gorgodze
+Tennis,08-Jan 03:00,Brisbane,Elena Rybakina v Paula Badosa Gibert
+Tennis,08-Jan 03:30,Canberra Challenger,Marcelo Tomas Barrios-Vera v James McCabe
+Tennis,08-Jan 03:30,Nonthaburi Challenger,Marat Sharipov v Rio Noguchi
+Tennis,08-Jan 03:30,Nonthaburi Challenger,Zdenek Kolar v Tibo Colson
+Tennis,08-Jan 04:30,Brisbane,Aliaksandra Sasnovich v Ludmilla Samsonova
+Tennis,08-Jan 05:00,Brisbane,Diana Shnaider v Madison Keys
+Tennis,08-Jan 05:00,Auckland,Elina Svitolina v Katie Boulter
+Tennis,08-Jan 05:00,Brisbane,Rinky Hijikata v Giovanni Perricard
+Tennis,08-Jan 05:00,Canberra Challenger,Rafael Jodar v Sho Shimabukuro
+Tennis,08-Jan 05:30,Hong Kong,Alexandre Muller v Marcos Giron
+Tennis,08-Jan 05:30,Hong Kong,Lorenzo Sonego v Juncheng Shang
+Tennis,08-Jan 05:30,Canberra Challenger,Vit Kopriva v Alexander Blockx
+Tennis,08-Jan 05:30,Noumea Challenger,Jordan Thompson v Jurij Rodionov
+Tennis,08-Jan 05:30,Nonthaburi Challenger,Sergey Fomin v Marek Gengel
+Tennis,08-Jan 06:30,United Cup,Zizou Bergs v Jakub Mensik
+Tennis,08-Jan 07:00,Brisbane,Dayana Yastremska v Jessica Pegula
+Tennis,08-Jan 07:00,Auckland,Ella Seidel v Sonay Kartal
+Tennis,08-Jan 07:00,Noumea Challenger,Blake Ellis v Bernard Tomic
+Tennis,08-Jan 07:30,Canberra Challenger,Dusan Lajovic v Kyrian Jacquet
+Tennis,08-Jan 07:30,Canberra Challenger,Dusan Lajovic v Kyrian Jacquet
+Tennis,08-Jan 07:30,Hong Kong,Michael Mmoh v Karen Khachanov
+Tennis,08-Jan 07:30,Noumea Challenger,Michael Zheng v Clement Tabur
+Tennis,08-Jan 07:30,Bengaluru Challenger,Matteo Martineau v Manas Dhamne
+Tennis,08-Jan 08:30,Brisbane,Raphael Collignon v Grigor Dimitrov
+Tennis,08-Jan 08:30,United Cup,Elise Mertens v Barbora Krejcikova
+Tennis,08-Jan 09:00,Brisbane,Mirra Andreeva v Linda Noskova
+Tennis,08-Jan 09:00,Noumea Challenger,Arthur Gea v Liam Draxl
+Tennis,08-Jan 09:30,Bengaluru Challenger,Pedro Martinez Portero v Cedrik-Marcel Stebe
+Tennis,08-Jan 09:30,Bengaluru Challenger,Timofey Skatov v Jonas Forejtek
+Tennis,08-Jan 10:00,Hong Kong,Botic van de Zandschulp v Alexander Bublik
+Tennis,08-Jan 10:30,Brisbane,Marta Kostyuk v Amanda Anisimova
+Tennis,08-Jan 11:00,Nottingham Challenger,Charles Broom v Clement Chidekh
+Tennis,08-Jan 11:00,Nottingham Challenger,Stefan Kozlov v Toby Samuel
+Tennis,08-Jan 11:30,Bengaluru Challenger,Dhakshineswar Suresh v Harold Mayot
+Tennis,08-Jan 13:00,Nottingham Challenger,Johannus Monday v Tom Gentzsch
+Tennis,08-Jan 13:00,Nottingham Challenger,Mikhail Kukushkin v Cannon Kingsley
+TennisDoubles,07-Jan 03:00,United Cup,"Katarzyna Kawa, Jan Zielinski v Demi Schuurs, David Pel"
+TennisDoubles,07-Jan 03:30,United Cup,"Iga Swiatek, Hubert Hurkacz v Demi Schuurs, Tallon Griekspoor"
+TennisDoubles,07-Jan 04:00,Brisbane,"Paula Badosa Gibert, Aryna Sabalenka v Cristina Bucsa, Ellen Perez"
+TennisDoubles,07-Jan 06:10,Brisbane,"Sebastian Korda, Brandon Nakashima v John Peers, Evan King"
+TennisDoubles,07-Jan 09:01,Hong Kong,"Miguel Angel Reyes-Varela, Gonzalo Escobar v Emilio Nava, Jesper De Jong"
+TennisDoubles,07-Jan 12:55,United Cup,"Belinda Bencic, Jakub Paul v Maria Lourdes Carle, Guido Andreozzi"
+TennisDoubles,07-Jan 13:00,United Cup,"Belinda Bencic, Stan Wawrinka v Maria Lourdes Carle, Guido Andreozzi"
+TennisDoubles,07-Jan 22:30,Auckland,"Caty Mcnally, Janice Tjen v Hanyu Guo, Kristina Mladenovic"
+TennisDoubles,08-Jan 01:00,Brisbane,"Lloyd Glasspool, Julian Cash v Tommy Paul, Ethan Quinn"
+TennisDoubles,08-Jan 01:00,Brisbane,"Irina Khromacheva, Alexandra Panova v Lyudmyla Kichenok, Nadiya Kichenok"
+TennisDoubles,08-Jan 02:00,Canberra 125k,"Quinn Gleason, Elena Pridankina v Ena Shibahara, Vera Zvonareva"
+TennisDoubles,08-Jan 03:00,Brisbane,"Matej Vocel, Tomas Machac v Robert Cash, Jj Tracy"
+TennisDoubles,08-Jan 03:30,Canberra 125k,"Ekaterine Gorgodze, Camilla Rosatello v Mariia Kozyreva, Iryna Shymanovich"
+TennisDoubles,08-Jan 05:00,Brisbane,"Rafael Matos, Orlando Luz v Yuki Bhambri, Andre Goransson"
+TennisDoubles,08-Jan 05:30,Brisbane,"Cristina Bucsa, Ellen Perez v Anna Danilina, Aleksandra Krunic"
+TennisDoubles,08-Jan 07:30,Hong Kong,"Gabriel Diallo, Chak Lam Coleman Wong v Robin Haase, Constantin Frantzen"
+TennisDoubles,08-Jan 07:30,Hong Kong,"Lorenzo Sonego, Lorenzo Musetti v Alexander Erler, Robert Galloway"
+TennisDoubles,08-Jan 09:30,Hong Kong,"Karen Khachanov, Andrey Rublev v Albano Olivetti, Theo Arribage"
+TennisDoubles,08-Jan 10:30,United Cup,"Elise Mertens, Zizou Bergs v Barbora Krejcikova, Jakub Mensik"
+TennisDoubles,08-Jan 12:00,Hong Kong,"Vasil Kirkov, Bart Stevens v Miguel Angel Reyes-Varela, Gonzalo Escobar"
+Test Cricket,08-Jan 08:00,CSA 4-Day Series Division 2,Northern Cape Heat v Garden Route Badgers
+Test Cricket,08-Jan 08:00,CSA 4-Day Series Division 2,Eastern Cape Iinyathi v Mpumalanga Rhinos
+Volleyball,07-Jan 16:30,Finland Women's SM-Liiga,Nurmon Jymy Women v LP Vampula Huittinen Women
+Volleyball,07-Jan 16:30,CEV Challenge Cup (M),PAOK v Pafiakos Pafos
+Volleyball,07-Jan 17:00,CEV Challenge Cup Women,KNRC Women v PVK Olymp Praha Women
+Volleyball,07-Jan 17:30,Denmark VolleyLiga (Men),Ikast KFUM v Nordenskov Ungdoms-og IF
+Volleyball,07-Jan 18:00,CEV Cup (W),VfB Suhl LOTTO Thuringen Women v Voluntari Women
+Volleyball,07-Jan 18:00,CEV Cup (M),SK Aich/Dob v Akaa Volley
+Volleyball,07-Jan 18:00,CEV Cup (M),Volley Amriswil v Orion Doetinchem
+Volleyball,07-Jan 18:00,CEV Challenge Cup Women,Olympiada Neapolis Women v Ostrava Women
+Volleyball,07-Jan 18:00,CEV Challenge Cup (M),Lukoil Neftokhimik v Maccabi Tel Aviv
+Volleyball,07-Jan 18:30,Switzerland NLA Women,SmAesch Pfeffingen Women v TSV Dudingen Women
+Volleyball,07-Jan 18:30,Champions League Men,Guaguas v Sir Safety Conad Perugia
+Volleyball,07-Jan 18:30,CEV Cup (M),Dynamo Apeldoorn v Olympiacos O.S. Piraeus
+Volleyball,07-Jan 18:30,CEV Cup (M),OK Alpacem Kanal v Mok Mursa Osijek
+Volleyball,07-Jan 19:00,Switzerland NLA Women,Vbc Cheseaux Women v VFM Franches-Montagnes Women
+Volleyball,07-Jan 19:00,Switzerland NLA Women,Chenois Geneva Women v Kanti Schaffhausen
+Volleyball,07-Jan 19:00,CEV Cup (M),VfB Friedrichshafen v Levski Ball
+Volleyball,07-Jan 19:00,Switzerland NLA Women,Toggenburg v Volley Lugano Women
+Volleyball,07-Jan 19:00,CEV Cup (W),Sagres Neuchatel UC Women v Asterix Avo Beveren Women
+Volleyball,07-Jan 19:00,Champions League Men,Ach Volley v Ziraat Bankasi Ankara
+Volleyball,07-Jan 19:00,CEV Cup (W),Vandoeuvre Nancy Women v Reale Mutua Fenera Chieri Women
+Volleyball,07-Jan 19:00,CEV Challenge Cup (M),Prima Donna Kaas Huizen v VKP Bratislava
+Volleyball,07-Jan 19:00,CEV Cup (W),Roeselare Women v Galatasaray Women
+Volleyball,07-Jan 19:30,Champions League Men,Montpellier v ONICO Warszawa
+Volleyball,07-Jan 19:30,Champions League Men,Volley Haasrode Leuven v Cucine Lube Civitanova
+Volleyball,07-Jan 19:30,CEV Challenge Cup (M),Lindemans Aalst v Khilasedichi Baku
+Volleyball,07-Jan 19:30,CEV Cup (W),BKS Bielsko-Biala Women v Nova KBM Branik Maribor Women
+Volleyball,07-Jan 19:30,CEV Cup (M),Achel v TSV Volksbank Hartberg
+Volleyball,07-Jan 21:30,Brazil Superliga Women,Renasce Sorocaba U21 Women v Volei Bauru Women
+Volleyball,08-Jan 00:00,Brazil Superliga Women,Hinode Barueri Women v Unilever Volei Women
+Volleyball,08-Jan 10:00,South Korea V League,Woori v Incheon Korean Air Jumbos
+Volleyball,08-Jan 10:00,South Korea V League Women,IBK Altos Women v Daejeon JKJ Women
+Volleyball,08-Jan 10:00,South Korea V League Women,IBK Altos Women v Daejeon JKJ Women
+Volleyball,08-Jan 16:00,CEV Challenge Cup (M),Maccabi Tel Aviv v Lukoil Neftokhimik
+Volleyball,08-Jan 16:30,CEV Challenge Cup (M),PAOK v Pafiakos Pafos
+Volleyball,08-Jan 16:30,Poland Plusliga,Indykpol AZS Olsztyn v Barkom
+Volleyball,08-Jan 17:00,Champions League Women,Schweriner SC Women v Developres SkyRes Rzeszow Women
+Volleyball,08-Jan 17:00,Champions League Women,Olympiakos Women v Zeleznicar Lajkovac Women
+Volleyball,08-Jan 17:00,Champions League Men,CZU Praha v Berlin Recycling Volleys
+Volleyball,08-Jan 17:00,CEV Challenge Cup (M),VK Dukla Liberec v Lausanne UC
+Volleyball,08-Jan 17:00,CEV Challenge Cup Women,Fatum Nyiregyhaza Women v Megabox Vallefoglia Women
+Volleyball,08-Jan 17:00,CEV Cup (W),Linamar Bekescsabai RSE Women v Asptt Mulhouse Women
+Volleyball,08-Jan 18:00,CEV Challenge Cup Women,IBSA CV Gran Canaria Women v Nebo Zapresic Women
+Volleyball,08-Jan 18:00,CEV Cup (M),Vojvodina Novi Sad v Alanya Bld
+Volleyball,08-Jan 18:00,CEV Challenge Cup Women,Unicaja Andalucía Women v Panionios Women
+Volleyball,08-Jan 18:00,CEV Challenge Cup Women,Holte IF Women v Crvena Zvezda Beograd Women
+Volleyball,08-Jan 18:00,CEV Challenge Cup Women,Olympiada Neapolis Women v Ostrava Women
+Volleyball,08-Jan 19:00,Champions League Women,Le Cannet-Rocheville Women v CS Alba Blaj Women
+Volleyball,08-Jan 19:00,Champions League Women,Savino Del Bene Scandicci Women v Vakifbank Women
+Volleyball,08-Jan 19:00,Champions League Men,Ach Volley v Ziraat Bankasi Ankara
+Volleyball,08-Jan 19:00,CEV Cup (W),Mladost Zagreb Women v Radomka Radom Women
+Volleyball,08-Jan 19:00,CEV Challenge Cup (M),TSV Herrsching v Bigbank Tartu
+Volleyball,08-Jan 19:00,France LNV,AS Cannes v Nice
+Volleyball,08-Jan 19:30,Champions League Men,Knack Randstad Roeselare v Politechnika Lublin
+Volleyball,08-Jan 20:00,Champions League Women,CV Lisboa Women v Igor Gorgonzola Novara Women
