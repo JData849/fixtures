@@ -1,83 +1,43 @@
 Sport,Date,Competition,Description
-AmericanFootball,13-Jan 01:15,US NFL,Houston Texans @ Pittsburgh Steelers
-Baseball,13-Jan 01:30,Mexico LMP,Aguilas de Mexicali @ Charros de Jalisco
-Baseball,13-Jan 02:05,Mexico LMP,Algodoneros De Guasave @ Tomateros De Culiacan
 Baseball,15-Jan 02:30,Mexico LMP,Tomateros De Culiacan @ Algodoneros De Guasave
 Baseball,15-Jan 03:30,Mexico LMP,Charros de Jalisco @ Aguilas de Mexicali
 Baseball,15-Jan 08:00,Australia ABL,Brisbane Bandits @ Sydney Blue Sox
 Baseball,15-Jan 08:30,Australia ABL,Perth Heat @ Adelaide Giants
-Basketball,12-Jan 17:00,Turkey TBL,Ankara DSI v Semt77 Yalovaspor
-Basketball,12-Jan 17:15,Bulgaria NBL,Cherno More v Levski
-Basketball,12-Jan 17:45,Italy Lega 1 Basket,Gevi Napoli Basket v Olimpia Milano
-Basketball,12-Jan 18:00,Serbia KLS,KK Metalac Valjevo v BKK Radnicki
-Basketball,12-Jan 18:30,Germany Pro A,Wolmirstedt v Gottingen
-Basketball,12-Jan 18:55,Israel Ligat Haal,Maccabi Ironi Raanana v Maccabi Rishon LeZion
-Basketball,12-Jan 19:30,Spain ACB,Valencia BC v CAI Zaragoza
-Basketball,12-Jan 19:30,Adriatic League,KK Crvena Zvezda Beograd v KK Bosna Sarajevo
-Basketball,12-Jan 22:30,Brazil NBB,Pato Basquete v Uniao Corinthians
-Basketball,12-Jan 22:30,Brazil NBB,Paschoalotto/Bauru v Pinheiros/SKY
-Basketball,12-Jan 23:00,NCAA,North Carolina Central Eagles @ Morgan St Bears
-Basketball,12-Jan 23:15,Uruguay Liga Capital,Club Atletico Goes v Defensor Sporting
-Basketball,12-Jan 23:15,Brazil NBB,Brasilia v Caxias do Sul
-Basketball,13-Jan 00:00,NCAA,Arkansas Pine Bluff Golden Lions @ Prairie View A&M Panthers
-Basketball,13-Jan 00:00,NCAA,New Orleans Privateers @ Southeastern Louisiana Lions
-Basketball,13-Jan 00:00,Argentina LNB,Argentino de Junin v Penarol (MdP)
-Basketball,13-Jan 00:00,NCAA,South Carolina State Bulldogs @ Coppin State Eagles
-Basketball,13-Jan 00:00,NCAA,Southern University Jaguars @ Bethune Cookman Wildcats
-Basketball,13-Jan 00:00,NCAA,Houston Christian @ Lamar Cardinals
-Basketball,13-Jan 00:00,NCAA,Grambling State Tigers @ Florida A&M Rattlers
-Basketball,13-Jan 00:00,NCAA,Navy Midshipmen @ American University Eagles
-Basketball,13-Jan 00:00,NCAA,Delaware State Hornets @ Howard Bison
-Basketball,13-Jan 00:00,NCAA,Incarnate Word Cardinals @ Stephen Austin Lumberjacks
-Basketball,13-Jan 00:00,NCAA,Alcorn State Braves @ Alabama St Hornets
-Basketball,13-Jan 00:00,NCAA,Maryland Eastern Shore Hawks @ Norfolk State Spartans
-Basketball,13-Jan 00:05,Argentina LNB,Instituto (C) v Ciclista Olimpico
-Basketball,13-Jan 00:05,US NBA,Utah Jazz @ Cleveland Cavaliers
-Basketball,13-Jan 00:15,Uruguay Liga Capital,Nacional v Welcome
-Basketball,13-Jan 00:30,NCAA,UT Rio Grande Valley Vaqueros @ Northwestern State Demons
-Basketball,13-Jan 00:30,NCAA,Nicholls State Colonels @ Mcneese State Cowboys
-Basketball,13-Jan 00:30,NCAA,Texas A&M CC Islanders @ East Texas A&M Lions
-Basketball,13-Jan 00:30,NCAA,UT Rio Grande Valley Vaqueros @ Northwestern State Demons
-Basketball,13-Jan 00:35,US NBA,Boston Celtics @ Indiana Pacers
-Basketball,13-Jan 00:35,US NBA,Philadelphia 76ers @ Toronto Raptors
-Basketball,13-Jan 01:00,NCAA,Mississippi Valley State Delta Devils @ Texas Southern Tigers
-Basketball,13-Jan 01:00,NCAA,Jackson State Tigers @ Alabama A&M Bulldogs
-Basketball,13-Jan 01:35,US NBA,Brooklyn Nets @ Dallas Mavericks
-Basketball,13-Jan 03:05,US NBA,Los Angeles Lakers @ Sacramento Kings
-Basketball,13-Jan 03:35,US NBA,Charlotte Hornets @ Los Angeles Clippers
-Basketball,13-Jan 08:00,Australia WNBL,Adelaide Lightning Women v Sydney Uni Flames Women
-Basketball,13-Jan 10:00,South Korea KBL,SK Knights v Wonju Dongbu Promy
-Basketball,13-Jan 10:00,South Korea KBL,Mobis Phoebus v Samsung Thunders
+Baseball,16-Jan 02:30,Mexico LMP,Tomateros De Culiacan @ Algodoneros De Guasave
+Baseball,16-Jan 03:30,Mexico LMP,Charros de Jalisco @ Aguilas de Mexicali
+Baseball,16-Jan 08:00,Australia ABL,Brisbane Bandits @ Sydney Blue Sox
+Baseball,16-Jan 08:30,Australia ABL,Perth Heat @ Adelaide Giants
+Basketball,13-Jan 11:35,China CBA,Liaoning Flying Leopards v Qingdao Eagles
 Basketball,13-Jan 11:35,China CBA,Nanjing Monkey Kings v GuangDong Southern Tigers
 Basketball,13-Jan 11:35,China CBA,Beijing Ducks v Jiangsu Dragons
 Basketball,13-Jan 11:35,China CBA,Ningbo Rockets v Shanxi Loongs
-Basketball,13-Jan 11:35,China CBA,Liaoning Flying Leopards v Qingdao Eagles
-Basketball,13-Jan 11:35,China CBA,Shenzhen Leopards v Shanghai Sharks
 Basketball,13-Jan 11:35,China CBA,Shandong Heroes v Jilin
+Basketball,13-Jan 11:35,China CBA,Shenzhen Leopards v Shanghai Sharks
 Basketball,13-Jan 12:00,China CBA,Xinjiang Flying Tigers v Zhejiang Lions
+Basketball,13-Jan 14:30,Turkey Federation Cup,Royal Hali Gaziantep v Goztepe
 Basketball,13-Jan 16:00,EuroCup (M),Bahcesehir Koleji v Assignia Manresa
-Basketball,13-Jan 16:30,FIBA Basketball Champions League,Szolnoki Olaj v Pallacanestro Trieste
-Basketball,13-Jan 16:30,Latvia - Estonian Basketball League,Ventspils v BK Rigas Zelli
 Basketball,13-Jan 16:30,Finland Korisliiga Women,Tapiolan Honka Women v Torpan Pojat Women
-Basketball,13-Jan 17:00,Lithuania NKL,Kretinga v KK Telsiai
+Basketball,13-Jan 16:30,Latvia - Estonian Basketball League,Ventspils v BK Rigas Zelli
+Basketball,13-Jan 16:30,FIBA Basketball Champions League,Szolnoki Olaj v Pallacanestro Trieste
+Basketball,13-Jan 16:30,Turkey Federation Cup,Darussafaka v Konya BBSK
 Basketball,13-Jan 17:00,EuroCup (M),BC Neptunas v Cedevita Olimpija
 Basketball,13-Jan 17:00,EuroCup (M),U BT Cluj Napoca v Hamburg Towers
-Basketball,13-Jan 17:00,EuroCup (M),Klaipedos Neptunas v Cedevita Olimpija
 Basketball,13-Jan 17:00,Israel Ligat Haal,Hapoel Tel Aviv v Hapoel Jerusalem
+Basketball,13-Jan 17:00,Lithuania NKL,Kretinga v KK Telsiai
 Basketball,13-Jan 17:30,FIBA Basketball Champions League,Baskets Wurzburg v Levice
 Basketball,13-Jan 18:00,France ProA LNB,Monaco v Gravelines-Dunkerque
 Basketball,13-Jan 18:04,Sweden Ligan,Boras Basket v Hogsbo
 Basketball,13-Jan 18:40,Israel Ligat Haal,Hapoel Tel Aviv v Hapoel Galil Elion
-Basketball,13-Jan 18:40,Israel Ligat Haal,Hapoel Tel Aviv v Hapoel Galil Elion
-Basketball,13-Jan 19:00,France ProB LNB,Stade Rochelais Basket v Vichy-Clermont
-Basketball,13-Jan 19:00,France ProA LNB,Asvel Villeurbanne v Boulazac Basket Dordogne
 Basketball,13-Jan 19:00,EuroCup (M),Aquila Trento v Panionios BC
+Basketball,13-Jan 19:00,France ProA LNB,Asvel Villeurbanne v Boulazac Basket Dordogne
+Basketball,13-Jan 19:00,France ProB LNB,Stade Rochelais Basket v Vichy-Clermont
 Basketball,13-Jan 19:00,EuropeCup (M),Bilbao Basket v PAOK Thessaloniki
 Basketball,13-Jan 19:15,Iceland Premier League Women,Grindavik Women v Njardvik Women
 Basketball,13-Jan 19:15,Iceland Premier League Women,Keflavik Women v Stjarnan Women
-Basketball,13-Jan 19:15,Iceland Premier League Women,Hamar Thor v Haukar Hafnarfjördur Women
 Basketball,13-Jan 19:15,Iceland Premier League Women,Valur Women v Armann Women
 Basketball,13-Jan 19:15,Iceland Premier League Women,KR Women v Tindastoll Women
+Basketball,13-Jan 19:15,Iceland Premier League Women,Hamar Thor v Haukar Hafnarfjördur Women
+Basketball,13-Jan 19:30,BNXT League,Okapi Aalstar v Antwerp Giants
 Basketball,13-Jan 19:30,BNXT League,Okapi Aalstar v Antwerp Giants
 Basketball,13-Jan 20:10,France ProA LNB,Paris v Strasbourg
 Basketball,13-Jan 22:30,Brazil NBB,Basquete Cearen v Vasco da Gama RJ
@@ -86,29 +46,29 @@ Basketball,13-Jan 22:30,Brazil NBB,Paulistano v Rio Claro
 Basketball,13-Jan 23:30,NCAA,Kent State Golden Flashes @ Buffalo Bulls
 Basketball,13-Jan 23:30,NCAA,Villanova Wildcats @ Providence Friars
 Basketball,13-Jan 23:30,NCAA,Marquette Golden Eagles @ St Johns Red Storm
-Basketball,13-Jan 23:30,Brazil NBB,Mogi das Cruzes v Cruzeiro
 Basketball,13-Jan 23:30,NCAA,Northern Illinois Huskies @ Eastern Michigan Eagles
-Basketball,14-Jan 00:00,NCAA,Wisconsin Badgers @ Minnesota Golden Gophers
+Basketball,13-Jan 23:30,Brazil NBB,Mogi das Cruzes v Cruzeiro
+Basketball,14-Jan 00:00,Argentina LNB,Obera TC v Quimsa
 Basketball,14-Jan 00:00,NCAA,George Mason Patriots @ Loyola Chicago Ramblers
-Basketball,14-Jan 00:00,NCAA,Ohio Bobcats @ Toledo Rockets
+Basketball,14-Jan 00:00,NCAA,Ball State Cardinals @ Akron Zips
 Basketball,14-Jan 00:00,NCAA,Texas A&M Aggies @ Tennessee Volunteers
-Basketball,14-Jan 00:00,NCAA,Central Michigan Chippewas @ Miami Ohio RedHawks
+Basketball,14-Jan 00:00,NCAA,Indiana Hoosiers @ Michigan State Spartans
 Basketball,14-Jan 00:00,NCAA,Boston College Eagles @ Clemson Tigers
-Basketball,14-Jan 00:00,NCAA,Illinois Chicago Flames @ Northern Iowa Panthers
+Basketball,14-Jan 00:00,NCAA,Ohio Bobcats @ Toledo Rockets
 Basketball,14-Jan 00:00,NCAA,Massachusetts Minutemen @ Western Michigan Broncos
-Basketball,14-Jan 00:00,NCAA,Ball State Cardinals @ Akron Zips
-Basketball,14-Jan 00:00,NCAA,Virginia Cavaliers @ Louisville Cardinals
-Basketball,14-Jan 00:00,NCAA,Dayton Flyers @ Duquesne Dukes
-Basketball,14-Jan 00:00,NCAA,Ball State Cardinals @ Akron Zips
-Basketball,14-Jan 00:00,NCAA,Dayton Flyers @ Duquesne Dukes
 Basketball,14-Jan 00:00,NCAA,Miami FL Hurricanes @ Notre Dame Fighting Irish
+Basketball,14-Jan 00:00,NCAA,Virginia Cavaliers @ Louisville Cardinals
+Basketball,14-Jan 00:00,NCAA,Wisconsin Badgers @ Minnesota Golden Gophers
+Basketball,14-Jan 00:00,NCAA,Central Michigan Chippewas @ Miami Ohio RedHawks
+Basketball,14-Jan 00:00,NCAA,Illinois Chicago Flames @ Northern Iowa Panthers
+Basketball,14-Jan 00:00,NCAA,Dayton Flyers @ Duquesne Dukes
 Basketball,14-Jan 00:15,Uruguay Liga Capital,Penarol v Hebraica Macabi
 Basketball,14-Jan 00:30,NCAA,Valparaiso Beacons @ Belmont Bruins
 Basketball,14-Jan 00:35,US NBA,Phoenix Suns @ Miami Heat
 Basketball,14-Jan 01:00,Argentina LNB,La Union v Platense
 Basketball,14-Jan 01:00,NCAA,Bradley Braves @ Evansville Purple Aces
 Basketball,14-Jan 01:00,NCAA,Connecticut Huskies @ Seton Hall Pirates
-Basketball,14-Jan 01:00,NCAA,Indiana Hoosiers @ Michigan State Spartans
+Basketball,14-Jan 01:05,US NBA,San Antonio Spurs @ Oklahoma City Thunder
 Basketball,14-Jan 01:05,US NBA,San Antonio Spurs @ Oklahoma City Thunder
 Basketball,14-Jan 01:05,US NBA,Chicago Bulls @ Houston Rockets
 Basketball,14-Jan 01:05,US NBA,Minnesota Timberwolves @ Milwaukee Bucks
@@ -116,20 +76,19 @@ Basketball,14-Jan 01:05,US NBA,Denver Nuggets @ New Orleans Pelicans
 Basketball,14-Jan 01:10,Argentina LNB,San Martin Corrientes v Independiente de Oliva
 Basketball,14-Jan 01:30,NCAA,West Virginia Mountaineers @ Houston Cougars
 Basketball,14-Jan 01:30,NCAA,Western Illinois Leathernecks @ Eastern Illinois Panthers
-Basketball,14-Jan 02:00,NCAA,Colorado State Rams @ Fresno State Bulldogs
-Basketball,14-Jan 02:00,NCAA,Iowa State Cyclones @ Kansas Jayhawks
-Basketball,14-Jan 02:00,NCAA,Alabama Crimson Tide @ Mississippi State Bulldogs
-Basketball,14-Jan 02:00,NCAA,Florida Gators @ Oklahoma Sooners
 Basketball,14-Jan 02:00,NCAA,Grand Canyon Antelopes @ New Mexico Lobos
-Basketball,14-Jan 02:00,NCAA,Florida State Seminoles @ Syracuse Orange
+Basketball,14-Jan 02:00,NCAA,Florida Gators @ Oklahoma Sooners
+Basketball,14-Jan 02:00,NCAA,Georgetown Hoyas @ Creighton Bluejays
+Basketball,14-Jan 02:00,NCAA,Iowa State Cyclones @ Kansas Jayhawks
 Basketball,14-Jan 02:00,NCAA,Baylor Bears @ Oklahoma State Cowboys
 Basketball,14-Jan 02:00,NCAA,Virginia Tech Hokies @ SMU Mustangs
 Basketball,14-Jan 02:00,NCAA,Oregon Ducks @ Nebraska Cornhuskers
-Basketball,14-Jan 02:00,NCAA,Georgetown Hoyas @ Creighton Bluejays
+Basketball,14-Jan 02:00,NCAA,Florida State Seminoles @ Syracuse Orange
+Basketball,14-Jan 02:00,NCAA,Colorado State Rams @ Fresno State Bulldogs
+Basketball,14-Jan 02:00,NCAA,Alabama Crimson Tide @ Mississippi State Bulldogs
 Basketball,14-Jan 03:00,NCAA,Air Force Falcons @ San Jose State Spartans
 Basketball,14-Jan 03:30,NCAA,Maryland Terrapins @ USC Trojans
 Basketball,14-Jan 03:35,US NBA,Atlanta Hawks @ Los Angeles Lakers
-Basketball,14-Jan 04:00,NCAA,Saint Mary's Gaels @ San Francisco Dons
 Basketball,14-Jan 04:00,NCAA,Saint Mary's Gaels @ San Francisco Dons
 Basketball,14-Jan 04:00,NCAA,Boise State Broncos @ UNLV Rebels
 Basketball,14-Jan 04:05,US NBA,Portland Trail Blazers @ Golden State Warriors
@@ -137,11 +96,13 @@ Basketball,14-Jan 09:15,Philippines PBA Philippine Cup,Meralco Bolts v TNT KaTro
 Basketball,14-Jan 10:00,South Korea KBL,Anyang KGC v Daegu Kogas Pegasus
 Basketball,14-Jan 10:00,South Korea KBL,Suwon KT Sonicboom v Busan KCC Egis
 Basketball,14-Jan 10:00,Korea WKBL,Busan BNK Sum Women v KEB Hana Bank Women
-Basketball,14-Jan 11:30,Indonesia IBL,Satya Wacana Angsapura v Satria Muda Jakarta
 Basketball,14-Jan 11:30,Philippines PBA Philippine Cup,Barangay Ginebra v San Miguel Beermen
+Basketball,14-Jan 11:30,Indonesia IBL,Satya Wacana Angsapura v Satria Muda Jakarta
 Basketball,14-Jan 11:35,China CBA,Zhejiang Golden Bulls v Guangzhou Long-Lions
 Basketball,14-Jan 11:35,China CBA,Tianjin Pioneers v Fujian Sturgeons
+Basketball,14-Jan 11:35,China CBA,Tianjin Pioneers v Fujian Sturgeons
 Basketball,14-Jan 12:00,Indonesia IBL,Dewa United Surabaya v Hangtuah Sumatera Selatan
+Basketball,14-Jan 14:30,Turkey Federation Cup,Cayirova Belediyesi v Ormanspor
 Basketball,14-Jan 16:00,EuroCup (M),Turk Telekom v London Lions
 Basketball,14-Jan 16:00,Croatia A1 Liga,Dubrovnik v Alkar
 Basketball,14-Jan 16:00,Slovakia Extraliga,BK 04 AC LB Spisska Nova Ves v MBK Handlova
@@ -149,59 +110,60 @@ Basketball,14-Jan 16:00,Qatar Basketball League,Qatar Sports v Al Sadd
 Basketball,14-Jan 16:30,Finland Korisliiga Women,PeKa Women v HBA Marsky Women
 Basketball,14-Jan 16:30,Finland Korisliiga,Namika Lahti v Kouvot
 Basketball,14-Jan 16:30,Finland Korisliiga,Kauhajoen Karhu v UU-Korihait
-Basketball,14-Jan 16:30,Czech Republic NBL,BK JIP Pardubice v BK Opava
+Basketball,14-Jan 16:30,Turkey Federation Cup,Bordo Sportif RS v Ankara Kolejliler
 Basketball,14-Jan 16:30,Finland Korisliiga,Salon Vilpas v Joensuun Kataja
+Basketball,14-Jan 16:30,Czech Republic NBL,BK JIP Pardubice v BK Opava
 Basketball,14-Jan 16:30,Bulgaria Cup,Academic Bultex 99 v BC Botev 2012
 Basketball,14-Jan 17:00,FIBA Basketball Champions League,Tofas SK v Cholet Basket
 Basketball,14-Jan 17:00,Slovakia Extraliga,BK Levicki Patrioti v MBK Rieker Komarno
 Basketball,14-Jan 17:00,Latvia - Estonian Basketball League,Ogres BS v Keila Coolbet
+Basketball,14-Jan 17:00,Latvia - Estonian Basketball League,KK Parnu v Liepajas Lauvas
+Basketball,14-Jan 17:00,Slovakia Extraliga,MBK Lucenec v BC Prievidza
 Basketball,14-Jan 17:00,Poland PBL,Trefl Sopot v Stelmet Zielona Gora
 Basketball,14-Jan 17:00,Slovakia Extraliga,Kosice Wolves v BK Iskra Svit
 Basketball,14-Jan 17:00,Croatia A1 Liga,Samobor v KK Cedevita Junior
-Basketball,14-Jan 17:00,Slovakia Extraliga,MBK Lucenec v BC Prievidza
 Basketball,14-Jan 17:00,Slovakia Extraliga,MBK Rieker Komarno v BK Levicki Patrioti
-Basketball,14-Jan 17:00,Latvia - Estonian Basketball League,KK Parnu v Liepajas Lauvas
 Basketball,14-Jan 17:00,EuropeCup (M),CSM Oradea v KK Cedevita Junior
 Basketball,14-Jan 17:00,Euroleague Women,DVTK Miskolc Women v Casademont Zaragoza Women
 Basketball,14-Jan 17:00,Eurocup (W),CTL Zaglebie Sosnowiec Women v Panathinaikos Women
-Basketball,14-Jan 17:00,Latvia - Estonian Basketball League,KK Parnu v Liepajas Lauvas
 Basketball,14-Jan 17:30,FIBA Basketball Champions League,Baskets Wurzburg v Levice
-Basketball,14-Jan 18:00,EuroCup (M),Aris Thessaloniki BC v Hapoel Jerusalem
-Basketball,14-Jan 18:00,EuroCup (M),Ratiopharm Ulm v BV Chemnitz 99
-Basketball,14-Jan 18:00,EuroCup (M),Buducnost VOLI v BC Lietkabelis
-Basketball,14-Jan 18:00,EuropeCup (M),BC Prievidza v Sporting CP
-Basketball,14-Jan 18:00,EuropeCup (M),Peristeri BC v Petkim Spor Aliaga
-Basketball,14-Jan 18:00,Euroleague Women,ZVVZ USK Prague Women v Flammes Carolo Basket Women
-Basketball,14-Jan 18:00,Norway BLNO,Kongsberg Miners v Baerum Basket
-Basketball,14-Jan 18:00,Qatar Basketball League,Al Khor v Al Wakrah
-Basketball,14-Jan 18:00,Norway BLNO,Fyllingen v Froya Basket
-Basketball,14-Jan 18:00,Slovakia Extraliga,Nitra Blue Wings v Inter Bratislava
-Basketball,14-Jan 18:00,Norway BLNO,Tnt Towers v Asker Aliens
-Basketball,14-Jan 18:00,Croatia A1 Liga,Dinamo Zagreb v Kvarner 2010
-Basketball,14-Jan 18:00,Croatia A1 Liga,GKK Sibenik v Zabok
-Basketball,14-Jan 18:00,Latvia - Estonian Basketball League,Latvijas Universitate v KK Viimsi/Kesklinna KK
-Basketball,14-Jan 18:00,Czech Republic NBL,TJ Sokol Hradec Kralove v Slavia Prague
 Basketball,14-Jan 18:00,Austria Superliga,BC Zepter Vienna v Klosterneuburg Dukes
+Basketball,14-Jan 18:00,Slovakia Extraliga,Nitra Blue Wings v Inter Bratislava
+Basketball,14-Jan 18:00,EuroCup (M),Aris Thessaloniki BC v Hapoel Jerusalem
+Basketball,14-Jan 18:00,Croatia A1 Liga,Dinamo Zagreb v Kvarner 2010
+Basketball,14-Jan 18:00,Slovakia Extraliga,Nitra Blue Wings v Inter Bratislava
+Basketball,14-Jan 18:00,EuroCup (M),Buducnost VOLI v BC Lietkabelis
+Basketball,14-Jan 18:00,Croatia A1 Liga,Dinamo Zagreb v Kvarner 2010
+Basketball,14-Jan 18:00,Czech Republic NBL,TJ Sokol Hradec Kralove v Slavia Prague
+Basketball,14-Jan 18:00,EuropeCup (M),BC Prievidza v Sporting CP
+Basketball,14-Jan 18:00,Norway BLNO,Tnt Towers v Asker Aliens
+Basketball,14-Jan 18:00,EuroCup (M),Ratiopharm Ulm v BV Chemnitz 99
+Basketball,14-Jan 18:00,Norway BLNO,Kongsberg Miners v Baerum Basket
+Basketball,14-Jan 18:00,Euroleague Women,ZVVZ USK Prague Women v Flammes Carolo Basket Women
+Basketball,14-Jan 18:00,Norway BLNO,Fyllingen v Froya Basket
+Basketball,14-Jan 18:00,Qatar Basketball League,Al Khor v Al Wakrah
+Basketball,14-Jan 18:00,EuroCup (M),Aris Thessaloniki BC v Hapoel Jerusalem
+Basketball,14-Jan 18:00,EuropeCup (M),Peristeri BC v Petkim Spor Aliaga
 Basketball,14-Jan 18:04,Sweden Ligan,BC Lulea v Sodertalje Kings
 Basketball,14-Jan 18:15,EuropeCup (M),Trefl Sopot v Falco KC-Szombathely
 Basketball,14-Jan 18:15,Euroleague Women,Valencia Basket Club Women v Reyer Venezia Mestre Women
-Basketball,14-Jan 18:30,EuroCup (M),Bourg-en-Bresse v Besiktas JK
-Basketball,14-Jan 18:30,Euroleague Women,Spar Citylift Girona Women v Galatasaray Women
 Basketball,14-Jan 18:30,Slovenia SKL Women,ZKK Maribor Women v ZKD Ilirija Women
-Basketball,14-Jan 18:30,Euroleague,Partizan Belgrade v Olympiakos BC
+Basketball,14-Jan 18:30,Euroleague Women,Spar Citylift Girona Women v Galatasaray Women
 Basketball,14-Jan 18:30,Euroleague Women,Basket Landes Women v Fenerbahce Women
-Basketball,14-Jan 19:00,EuropeCup (M),Grissin Bon Reggio Emilia v KK Bosna Sarajevo
-Basketball,14-Jan 19:00,EuroCup (M),Reyer Venezia Mestre v Slask Wroclaw
-Basketball,14-Jan 19:00,EuroCup (M),Reyer Venezia Mestre v Slask Wroclaw
-Basketball,14-Jan 19:00,Euroleague Women,Bourges Basket Women v Famila Schio Women
-Basketball,14-Jan 19:00,Portugal LPB,Lisboa e Benfica v Galitos FC
-Basketball,14-Jan 19:00,Eurocup (W),Lointek Gernika Bizkaia Women v Villeneuve D'Ascq Women
-Basketball,14-Jan 19:00,Eurocup (W),CB Estudiantes Women v Olympiacos Women
+Basketball,14-Jan 18:30,Euroleague,Partizan Belgrade v Olympiakos BC
+Basketball,14-Jan 18:30,EuroCup (M),Bourg-en-Bresse v Besiktas JK
 Basketball,14-Jan 19:00,Croatia A1 Liga,Split CO v Cibona
+Basketball,14-Jan 19:00,Eurocup (W),CB Estudiantes Women v Olympiacos Women
+Basketball,14-Jan 19:00,EuropeCup (M),Grissin Bon Reggio Emilia v KK Bosna Sarajevo
 Basketball,14-Jan 19:00,Poland BLK (W),SKK Polonia Warszawa Women v Energa Torun Women
-Basketball,14-Jan 19:15,Iceland Premier League Women,Grindavik Women v Njardvik Women
+Basketball,14-Jan 19:00,Euroleague Women,Bourges Basket Women v Famila Schio Women
+Basketball,14-Jan 19:00,EuroCup (M),Reyer Venezia Mestre v Slask Wroclaw
+Basketball,14-Jan 19:00,Eurocup (W),Lointek Gernika Bizkaia Women v Villeneuve D'Ascq Women
+Basketball,14-Jan 19:00,Portugal LPB,Lisboa e Benfica v Galitos FC
+Basketball,14-Jan 19:15,Croatia A1 Liga,Dubrava v Zadar
 Basketball,14-Jan 19:15,Iceland Premier League Women,Hamar Thor v Haukar Hafnarfjördur Women
 Basketball,14-Jan 19:15,Croatia A1 Liga,Dubrava v Zadar
+Basketball,14-Jan 19:15,Iceland Premier League Women,Hamar Thor v Haukar Hafnarfjördur Women
 Basketball,14-Jan 19:30,EuropeCup (M),Dinamo Basket Sassari v CAI Zaragoza
 Basketball,14-Jan 19:30,EuropeCup (M),UCAM Murcia v Rostock Seawolves
 Basketball,14-Jan 21:40,FIBA Basketball Champions League Americas,Franca Basquetebol Clube v Uni Concepcion
@@ -214,23 +176,23 @@ Basketball,14-Jan 23:15,Uruguay Liga Capital,Club Atletico Goes v Malvin
 Basketball,14-Jan 23:30,NCAA,High Point Panthers @ Winthrop Eagles
 Basketball,14-Jan 23:30,NCAA,Iowa Hawkeyes @ Purdue Boilermakers
 Basketball,14-Jan 23:30,NCAA,Butler Bulldogs @ Xavier Musketeers
-Basketball,15-Jan 00:00,NCAA,Davidson Wildcats @ George Washington Revolutionaries
+Basketball,15-Jan 00:00,NCAA,Sam Houston St. Bearkats @ Jacksonville St Gamecocks
 Basketball,15-Jan 00:00,NCAA,Auburn Tigers @ Missouri Tigers
-Basketball,15-Jan 00:00,NCAA,Illinois State Redbirds @ Indiana State Sycamores
+Basketball,15-Jan 00:00,NCAA,Ole Miss Rebels @ Georgia Bulldogs
 Basketball,15-Jan 00:00,NCAA,La Salle Explorers @ Richmond Spiders
-Basketball,15-Jan 00:00,NCAA,Colorado Buffaloes @ Cincinnati Bearcats
+Basketball,15-Jan 00:00,NCAA,Davidson Wildcats @ George Washington Revolutionaries
 Basketball,15-Jan 00:00,NCAA,St Bonaventure Bonnies @ Saint Josephs Hawks
-Basketball,15-Jan 00:00,NCAA,USC Upstate Spartans @ Charleston Southern Buccaneers
+Basketball,15-Jan 00:00,NCAA,Illinois State Redbirds @ Indiana State Sycamores
 Basketball,15-Jan 00:00,NCAA,East Carolina Pirates @ South Florida Bulls
-Basketball,15-Jan 00:00,NCAA,Furman Paladins @ Samford Bulldogs
-Basketball,15-Jan 00:00,NCAA,Furman Paladins @ Samford Bulldogs
+Basketball,15-Jan 00:00,NCAA,Colorado Buffaloes @ Cincinnati Bearcats
 Basketball,15-Jan 00:00,NCAA,Tulsa Golden Hurricanes @ Charlotte 49ers
-Basketball,15-Jan 00:00,NCAA,Colgate Raiders @ Loyola Maryland Greyhounds
+Basketball,15-Jan 00:00,NCAA,USC Upstate Spartans @ Charleston Southern Buccaneers
 Basketball,15-Jan 00:00,NCAA,Iona Gaels @ Rider Broncs
-Basketball,15-Jan 00:00,NCAA,Niagara Purple Eagles @ Canisius Griffins
+Basketball,15-Jan 00:00,NCAA,Furman Paladins @ Samford Bulldogs
 Basketball,15-Jan 00:00,NCAA,Pittsburgh Panthers @ Georgia Tech Yellow Jackets
-Basketball,15-Jan 00:00,NCAA,Sacred Heart Pioneers @ Siena Saints
+Basketball,15-Jan 00:00,NCAA,Colgate Raiders @ Loyola Maryland Greyhounds
 Basketball,15-Jan 00:00,NCAA,UNC Asheville Bulldogs @ Presbyterian Blue Hose
+Basketball,15-Jan 00:00,NCAA,Niagara Purple Eagles @ Canisius Griffins
 Basketball,15-Jan 00:00,NCAA,Coastal Carolina Chanticleers @ Marshall Thundering Herd
 Basketball,15-Jan 00:00,NCAA,Radford Highlanders @ Gardner Webb Runnin' Bulldogs
 Basketball,15-Jan 00:00,NCAA,Sam Houston St. Bearkats @ Jacksonville St Gamecocks
@@ -254,7 +216,6 @@ Basketball,15-Jan 01:00,NCAA,Temple Owls @ Memphis Tigers
 Basketball,15-Jan 01:00,NCAA,Drake University Bulldogs @ Southern Illinois Salukis
 Basketball,15-Jan 01:00,NCAA,Fordham Rams @ Saint Louis Billikens
 Basketball,15-Jan 01:00,NCAA,Rice Owls @ UTSA Roadrunners
-Basketball,15-Jan 01:00,NCAA,Rice Owls @ UTSA Roadrunners
 Basketball,15-Jan 01:00,NCAA,Central Florida Knights @ Kansas State Wildcats
 Basketball,15-Jan 01:00,NCAA,South Dakota State Jackrabbits @ North Dakota State Bison
 Basketball,15-Jan 01:00,NCAA,UL Lafayette Ragin' Cajuns @ Texas State Bobcats
@@ -263,12 +224,14 @@ Basketball,15-Jan 01:05,US NBA,Utah Jazz @ Chicago Bulls
 Basketball,15-Jan 01:10,FIBA Basketball Champions League Americas,Boca Juniors v Minas
 Basketball,15-Jan 01:30,NCAA,UCLA Bruins @ Penn State Nittany Lions
 Basketball,15-Jan 01:30,NCAA,Illinois Fighting Illini @ Northwestern Wildcats
+Basketball,15-Jan 01:30,NCAA,Illinois Fighting Illini @ Northwestern Wildcats
 Basketball,15-Jan 02:00,NCAA,Portland Pilots @ Pepperdine Waves
 Basketball,15-Jan 02:00,NCAA,Vanderbilt Commodores @ Texas Longhorns
 Basketball,15-Jan 02:00,NCAA,South Carolina Gamecocks @ Arkansas Razorbacks
 Basketball,15-Jan 02:00,NCAA,North Carolina Tar Heels @ Stanford Cardinal
 Basketball,15-Jan 02:00,NCAA,Oral Roberts Golden Eagles @ Denver Pioneers
 Basketball,15-Jan 02:00,NCAA,Utah Utes @ Texas Tech Red Raiders
+Basketball,15-Jan 02:00,NCAA,Virginia Tech Hokies @ SMU Mustangs
 Basketball,15-Jan 02:35,US NBA,Denver Nuggets @ Dallas Mavericks
 Basketball,15-Jan 03:00,NCAA,Nevada Wolfpack @ Utah State Aggies
 Basketball,15-Jan 03:00,NCAA,Pacific Tigers @ Santa Clara Broncos
@@ -285,13 +248,13 @@ Basketball,15-Jan 10:00,South Korea KBL,Goyang Skygunners v Wonju Dongbu Promy
 Basketball,15-Jan 10:00,South Korea KBL,SK Knights v Changwon LG Sakers
 Basketball,15-Jan 10:35,Australia NBL,Sydney Kings v Brisbane Bullets
 Basketball,15-Jan 11:00,Taiwan Super Basketball League,Yulon Dinos v Changhua BLL
-Basketball,15-Jan 11:00,Taiwan Super Basketball League,Yulon Dinos v Changhua BLL
 Basketball,15-Jan 11:35,China CBA,GuangDong Southern Tigers v Shanghai Sharks
 Basketball,15-Jan 11:35,China CBA,Beijing Royal Fighters v Jiangsu Dragons
 Basketball,15-Jan 11:35,China CBA,Shandong Heroes v Ningbo Rockets
 Basketball,15-Jan 11:35,China CBA,Qingdao Eagles v Jilin
 Basketball,15-Jan 11:35,China CBA,Zhejiang Lions v Sichuan Blue Whales
 Basketball,15-Jan 15:00,Qatar Basketball League,Al Shamal v Al-Rayyan
+Basketball,15-Jan 16:00,Lithuania King Mindaugas Cup,Rytas Vilnius v BC Siauliai
 Basketball,15-Jan 16:00,Lithuania King Mindaugas Cup,Rytas Vilnius v BC Siauliai
 Basketball,15-Jan 16:00,Lithuania NKL,KK Telsiai v Alytaus Alytus
 Basketball,15-Jan 16:00,Euroleague,BC Dubai v Virtus Bologna
@@ -316,7 +279,6 @@ Basketball,15-Jan 18:15,Eurocup (W),BC Kibirkstis Vilnius II (VKM) Women v CBK M
 Basketball,15-Jan 18:30,Euroleague,FC Bayern Munich Basketball v Panathinaikos BC
 Basketball,15-Jan 19:00,Germany Pro A,LTi Giessen 46ers v Artland Dragons
 Basketball,15-Jan 19:00,Eurocup (W),Castors Braine Women v AZS Lublin Women
-Basketball,15-Jan 19:00,Eurocup (W),Castors Braine Women v AZS Lublin Women
 Basketball,15-Jan 19:05,Euroleague,Maccabi Tel Aviv v Zalgiris Kaunas
 Basketball,15-Jan 19:05,US NBA,Memphis Grizzlies @ Orlando Magic
 Basketball,15-Jan 19:15,Iceland Premier League,Stjarnan v Keflavik
@@ -324,19 +286,98 @@ Basketball,15-Jan 19:15,Iceland Premier League,Tindastoll v IR Reykjavik
 Basketball,15-Jan 19:15,Iceland Premier League,Armann v Valur
 Basketball,15-Jan 19:15,Iceland Premier League,Thor v KR
 Basketball,15-Jan 19:15,Iceland Premier League,Njardvik v IA Akranes
+Basketball,15-Jan 19:15,Iceland Premier League,Njardvik v IA Akranes
 Basketball,15-Jan 19:30,Eurocup (W),Kangoeroes Basket Mechelen Women v Montpellier Women
 Basketball,15-Jan 19:30,Iceland Premier League,Grindavik v Alftanes
 Basketball,15-Jan 19:30,Euroleague,Olimpia Milano v KK Crvena Zvezda Beograd
 Basketball,15-Jan 19:30,Eurocup (W),CB Avenida Women v Ferrol Women
 Basketball,15-Jan 19:30,Italy A2 Gold,Gemini Mestre v Blu Basket Treviglio
 Basketball,15-Jan 19:45,Euroleague,Paris v Monaco
-Cricket,12-Jan 08:15,Australia Twenty20 Big Bash,Sydney Thunder v Melbourne Renegades
-Cricket,13-Jan 01:10,Women's Super Smash,Central Hinds Women v Northern Brave (W)
-Cricket,13-Jan 03:30,Vijay Hazare Trophy,Delhi v Vidarbha
-Cricket,13-Jan 03:30,Vijay Hazare Trophy,Punjab v Madhya Pradesh
-Cricket,13-Jan 04:55,New Zealand T20 Super Smash,Central Stags v Northern Brave
+Basketball,15-Jan 21:40,FIBA Basketball Champions League Americas,Uni Concepcion v Instituto (C)
+Basketball,15-Jan 22:00,Brazil NBB,Sao Jose v Cruzeiro
+Basketball,15-Jan 23:00,NCAA,UMBC Retrievers @ Bryant University Bulldogs
+Basketball,15-Jan 23:00,NCAA,New Jersey IT Highlanders @ Massachusetts Lowell River Hawks
+Basketball,15-Jan 23:00,NCAA,Mercer Bears @ Virginia Military Keydets
+Basketball,15-Jan 23:00,NCAA,New Mexico State Aggies @ Liberty Flames
+Basketball,15-Jan 23:00,Argentina LNB,Ciclista Olimpico v Regatas Corrientes
+Basketball,15-Jan 23:00,Brazil NBB,Paschoalotto/Bauru v Paulistano
+Basketball,15-Jan 23:15,Uruguay Liga Capital,Bigua v Urunday
+Basketball,15-Jan 23:15,Uruguay Liga Capital,Club Atletico Goes v Malvin
+Basketball,15-Jan 23:30,NCAA,Binghamton Bearcats @ Albany Great Danes
+Basketball,15-Jan 23:30,NCAA,Robert Morris Colonials @ IU Indy Jaguars
+Basketball,15-Jan 23:30,NCAA,James Madison Dukes @ Appalachian State Mountaineers
+Basketball,16-Jan 00:00,NCAA,Wisconsin Green Bay Phoenix @ Cleveland State Vikings
+Basketball,16-Jan 00:00,NCAA,Maine Black Bears @ Vermont Catamounts
+Basketball,16-Jan 00:00,NCAA,Detroit University Titans @ Northern Kentucky Norse
+Basketball,16-Jan 00:00,NCAA,Youngstown State Penguins @ Wright State Raiders
+Basketball,16-Jan 00:00,NCAA,Old Dominion Monarchs @ Georgia Southern Eagles
+Basketball,16-Jan 00:00,NCAA,Elon Phoenix @ Northeastern Huskies
+Basketball,16-Jan 00:00,NCAA,Drexel Dragons @ Monmouth Hawks
+Basketball,16-Jan 00:00,NCAA,The Citadel Bulldogs @ NC Greensboro Spartans
+Basketball,16-Jan 00:00,NCAA,Queens Royals @ Florida Gulf Coast Eagles
+Basketball,16-Jan 00:00,NCAA,West Georgia Wolves @ Stetson Hatters
+Basketball,16-Jan 00:00,NCAA,North Carolina A&T Aggies @ William & Mary Tribe
+Basketball,16-Jan 00:00,NCAA,North Carolina A&T Aggies @ William & Mary Tribe
+Basketball,16-Jan 00:00,NCAA,Hofstra Pride @ Stony Brook Seawolves
+Basketball,16-Jan 00:00,NCAA,North Florida Ospreys @ North Alabama Lions
+Basketball,16-Jan 00:00,NCAA,UTEP Miners @ Delaware Fightin Blue Hens
+Basketball,16-Jan 00:05,US NBA,Phoenix Suns @ Detroit Pistons
+Basketball,16-Jan 00:10,FIBA Basketball Champions League Americas,Minas v Aguada
+Basketball,16-Jan 00:15,Uruguay Liga Capital,Defensor Sporting v Union Atletica
+Basketball,16-Jan 00:30,NCAA,Jacksonville Dolphins @ Central Arkansas Bears
+Basketball,16-Jan 00:35,US NBA,Oklahoma City Thunder @ Houston Rockets
+Basketball,16-Jan 00:35,US NBA,Boston Celtics @ Miami Heat
+Basketball,16-Jan 01:00,NCAA,Kansas City Roos @ South Dakota Coyotes
+Basketball,16-Jan 01:00,NCAA,Oakland Univ Golden Grizzlies @ Wisconsin Milwaukee Panthers
+Basketball,16-Jan 01:00,NCAA,Arkansas State Red Wolves @ South Alabama Jaguars
+Basketball,16-Jan 01:00,NCAA,St. Thomas (MN) Tommies @ North Dakota Fighting Hawks
+Basketball,16-Jan 01:00,NCAA,College of Charleston Cougars @ Towson Tigers
+Basketball,16-Jan 01:00,NCAA,Eastern Kentucky Colonels @ Austin Peay Governors
+Basketball,16-Jan 01:00,NCAA,Bellarmine Knights @ Lipscomb Bisons
+Basketball,16-Jan 01:00,NCAA,Cal Baptist Lancers @ Abilene Christian Wildcats
+Basketball,16-Jan 01:00,NCAA,Eastern Illinois Panthers @ Arkansas Little Rock Trojans
+Basketball,16-Jan 01:05,US NBA,Milwaukee Bucks @ San Antonio Spurs
+Basketball,16-Jan 01:10,Argentina LNB,Club Atletico San Lorenzo de Almagro v Ferro Caba
+Basketball,16-Jan 01:30,NCAA,Lindenwood Lions @ Southeast Missouri State Redhawks
+Basketball,16-Jan 01:30,NCAA,Morehead St Eagles @ Tennessee State Tigers
+Basketball,16-Jan 01:30,NCAA,Tarleton State Texans @ Southern Utah Thunderbirds
+Basketball,16-Jan 01:30,NCAA,Southern Indiana Screaming Eagles @ Tennessee Tech Golden Eagles
+Basketball,16-Jan 01:30,NCAA,SIU Edwardsville Cougars @ Tennessee Martin Skyhawks
+Basketball,16-Jan 01:35,US NBA,Utah Jazz @ Dallas Mavericks
+Basketball,16-Jan 02:00,NCAA,Texas Arlington Mavericks @ Utah Tech Trailblazers
+Basketball,16-Jan 02:00,NCAA,Wichita State Shockers @ Florida Atlantic Owls
+Basketball,16-Jan 02:00,NCAA,Idaho Vandals @ Idaho St Bengals
+Basketball,16-Jan 02:00,NCAA,Eastern Washington Eagles @ Weber State Wildcats
+Basketball,16-Jan 02:00,NCAA,Eastern Washington Eagles @ Weber State Wildcats
+Basketball,16-Jan 02:00,NCAA,Cal State Fullerton Titans @ UC Davis Aggies
+Basketball,16-Jan 02:30,NCAA,UC Santa Barbara Gauchos @ Cal State Bakersfield Roadrunners
+Basketball,16-Jan 03:00,NCAA,Gonzaga Bulldogs @ Washington State Cougars
+Basketball,16-Jan 03:00,NCAA,San Diego Toreros @ Seattle Redhawks
+Basketball,16-Jan 03:00,NCAA,Hawaii Rainbow Warriors @ Cal Poly Slo Mustangs
+Basketball,16-Jan 03:00,NCAA,Cal Riverside Highlanders @ Long Beach State Beach
+Basketball,16-Jan 03:00,NCAA,Northern Arizona Lumberjacks @ Sacramento St Hornets
+Basketball,16-Jan 03:00,NCAA,Northern Colorado Bears @ Portland St Vikings
+Basketball,16-Jan 03:00,NCAA,CS Northridge Matadors @ UC San Diego Tritons
+Basketball,16-Jan 03:05,US NBA,New York Knicks @ Golden State Warriors
+Basketball,16-Jan 03:05,US NBA,Atlanta Hawks @ Portland Trail Blazers
+Basketball,16-Jan 03:35,US NBA,Charlotte Hornets @ Los Angeles Lakers
+Basketball,16-Jan 08:00,Australia WNBL,Geelong United v Sydney Uni Flames Women
+Basketball,16-Jan 10:00,Korea WKBL,KB Stars Women v Shinhan Bank S-Birds Women
+Basketball,16-Jan 10:35,Australia NBL,Perth Wildcats v Illawarra Hawks
+Basketball,16-Jan 11:00,Israel Ligat Haal,Hapoel Beer Sheva v Hapoel Gilboa Galil Elyon
+Basketball,16-Jan 11:30,Indonesia IBL,Satya Wacana Angsapura v Rajawali Medan
+Basketball,16-Jan 11:35,China CBA,Nanjing Monkey Kings v Shenzhen Leopards
+Basketball,16-Jan 11:35,China CBA,Beijing Ducks v Shanxi Loongs
+Basketball,16-Jan 11:35,China CBA,Liaoning Flying Leopards v Xinjiang Flying Tigers
+Basketball,16-Jan 12:00,Indonesia IBL,Bumi Borneo Basketball Pontianak v Tangerang Hawks Basketball
+Boxing,16-Jan 09:30,Boxing Bouts,Max Reeves v Sonny Abid
+Boxing,16-Jan 10:00,Boxing Bouts,Demsey McKean v Toese Vousiutu
+Boxing,16-Jan 10:30,Boxing Bouts,Stevan Ivic v Liam Talivaa
+Boxing,16-Jan 11:00,Boxing Bouts,Liam Paro v Paddy Donovan
+Boxing,16-Jan 11:00,Boxing Bouts,Blake Wells v Ainiwaer Yilixiati
+Boxing,16-Jan 11:30,Boxing Bouts,Liam Wilson v Rodex Piala
+Boxing,16-Jan 12:00,Boxing Bouts,Nikita Tszyu v Michael Zerafa
 Cricket,13-Jan 07:30,U19 World Cup Warm-ups,Pakistan Under-19s v USA Under-19s
-Cricket,13-Jan 08:15,Australia Twenty20 Big Bash,Melbourne Stars v Adelaide Strikers
 Cricket,13-Jan 10:30,Oman Super League T20,Oman Development Team v Renaissance Challengers
 Cricket,13-Jan 13:00,ICCA Arabian Cricket League Phase 1,Galaxy CC v CSS Group
 Cricket,13-Jan 13:30,CWI T20 Blaze,Windward Islands Women v Guyana Women
@@ -344,6 +385,7 @@ Cricket,13-Jan 14:00,Womens Premier League,Mumbai Indians Women v Gujarat Giants
 Cricket,13-Jan 15:30,Oman Super League T20,IAS Invincibles v Majees Titans
 Cricket,13-Jan 15:30,SA20,Paarl Royals v Durban's Super Giants
 Cricket,13-Jan 17:00,ICCA Arabian Cricket League Phase 1,Z Sports v Dubai Dare Devils
+Cricket,13-Jan 17:00,Falcons Champions Trophy T20,Fakhr E Kashmir v Al Hajery CC
 Cricket,13-Jan 18:30,CWI T20 Blaze,Jamaica Women v Leeward Islands Women
 Cricket,13-Jan 23:00,CWI T20 Blaze,Trinidad & Tobago Women v Barbados Women
 Cricket,13-Jan 23:40,New Zealand T20 Super Smash,Auckland Aces v Canterbury Kings
@@ -361,10 +403,11 @@ Cricket,14-Jan 08:30,Womens National Super League T20,Team Blues v Team Green (S
 Cricket,14-Jan 13:00,ICCA Arabian Cricket League Phase 1,DCC Starlets v ZMI Holdings
 Cricket,14-Jan 14:00,Womens Premier League,UP Warriorz v Delhi Capitals Women
 Cricket,14-Jan 15:30,SA20,Sunrisers Eastern Cape v Joburg Super Kings
-Cricket,14-Jan 15:30,SA20,Sunrisers Eastern Cape v Joburg Super Kings
+Cricket,14-Jan 17:00,Falcons Champions Trophy T20,Thunder Cats v Phoenix Riders
 Cricket,14-Jan 23:40,Women's Super Smash,Otago Sparks Women v Wellington Blaze Women
 Cricket,15-Jan 03:25,New Zealand T20 Super Smash,Otago Volts v Wellington Firebirds
 Cricket,15-Jan 04:00,Womens National Super League T20,Team Green (SLK) v Team Greys
+Cricket,15-Jan 07:00,Bangladesh Premier League,Chattogram Royals v Noakhali Express
 Cricket,15-Jan 07:00,Bangladesh Premier League,Chattogram Royals v Noakhali Express
 Cricket,15-Jan 07:30,U19 World Cup,Zimbabwe Under-19s v Scotland Under-19s
 Cricket,15-Jan 07:30,U19 World Cup,USA Under-19s v India Under-19s
@@ -377,18 +420,26 @@ Cricket,15-Jan 13:30,CWI T20 Blaze,Barbados Women v Jamaica Women
 Cricket,15-Jan 14:00,Womens Premier League,Mumbai Indians Women v UP Warriorz
 Cricket,15-Jan 15:30,SA20,Pretoria Capitals v Paarl Royals
 Cricket,15-Jan 15:30,Oman Super League T20,Renaissance Challengers v IAS Invincibles
+Cricket,15-Jan 16:30,Falcons Champions Trophy T20,MEC Study Group v AP XI
 Cricket,15-Jan 17:00,ICCA Arabian Cricket League Phase 1,ZMI Holdings v Dubai Dare Devils
 Cricket,15-Jan 18:30,CWI T20 Blaze,Windward Islands Women v Trinidad & Tobago Women
-Darts,13-Jan 09:35,Modus Super Series,Lorraine Hyde v Vicky Pruim
-Darts,13-Jan 09:45,Modus Super Series,Fallon Sherrock v Lisa Ashton
-Darts,13-Jan 09:55,Modus Super Series,Rhian O'Sullivan v Kirsi Viinikainen
-Darts,13-Jan 10:05,Modus Super Series,Lisa Ashton v Lorraine Hyde
-Darts,13-Jan 10:15,Modus Super Series,Vicky Pruim v Kirsi Viinikainen
-Darts,13-Jan 10:25,Modus Super Series,Fallon Sherrock v Rhian O'Sullivan
-Darts,13-Jan 10:35,Modus Super Series,Kirsi Viinikainen v Lisa Ashton
-Darts,13-Jan 10:45,Modus Super Series,Lorraine Hyde v Fallon Sherrock
-Darts,13-Jan 10:55,Modus Super Series,Rhian O'Sullivan v Vicky Pruim
-Darts,13-Jan 11:05,Modus Super Series,Lorraine Hyde v Kirsi Viinikainen
+Cricket,15-Jan 19:45,Falcons Champions Trophy T20,Al Mulla Exchange - B v Tally Rangers
+Cricket,15-Jan 23:00,CWI T20 Blaze,Guyana Women v Leeward Islands Women
+Cricket,16-Jan 01:10,Women's Super Smash,Central Hinds Women v Auckland Hearts Women
+Cricket,16-Jan 03:15,Women's T20 World Cup Warm-Up Matches,Papua New Guinea Women v Scotland Women
+Cricket,16-Jan 03:15,Women's T20 World Cup Warm-Up Matches,Ireland Women v Zimbabwe Women
+Cricket,16-Jan 03:15,Women's T20 World Cup Warm-Up Matches,Netherlands Women v Namibia Women
+Cricket,16-Jan 03:30,Falcons Champions Trophy T20,Challenging Stars v Toyota TGS
+Cricket,16-Jan 04:55,New Zealand T20 Super Smash,Central Stags v Auckland Aces
+Cricket,16-Jan 06:30,Falcons Champions Trophy T20,Fire Dragons v Ashes
+Cricket,16-Jan 07:15,Women's T20 World Cup Warm-Up Matches,Nepal Women v USA Women
+Cricket,16-Jan 07:15,Women's T20 World Cup Warm-Up Matches,Thailand Women v Bangladesh Women
+Cricket,16-Jan 07:30,U19 World Cup,Australia Under 19s v Ireland Under-19s
+Cricket,16-Jan 07:30,U19 World Cup,Afghanistan Under-19s v South Africa Under-19s
+Cricket,16-Jan 07:30,U19 World Cup,Pakistan Under-19s v England Under-19s
+Cricket,16-Jan 08:00,Bangladesh Premier League,Rangpur Riders v Dhaka Capital
+Cricket,16-Jan 08:15,Australia Twenty20 Big Bash,Sydney Sixers v Sydney Thunder
+Cricket,16-Jan 08:15,Australia Twenty20 Big Bash,Sydney Sixers v Sydney Thunder
 Darts,13-Jan 11:15,Modus Super Series,Lisa Ashton v Rhian O'Sullivan
 Darts,13-Jan 11:25,Modus Super Series,Fallon Sherrock v Vicky Pruim
 Darts,13-Jan 11:35,Modus Super Series,Rhian O'Sullivan v Lorraine Hyde
@@ -409,145 +460,88 @@ Darts,14-Jan 11:25,Modus Super Series,Rhian O'Sullivan v Fallon Sherrock
 Darts,14-Jan 11:35,Modus Super Series,Lorraine Hyde v Vicky Pruim
 Darts,14-Jan 11:45,Modus Super Series,Fallon Sherrock v Lisa Ashton
 Darts,14-Jan 11:55,Modus Super Series,Kirsi Viinikainen v Rhian O'Sullivan
-Football,12-Jan 00:00,Saudi Arabia Pro League,Al Ahli Jeddah (KSA) v Al Taawon Buraydah (KSA)
-Football,12-Jan 00:00,Saudi Arabia Pro League,Al Shabab Riyadh v Neom SC
-Football,12-Jan 00:00,Saudi Arabia Pro League,Al-Quadisiya (KSA) v Al Feiha (KSA)
-Football,12-Jan 11:30,Singapore Premier League,Tanjong Pagar United FC v Hougang United
-Football,12-Jan 15:00,Nigeria Premier League,Ikorodu City v Kwara United
-Football,12-Jan 15:00,Nigeria Premier League,Bayelsa United v Shooting Stars SC
-Football,12-Jan 15:00,Nigeria Premier League,Kano Pillars FC v Abia Warriors
-Football,12-Jan 15:00,Nigeria Premier League,Nasarawa United v Niger Tornadoes
-Football,12-Jan 15:00,Nigeria Premier League,Kun Khalifa v Enugo Rangers
-Football,12-Jan 15:00,Nigeria Premier League,Plateau United FC v Wikki Tourists
-Football,12-Jan 15:00,Nigeria Premier League,Warri Wolves v Katsina United
-Football,12-Jan 15:00,Nigeria Premier League,Rivers United v Remo Stars
-Football,12-Jan 16:30,Senegal Ligue 1,US Ouakam v Guediawaye FC
-Football,12-Jan 18:00,Egypt League Cup,National Bank of Egypt SC v Ismaily
-Football,12-Jan 18:00,Brazil Sao Paulo Youth Cup,Bahia BA U20 v Atletico PI U20
-Football,12-Jan 18:15,Brazil Sao Paulo Youth Cup,Gremio Foot-Ball Porto Alegrense U20 v Atletico BA U20
-Football,12-Jan 19:00,Netherlands Eerste Divisie,Jong PSV v TOP Oss
-Football,12-Jan 19:00,England Women's Championship,Sheffield United W.F.C. v Crystal Palace Women
-Football,12-Jan 19:00,Netherlands Eerste Divisie,Jong AZ Alkmaar v Jong Ajax
-Football,12-Jan 19:00,EFL Trophy,AFC Wimbledon v West Ham United U21
-Football,12-Jan 19:00,England Premier League 2,Blackburn U21 v Nottm Forest U21
-Football,12-Jan 19:00,England Premier League 2,Wolverhampton Wanderers FC U21 v Manchester United U21
-Football,12-Jan 19:00,England Premier League Cup,Preston U21 v Ipswich U21
-Football,12-Jan 19:30,Spain Segunda Division,Huesca v Cordoba
-Football,12-Jan 19:30,Italy Lega Pro Prima Divisione Girone C,Salernitana v Nuova Cosenza Calcio
-Football,12-Jan 19:30,Italy Lega Pro Prima Divisione Girone C,SS Giugliano Calcio 1928 v Polisportiva AZ Picerno
-Football,12-Jan 19:45,England Isthmian League Premier Division,Potters Bar Town v Hashtag United
-Football,12-Jan 19:45,England Isthmian League Premier Division,Aveley v Chichester
-Football,12-Jan 19:45,England Isthmian League Premier Division,Carshalton Athletic FC v Cheshunt
-Football,12-Jan 19:45,Italy Serie A,Juventus v Cremonese
-Football,12-Jan 19:45,England FA Cup,Liverpool v Barnsley
-Football,12-Jan 19:45,England FA Cup,Liverpool v Barnsley
-Football,12-Jan 19:45,England Southern League Division One South,Melksham v Willand Rovers
-Football,12-Jan 20:00,Spain Primera Division,Sevilla v Celta Vigo
-Football,12-Jan 20:00,Jamaica Premier League,Spanish Town Police v Tivoli Gardens FC
-Football,12-Jan 20:00,Gibraltar Premier Division,Lions Gibraltar v Manchester 62
-Football,12-Jan 20:10,France Cup,Paris Saint Germain v Paris FC
-Football,12-Jan 20:30,Brazil Sao Paulo Youth Cup,Santos FC U20 v Cuiaba U20
-Football,12-Jan 21:00,Brazil Sao Paulo Youth Cup,America MG U20 v Inter Limeira U20
-Football,12-Jan 21:30,Brazil Sao Paulo Youth Cup,Goias EC U20 v Mirassol U20
-Football,12-Jan 21:45,Brazil Sao Paulo Youth Cup,Clube Atletico Paranaense U20 v Ceara SC Fortaleza U20
-Football,12-Jan 22:00,Copa de la Liga AUF,Boston River v Danubio Montevideo
-Football,12-Jan 22:00,Brazil Sao Paulo Youth Cup,Chapecoense AF U20 v Votuporanguense U20
-Football,12-Jan 22:00,Brazil Sao Paulo Youth Cup,Gremio Prudente U20 v Oeste FC U20
-Football,12-Jan 22:00,Brazil Sao Paulo Youth Cup,Guanabara City FC U20 v Tuna Luso U20
-Football,12-Jan 22:00,Brazil Sao Paulo Youth Cup,Ferroviaria U20 v Real Brasilia U20
-Football,12-Jan 23:00,Brazil Acreano,Independencia Futebol Clube v Santa Cruz AC
-Football,12-Jan 23:00,Brazil Sao Paulo Youth Cup,Athletic Club MG U20 v XV de Jau U20
-Football,12-Jan 23:30,Brazil Sao Paulo Youth Cup,Ponte Preta U20 v Francana U20
-Football,13-Jan 00:00,Brazil Amazonense 1 Division,Manaus AM v Parintins
-Football,13-Jan 00:00,Mexico Liga MX Femenil,Toluca Women v FC Atlas Women
-Football,13-Jan 00:00,Brazil Sao Paulo Youth Cup,Sport Recife U20 v America FC RN U20
-Football,13-Jan 00:00,Club Friendly,Cerro Largo v Atletico Tucuman
-Football,13-Jan 00:20,Brazil Sao Paulo Youth Cup,SC Corinthians U20 v Guarani FC SP U20
-Football,13-Jan 00:30,Jamaica Premier League,Arnett Gardens FC v Harbour View
-Football,13-Jan 00:30,Argentina Torneo Federal,CA Villa Belgrano v Club Rivadavia Lincoln
-Football,13-Jan 00:30,Copa de la Liga AUF,Penarol v Central Espanol
-Football,13-Jan 01:00,Mexico Liga MX Femenil,Mazatlan Women v Club Santos Laguna Women
-Football,13-Jan 08:00,Liga Nusantara,Persebata Lembata v Persiba Bantul
-Football,13-Jan 08:00,Liga Nusantara,Persitara v PSGC Ciamis
-Football,13-Jan 08:00,Australia A-League Women,Sydney FC Women v Newcastle Jets Women
-Football,13-Jan 09:00,Myanmar National League,Ayeyawady United v Ispe
-Football,13-Jan 09:00,Myanmar National League,Ayeyawady United v Ispe
-Football,13-Jan 09:30,Myanmar National League,Mahar Utd v Yadanarbon
 Football,13-Jan 10:00,Club Friendly,Atzeneta UE v CFR Cluj
-Football,13-Jan 10:00,Arena Cup,Primorje v Arsimi
-Football,13-Jan 10:00,Turkey Cup,Alanyaspor v Karagumruk
+Football,13-Jan 10:00,Club Friendly,Primorje v Aresimi 1973
+Football,13-Jan 10:30,Club Friendly,Randers FC v Viborg FF
 Football,13-Jan 11:00,Portugal Liga Revelacao U23,Famalicao U23 v Leixoes SC U23
 Football,13-Jan 11:30,AFC U23 Championship,Uzbekistan U23 v Korea Republic U23
 Football,13-Jan 11:30,AFC U23 Championship,Iran U23 v Lebanon U23
-Football,13-Jan 12:00,Czech Republic Tipsport Liga,Tatran Presov v Kromeriz
-Football,13-Jan 12:00,Czech Republic Tipsport Liga,Vlasim v Dukla Prague B
-Football,13-Jan 12:00,Club Friendly,Banik Ostrava II v MFK Tatran Liptovsky Mikulas
+Football,13-Jan 12:00,Iraq Stars League,Al Shorta (Iraq) v Al Musel
 Football,13-Jan 12:00,Liga Nusantara,Perserang Serang v Pekanbaru
+Football,13-Jan 12:00,Club Friendly,Banik Ostrava II v MFK Tatran Liptovsky Mikulas
+Football,13-Jan 12:00,Czech Republic Tipsport Liga,Vlasim v Dukla Prague B
+Football,13-Jan 12:00,Iraq Stars League,Diala v Al Zawraa (IRQ)
+Football,13-Jan 12:00,Club Friendly,Bodo Glimt v Diosgyor
 Football,13-Jan 12:00,Portugal Liga Revelacao U23,Braga U23 v Santa Clara U23
+Football,13-Jan 12:00,Czech Republic Tipsport Liga,Tatran Presov v Kromeriz
 Football,13-Jan 12:30,Turkey Cup,Basaksehir v Boluspor
 Football,13-Jan 12:30,Egypt Cup,WE Telecom v Pharco FC
 Football,13-Jan 12:35,Saudi Arabia Division 1,Al-Raed (KSA) v Al-Zulfi
 Football,13-Jan 12:45,Saudi Arabia Division 1,Al-Orubah (KSA) v Jeddah Club (KSA)
-Football,13-Jan 13:00,England U21 Professional Development League,Bristol City U21 v Swansea City U21
-Football,13-Jan 13:00,Israel U19 Elite Division,Maccabi Herzliya U19 v Hapoel Qiryat Shemona U19
-Football,13-Jan 13:00,England U21 Professional Development League,Coventry U21 v Crewe Alexandra U21
+Football,13-Jan 13:00,England Central League Cup,Blackpool Reserves v Blackburn Reserves
 Football,13-Jan 13:00,Malaysia Super League,Kelantan United v Sabah
-Football,13-Jan 13:00,Malaysia Super League,Terengganu FA v Brunei DPMM FC
+Football,13-Jan 13:00,England U21 Professional Development League,Bristol City U21 v Swansea City U21
 Football,13-Jan 13:00,England U21 Professional Development League,Huddersfield U21 v Sheffield United U21
 Football,13-Jan 13:00,Uganda Premier League,Uganda Revenue Authority SC v Gaddafi FC
 Football,13-Jan 13:00,England U21 Professional Development League,Hull City U21 v Fleetwood Town U21
+Football,13-Jan 13:00,Malaysia Super League,Terengganu FA v Brunei DPMM FC
 Football,13-Jan 13:00,England U21 Professional Development League,Wigan Athletic U21 v Peterborough FC U21
+Football,13-Jan 13:00,England U21 Professional Development League,Coventry U21 v Crewe Alexandra U21
+Football,13-Jan 13:00,Israel U19 Elite Division,Maccabi Herzliya U19 v Hapoel Qiryat Shemona U19
+Football,13-Jan 13:00,England Central League,Chesterfield (Res) v Derby County Reserves
+Football,13-Jan 13:30,Club Friendly,HNK Gorica v NK Radomlje
 Football,13-Jan 13:30,Club Friendly,Grazer AK v KFC Komarno
-Football,13-Jan 13:30,Arena Cup,Slaven Koprivnica v NK Vukovar '91
+Football,13-Jan 13:30,Club Friendly,Grazer AK v KFC Komarno
+Football,13-Jan 13:30,Club Friendly,Slaven Koprivnica v NK Vukovar '91
 Football,13-Jan 13:55,Israel U19 Elite Division,Maccabi Haifa U19 v Hapoel Akko U19
-Football,13-Jan 14:00,Israel U19 Elite Division,Hapoel Raanana U19 v Bnei Yehuda Tel Aviv U19
-Football,13-Jan 14:00,Israel U19 Elite Division,Hapoel Tel Aviv U19 v Hapoel Petach Tikva U19
-Football,13-Jan 14:00,Israel U19 Elite Division,Hapoel Tel Aviv U19 v Hapoel Petach Tikva U19
 Football,13-Jan 14:00,Israel U19 Elite Division,Maccabi Petach Tikva U19 v Maccabi Tel Aviv Shachar U19
+Football,13-Jan 14:00,Israel U19 Elite Division,Hapoel Nir Ramat Hasharon U19 v Hapoel Beer Sheva Hashlosha U19
+Football,13-Jan 14:00,Brazil Sao Paulo Youth Cup,Nacional SP U20 v CA Juventus Sao Paulo U20
 Football,13-Jan 14:00,Brazil Sao Paulo Youth Cup,Operario PR U20 v Independente FC U20
-Football,13-Jan 14:00,Israel U19 Elite Division,Hapoel Kfar Saba U19 v Beitar Jerusalem Oren U19
 Football,13-Jan 14:00,Brazil Sao Paulo Youth Cup,Fortaleza U20 v Gremio Novorizontino U20
 Football,13-Jan 14:00,Brazil Sao Paulo Youth Cup,Ituano U20 v Agua Santa U20
-Football,13-Jan 14:00,Brazil Sao Paulo Youth Cup,Nacional SP U20 v CA Juventus Sao Paulo U20
+Football,13-Jan 14:30,Iraq Stars League,Arbil FC v Duhok
+Football,13-Jan 14:30,Iraq Stars League,Al Karma v Al Qasim
+Football,13-Jan 14:30,Iraq Stars League,Baghdad SC v Al Quwa Al Jawiya
 Football,13-Jan 15:00,England Northern Premier League Division One West,Clitheroe v Nantwich Town FC
 Football,13-Jan 15:00,Turkey Cup,Gaziantep BB SK v Kocaelispor
 Football,13-Jan 15:00,Portugal Liga Revelacao U23,Torreense U23 v SL Benfica Lisbon U23
 Football,13-Jan 15:25,Saudi Arabia Pro League,Al-Akhdoud (KSA) v Al-Kholood
 Football,13-Jan 15:30,Israel U19 Elite Division,FC Ashdod U19 v Hapoel Rishon Lezion Yehuda U19
-Football,13-Jan 16:00,Israel U19 Elite Division,Hapoel Nir Ramat Hasharon U19 v Hapoel Beer Sheva Hashlosha U19
+Football,13-Jan 16:00,Mauritania Premier League,ASC Police v Asc Gendrim
 Football,13-Jan 16:00,Bahrain Premier League,Al-Najma (BRN) v Al Riffa
 Football,13-Jan 16:00,Bahrain Premier League,Al-Shabbab Manama v Al-Budaiya
-Football,13-Jan 16:00,Mauritania Premier League,ASC Police v Asc Gendrim
 Football,13-Jan 16:15,Spain Tercera Division,CD Son Cladera v Pena Deportiva
 Football,13-Jan 16:30,AFC U23 Championship,United Arab Emirates U23 v Syria U23
 Football,13-Jan 16:30,AFC U23 Championship,Japan U23 v Qatar U23
-Football,13-Jan 17:00,Israel State Cup,Bnei Yehuda Tel Aviv v Maccabi Herzliya
 Football,13-Jan 17:00,Portugal Liga Revelacao U23,Sporting Clube de Portugal U23 v Academico Viseu U23
-Football,13-Jan 17:30,Spain Tercera Division,UD Las Palmas III v Tenerife C
-Football,13-Jan 17:30,Saudi Arabia Pro League,Al-Fateh (KSA) v Al-Riyadh
-Football,13-Jan 17:30,Germany Bundesliga 1,Stuttgart v Eintracht Frankfurt
-Football,13-Jan 17:30,Brazil Sao Paulo Youth Cup,Retro FC U20 v Internacional U20
+Football,13-Jan 17:00,Israel State Cup,Bnei Yehuda Tel Aviv v Maccabi Herzliya
 Football,13-Jan 17:30,Saudi Arabia Pro League,Dhamk (KSA) v Al Ittihad (KSA)
-Football,13-Jan 17:30,Israel Liga Alef North,Tzeirei Umm Al Fahm v Hapoel Um El-Phahem
-Football,13-Jan 17:30,Turkey Cup,Fethiyespor v Galatasaray
-Football,13-Jan 17:30,Spain Tercera Division,UD Las Palmas III v Real Union de Tenerife
+Football,13-Jan 17:30,Saudi Arabia Pro League,Al-Fateh (KSA) v Al-Riyadh
 Football,13-Jan 17:30,Israel State Cup,Hapoel Petach Tikva v Maccabi Bnei Reiyne
-Football,13-Jan 17:45,Netherlands KNVB Cup,De Treffers v NEC Nijmegen
-Football,13-Jan 17:45,Netherlands KNVB Cup,De Treffers v NEC Nijmegen
+Football,13-Jan 17:30,Brazil Sao Paulo Youth Cup,Retro FC U20 v Internacional U20
+Football,13-Jan 17:30,Germany Bundesliga 1,Stuttgart v Eintracht Frankfurt
+Football,13-Jan 17:30,Spain Tercera Division,UD Las Palmas III v Real Union de Tenerife
+Football,13-Jan 17:30,Spain Tercera Division,UD Las Palmas III v Real Union de Tenerife
+Football,13-Jan 17:30,Spain Tercera Division,UD Las Palmas III v Tenerife C
+Football,13-Jan 17:30,Brazil Sao Paulo Youth Cup,Retro FC U20 v Internacional U20
+Football,13-Jan 17:30,Turkey Cup,Fethiyespor v Galatasaray
+Football,13-Jan 17:45,Club Friendly,Fortuna Dusseldorf II v S-W Rehden
 Football,13-Jan 17:45,Israel State Cup,Maccabi Netanya v Maccabi Kabilio Jaffa
-Football,13-Jan 18:00,Brazil Sao Paulo Youth Cup,Aster Itaqua U20 v Uniao Mogi SP U20
-Football,13-Jan 18:00,Algeria Cup,MC Alger v ES Ben Aknoun
-Football,13-Jan 18:00,Brazil Sao Paulo Youth Cup,AA Flamengo Guarulhos U20 v Monte Roraima U20
-Football,13-Jan 18:00,Spain Primera Division Women,Real Madrid Women v Athletic Bilbao Women
-Football,13-Jan 18:00,Brazil Sao Paulo Youth Cup,Ibrachina U20 v Clube Atletico Mineiro U20
+Football,13-Jan 17:45,Netherlands KNVB Cup,De Treffers v NEC Nijmegen
 Football,13-Jan 18:00,Israel State Cup,Hapoel Beer Sheva v Hapoel Katamon Jerusalem
-Football,13-Jan 18:00,Brazil Sao Paulo Youth Cup,AB Projeto Nordeste Canaa U20 v Figueirense FC Florianopolis U20
+Football,13-Jan 18:00,Brazil Sao Paulo Youth Cup,Aster Itaqua U20 v Uniao Mogi SP U20
 Football,13-Jan 18:00,Brazil Sao Paulo Youth Cup,Bragantino U20 v Comercial FC Tiete U20
+Football,13-Jan 18:00,Brazil Sao Paulo Youth Cup,AA Flamengo Guarulhos U20 v Monte Roraima U20
 Football,13-Jan 18:00,Brazil Sao Paulo Youth Cup,Juventude U20 v Aguia de Maraba U20
+Football,13-Jan 18:00,Brazil Sao Paulo Youth Cup,Ibrachina U20 v Clube Atletico Mineiro U20
+Football,13-Jan 18:00,Spain Primera Division Women,Real Madrid Women v Athletic Bilbao Women
+Football,13-Jan 18:00,Brazil Sao Paulo Youth Cup,AB Projeto Nordeste Canaa U20 v Figueirense FC Florianopolis U20
+Football,13-Jan 18:00,Algeria Cup,MC Alger v ES Ben Aknoun
 Football,13-Jan 19:00,England U21 Professional Development League,Cardiff U21 v Watford U21
-Football,13-Jan 19:00,England U21 Professional Development League,QPR U21 v Brentford U21
-Football,13-Jan 19:00,EFL Trophy,Stockport County v Harrogate Town
 Football,13-Jan 19:00,EFL Trophy,Bolton Wanderers v Port Vale
+Football,13-Jan 19:00,EFL Trophy,Stockport County v Harrogate Town
+Football,13-Jan 19:00,England U21 Professional Development League,QPR U21 v Brentford U21
 Football,13-Jan 19:00,EFL Trophy,Luton Town v Swindon Town
 Football,13-Jan 19:00,EFL Trophy,Huddersfield Town v Rotherham
 Football,13-Jan 19:00,EFL Trophy,Doncaster v Fleetwood Town
@@ -555,70 +549,72 @@ Football,13-Jan 19:00,EFL Trophy,Bristol Rovers v Plymouth Argyle
 Football,13-Jan 19:00,EFL Trophy,West Ham United U21 v AFC Wimbledon
 Football,13-Jan 19:30,Belgium Beker van Belgie,Charleroi v Club Brugge
 Football,13-Jan 19:30,Belgium Beker van Belgie,Royal Antwerp v RAAL La Louviere
+Football,13-Jan 19:30,Club Friendly,Finn Harps v Sligo Rovers
 Football,13-Jan 19:30,Germany Bundesliga 1,Mainz 05 v FC Heidenheim
 Football,13-Jan 19:30,Germany Bundesliga 1,Hamburger SV v Bayer Leverkusen
+Football,13-Jan 19:30,Germany Bundesliga 1,Borussia Dortmund v Werder Bremen
 Football,13-Jan 19:30,Germany Bundesliga 1,Borussia Dortmund v Werder Bremen
 Football,13-Jan 19:30,Club Friendly,Sligo Rovers v Finn Harps
 Football,13-Jan 19:45,England National League South,Dover v Hemel Hempstead Town
 Football,13-Jan 19:45,Scotland Challenge Cup,St Johnstone v Ross County
 Football,13-Jan 19:45,England League One,Mansfield Town v Peterborough United
 Football,13-Jan 19:45,Scotland Challenge Cup,Stirling Albion v Stenhousemuir
-Football,13-Jan 19:45,England Southern League Division One South,Falmouth Town v Bishops Cleeve
-Football,13-Jan 19:45,Scotland Challenge Cup,Ayr United v Stranraer
-Football,13-Jan 19:45,England Southern League Division One South,Hartpury University v Shaftesbury
-Football,13-Jan 19:45,Scotland Challenge Cup,Partick Thistle v Inverness CT
-Football,13-Jan 19:45,England Northern Premier League Division One East,Dunston FC v Hallam
-Football,13-Jan 19:45,Scotland Challenge Cup,Arbroath v East Fife
-Football,13-Jan 19:45,Northern Ireland Cup,Portadown v Annagh United
-Football,13-Jan 19:45,Wales Premier League,Pen-y-Bont FC v Cardiff Metropolitan University FC
-Football,13-Jan 19:45,England Northern Premier League Division One West,Kidsgrove Ath v Nantwich Town FC
-Football,13-Jan 19:45,England National League South,Dorking Wanderers v Hornchurch
-Football,13-Jan 19:45,England National League,Southend v Gateshead
-Football,13-Jan 19:45,England Southern League Division One South,Falmouth Town v Bishops Cleeve
-Football,13-Jan 19:45,Northern Ireland Championship,Dundela v Loughgall
-Football,13-Jan 19:45,England Isthmian League Division One South Central,Leatherhead v Moneyfields FC
-Football,13-Jan 19:45,England National League North,AFC Fylde v Peterborough Sports FC
-Football,13-Jan 19:45,England National League,Eastleigh v Brackley Town
-Football,13-Jan 19:45,England Northern Premier League,Bamber Bridge v Warrington Town
-Football,13-Jan 19:45,Northern Ireland Cup,Glenavon FC v Newington YC
-Football,13-Jan 19:45,England Southern Premier South,Hanwell Town v Farnham Town
-Football,13-Jan 19:45,England Isthmian League Division One North,Maldon & Tiptree v Stanway Rovers
-Football,13-Jan 19:45,England Southern Premier Central,AFC Sudbury v Real Bedford
-Football,13-Jan 19:45,England League One,Mansfield Town v Peterborough United
-Football,13-Jan 19:45,England Southern Premier Central,Harborough Town v Stamford
-Football,13-Jan 19:45,England FA Trophy,Scunthorpe United v Clitheroe
-Football,13-Jan 19:45,England Isthmian League Premier Division,Canvey Island v Chatham Town
-Football,13-Jan 19:45,England FA Trophy,Tamworth v Rochdale
-Football,13-Jan 19:45,Scotland Challenge Cup,Stirling Albion v Stenhousemuir
-Football,13-Jan 19:45,England Northern Premier League,Whitby v Ilkeston
-Football,13-Jan 19:45,Scotland Challenge Cup,St Johnstone v Ross County
-Football,13-Jan 19:45,England Northern Premier League,FC United of Manchester v Workington
-Football,13-Jan 19:45,England Isthmian League Division One North,Mildenhall Town v Felixstowe & Walton United FC
-Football,13-Jan 19:45,England Southern Premier South,Tiverton Town v Wimborne Town FC
-Football,13-Jan 19:45,Scotland Challenge Cup,Partick Thistle v Inverness CT
-Football,13-Jan 19:45,Wales Premier League,Flint Town United v Bala Town
-Football,13-Jan 19:45,Scotland Challenge Cup,Queens Park FC v Forfar Athletic
-Football,13-Jan 19:45,Wales Premier League,Haverfordwest County AFC v Briton Ferry Llansawel
-Football,13-Jan 19:45,Scotland Challenge Cup,Arbroath v East Fife
-Football,13-Jan 19:45,Wales Premier League,Caernarfon Town v Connahs Quay
-Football,13-Jan 19:45,Scotland Challenge Cup,Ayr United v Stranraer
+Football,13-Jan 19:45,Wales Premier League,Barry Town v Llanelli
 Football,13-Jan 19:45,England FA Trophy,Halifax Town v Anstey Nomads
-Football,13-Jan 19:45,England FA Trophy,Kidderminster Harriers v Morecambe
+Football,13-Jan 19:45,Wales Premier League,The New Saints v Colwyn Bay
+Football,13-Jan 19:45,Northern Ireland Championship,Dundela v Loughgall
+Football,13-Jan 19:45,Northern Ireland Premiership,Ballymena v Cliftonville
+Football,13-Jan 19:45,Kazakhstan Cup,Hartpury University v Shaftesbury
+Football,13-Jan 19:45,Northern Ireland Premiership,Carrick Rangers v Linfield
+Football,13-Jan 19:45,England FA Trophy,Hornchurch v Telford
+Football,13-Jan 19:45,Northern Ireland Premiership,Glentoran v Larne
+Football,13-Jan 19:45,England FA Trophy,Eastleigh v Southport
+Football,13-Jan 19:45,England National League,Eastleigh v Brackley Town
+Football,13-Jan 19:45,England Isthmian League Division One North,Mildenhall Town v Felixstowe & Walton United FC
+Football,13-Jan 19:45,England National League South,Dorking Wanderers v Hornchurch
+Football,13-Jan 19:45,England Isthmian League Premier Division,Canvey Island v Chatham Town
+Football,13-Jan 19:45,England FA Trophy,Scunthorpe United v Clitheroe
+Football,13-Jan 19:45,England FA Trophy,Bath City v Southend
+Football,13-Jan 19:45,England FA Trophy,Woking v Macclesfield FC
+Football,13-Jan 19:45,Northern Ireland Cup,Portadown v Annagh United
+Football,13-Jan 19:45,England Southern Premier South,Tiverton Town v Wimborne Town FC
+Football,13-Jan 19:45,Northern Ireland Cup,Ballinamallard United v Institute
+Football,13-Jan 19:45,England Northern Premier League,FC United of Manchester v Workington
+Football,13-Jan 19:45,England Northern Premier League Division One East,Dunston FC v Hallam
+Football,13-Jan 19:45,England Northern Premier League,Whitby v Ilkeston
+Football,13-Jan 19:45,England Northern Premier League Division One East,Ossett United FC v Consett
+Football,13-Jan 19:45,Scotland Challenge Cup,Partick Thistle v Inverness CT
+Football,13-Jan 19:45,England Northern Premier League,FC United of Manchester v Workington
+Football,13-Jan 19:45,Scotland Challenge Cup,St Johnstone v Ross County
+Football,13-Jan 19:45,England League One,Mansfield Town v Peterborough United
+Football,13-Jan 19:45,England Isthmian League Division One North,Mildenhall Town v Felixstowe & Walton United FC
+Football,13-Jan 19:45,Northern Ireland Premiership,Glentoran v Larne
+Football,13-Jan 19:45,England Northern Premier League Division One East,Ossett United FC v Consett
+Football,13-Jan 19:45,England National League South,Dorking Wanderers v Hornchurch
+Football,13-Jan 19:45,Wales Premier League,Flint Town United v Bala Town
+Football,13-Jan 19:45,England National League,Eastleigh v Brackley Town
+Football,13-Jan 19:45,Wales Premier League,Haverfordwest County AFC v Briton Ferry Llansawel
+Football,13-Jan 19:45,England National League South,Chippenham v Slough Town
+Football,13-Jan 19:45,Wales Premier League,Caernarfon Town v Connahs Quay
+Football,13-Jan 19:45,England Northern Premier League,Whitby v Ilkeston
+Football,13-Jan 19:45,England FA Trophy,Halifax Town v Anstey Nomads
+Football,13-Jan 19:45,England National League South,Dover v Hemel Hempstead Town
 Football,13-Jan 19:45,England FA Trophy,Eastleigh v Southport
 Football,13-Jan 19:45,Wales Premier League,Pen-y-Bont FC v Cardiff Metropolitan University FC
 Football,13-Jan 19:45,England FA Trophy,Hornchurch v Telford
-Football,13-Jan 19:45,Wales Premier League,Barry Town v Llanelli
+Football,13-Jan 19:45,Northern Ireland Premiership,Ballymena v Cliftonville
 Football,13-Jan 19:45,Northern Ireland Cup,Ballinamallard United v Institute
-Football,13-Jan 19:45,England FA Trophy,Tamworth v Rochdale
+Football,13-Jan 19:45,Northern Ireland Premiership,Carrick Rangers v Linfield
 Football,13-Jan 19:45,England FA Trophy,Bath City v Southend
 Football,13-Jan 19:45,England FA Trophy,Scunthorpe United v Clitheroe
-Football,13-Jan 19:45,Northern Ireland Cup,Glenavon FC v Newington YC
-Football,13-Jan 19:45,England National League South,Chippenham v Slough Town
+Football,13-Jan 19:45,Wales Premier League,The New Saints v Colwyn Bay
+Football,13-Jan 19:45,Wales Premier League,Barry Town v Llanelli
 Football,13-Jan 19:46,Wales Premier League,The New Saints v Colwyn Bay
-Football,13-Jan 20:00,Italy Cup,AS Roma v Torino
-Football,13-Jan 20:00,Northern Ireland Cup,Warrenpoint Town v Lisburn Distillery
 Football,13-Jan 20:00,Netherlands KNVB Cup,FC Utrecht v FC Twente Enschede
+Football,13-Jan 20:00,Northern Ireland Cup,Warrenpoint Town v Lisburn Distillery
+Football,13-Jan 20:00,Spain Cup,Real Sociedad v Osasuna
 Football,13-Jan 20:00,England League Cup,Newcastle United v Manchester City
+Football,13-Jan 20:00,Italy Cup,AS Roma v Torino
 Football,13-Jan 20:00,Spain Cup,Real Sociedad v Osasuna
 Football,13-Jan 20:00,France Cup,Bayeux v Marseille
 Football,13-Jan 20:00,Spain Cup,Deportivo La Coruna v Atletico Madrid
@@ -626,37 +622,37 @@ Football,13-Jan 20:00,Spain Cup,CD Leonesa v Athletic Club Bilbao
 Football,13-Jan 21:15,Club Friendly,Club Atletico Huracan v Cerro Porteno
 Football,13-Jan 21:30,Brazil Sao Paulo Youth Cup,Fluminense FC U20 v Referencia Futebol Clube U20
 Football,13-Jan 22:00,Brazil Capixaba,Rio Branco ES v Serra ES
-Football,13-Jan 22:00,Brazil Capixaba,Rio Branco ES v Serra ES
 Football,13-Jan 22:00,Copa de la Liga AUF,Liverpool Montevideo v Albion (Uru)
+Football,13-Jan 22:00,Brazil Paulista A1,Gremio Novorizontino v Guarani SP
 Football,13-Jan 22:00,Brazil Cearense 1,Maracana EC v Horizonte
 Football,13-Jan 22:00,Brazil Sao Paulo Youth Cup,Osasco Audax SP U20 v Santo Andre U20
-Football,13-Jan 22:00,Brazil Paulista A1,Gremio Novorizontino v Guarani SP
 Football,13-Jan 22:15,Brazil Baiano 1 Division,Esporte Clube Jacuipense v Vitoria BA
 Football,13-Jan 22:30,Brazil Sao Paulo Youth Cup,Palmeiras U20 v Vitoria BA U20
 Football,13-Jan 23:00,Brazil Matogrossense,Chapada v Mixto
-Football,13-Jan 23:00,Mexico Liga MX,Puebla FC v Mazatlan FC
-Football,13-Jan 23:00,Brazil Pernambucano,Academica Vitoria v Jaguar
-Football,13-Jan 23:00,Brazil Paranaense,Metropolitano Maringa v Coritiba
-Football,13-Jan 23:00,Costa Rica Primera Division,Municipal de Perez Zeledon v AD San Carlos
 Football,13-Jan 23:00,Brazil Acreano,Galvez v Sao Francisco AC
+Football,13-Jan 23:00,Brazil Paranaense,Metropolitano Maringa v Coritiba
+Football,13-Jan 23:00,Brazil Pernambucano,Academica Vitoria v Jaguar
+Football,13-Jan 23:00,Mexico Liga MX,Puebla FC v Mazatlan FC
+Football,13-Jan 23:00,Costa Rica Primera Division,Municipal de Perez Zeledon v AD San Carlos
 Football,13-Jan 23:30,Brazil Sao Paulo Youth Cup,Sao Paulo U20 v Portuguesa SP U20
 Football,14-Jan 00:00,Club Friendly,America de Cali v Once Caldas
 Football,14-Jan 00:00,Club Friendly,CD Everton Vina del Mar v Independiente
-Football,14-Jan 00:30,Brazil Capixaba,Desportiva ES v Rio Branco VN
 Football,14-Jan 00:30,Copa de la Liga AUF,Nacional (Uru) v Deportivo Maldonado SAD
 Football,14-Jan 00:30,Brazil Paulista A1,Capivariano v Portuguesa SP
+Football,14-Jan 00:30,Brazil Capixaba,Desportiva ES v Rio Branco VN
 Football,14-Jan 00:45,Brazil Sao Paulo Youth Cup,Botafogo FR U20 v Sao Jose EC SP U20
 Football,14-Jan 01:00,Mexico Liga MX,Club Necaxa v CF Monterrey
 Football,14-Jan 01:06,Mexico Liga MX,CF Pachuca v Club Leon
 Football,14-Jan 02:00,Costa Rica Primera Division,Deportivo Saprissa v Puntarenas
 Football,14-Jan 03:10,Mexico Liga MX,FC Juarez v Chivas Guadalajara
-Football,14-Jan 08:00,Thailand FA Cup,Prime Bangkok v Chiangrai United
+Football,14-Jan 08:30,Vietnam U19 National League Women,Ha Noi FC U19 Women v Thai Nguyen U19 Women
 Football,14-Jan 08:30,Vietnam U19 National League Women,Ha Noi FC U19 Women v Thai Nguyen U19 Women
 Football,14-Jan 09:30,Czech Republic Tipsport Liga,Viktoria Zizkov v FK Teplice
 Football,14-Jan 10:00,Club Friendly,MFK Ruzomberok v Slask Wroclaw
-Football,14-Jan 10:00,Turkey Cup,Aliaga FAS v Samsunspor
+Football,14-Jan 10:00,Thailand FA Cup,Prime Bangkok v Chiangrai United
 Football,14-Jan 10:00,Club Friendly Women,TSG 1899 Hoffenheim Women v PSV/FC Eindhoven Women
-Football,14-Jan 10:30,Club Friendly,Puszcza Niepolomice v NKP Podhale Nowy Targ
+Football,14-Jan 10:00,Club Friendly,FC Septemvri (Sofia) v Marek Dupnitsa
+Football,14-Jan 10:00,Turkey Cup,Aliaga FAS v Samsunspor
 Football,14-Jan 10:30,HKPL U22 League,Tai Po FC U22 v North District FC U22
 Football,14-Jan 10:30,Club Friendly,Puszcza Niepolomice v NKP Podhale Nowy Targ
 Football,14-Jan 11:00,Thailand FA Cup,Buriram United v Pattani
@@ -664,9 +660,8 @@ Football,14-Jan 11:00,Thailand FA Cup,Bangkok United v Kanchanaburi
 Football,14-Jan 11:00,Thailand FA Cup,Sisaket FC v Ratchaburi
 Football,14-Jan 11:00,Vietnam U19 National League Women,Ha Nam U19 Women v Than KSVN U19 Women
 Football,14-Jan 11:00,Club Friendly,MFK Zemplin Michalovce v MFK Lokomotiva Zvolen
-Football,14-Jan 11:00,Club Friendly,FC Septemvri (Sofia) v Marek Dupnitsa
-Football,14-Jan 11:00,Club Friendly,Mezokovesd-Zsory SE v Bekescsaba
 Football,14-Jan 11:00,Club Friendly,Zaglebie Sosnowiec v Wieczysta Krakow
+Football,14-Jan 11:00,Club Friendly,Mezokovesd-Zsory SE v Bekescsaba
 Football,14-Jan 11:00,Portugal Liga Revelacao U23,Rio Ave FC U23 v Farense U23
 Football,14-Jan 11:00,Portugal Liga Revelacao U23,Portimonense SC U23 v CS Maritimo Funchal U23
 Football,14-Jan 11:30,AFC U23 Championship,Thailand U23 v China U23
@@ -679,152 +674,164 @@ Football,14-Jan 12:00,Czech Republic Tipsport Liga,MFK Skalica v Zlin B
 Football,14-Jan 12:00,Czech Republic Tipsport Liga,MFK Skalica v FC Zlin
 Football,14-Jan 12:00,Club Friendly,Cherno More v PFC Dobrudja 1919
 Football,14-Jan 12:00,Club Friendly,BVSC Budapest v Tiszakecske
+Football,14-Jan 12:00,Iraq Stars League,Al Kahrabaa v Zakho
+Football,14-Jan 12:00,Iraq Stars League,Al Gharraf v Al Naft SC
+Football,14-Jan 12:00,Iraq Stars League,Newroz (Iraq) v Al Talaba
+Football,14-Jan 12:00,Iraq Stars League,Newroz (Iraq) v Al Talaba
 Football,14-Jan 12:15,Malaysia Super League,Kuala Lumpur v Penang FA
 Football,14-Jan 12:15,Malaysia Super League,Johor Darul Takzim v Kuching FA
 Football,14-Jan 12:30,Turkey Cup,Antalyaspor v Genclerbirligi SK
 Football,14-Jan 12:30,HKPL U22 League,Kitchee SC U22 v Lee Man FC U22
+Football,14-Jan 12:30,Albania Superliga,Bylis Ballsh v KF Tirana
 Football,14-Jan 12:45,Israel U19 Elite Division,Hapoel Haifa U19 v Maccabi Netanya U19
 Football,14-Jan 13:00,International Friendly U19,Italy U19 v Spain U19
-Football,14-Jan 13:00,Malaysia Super League,Melaka FC v PDRM
-Football,14-Jan 13:00,Premier League Kenya,Gor Mahia FC v Muranga Seal FC
-Football,14-Jan 13:00,Malaysia Super League,Selangor FA v Negeri Sembilan
-Football,14-Jan 13:00,Malaysia Super League,Selangor FA v Negeri Sembilan
-Football,14-Jan 13:00,Club Friendly,Puszcza Niepolomice v Hutnik Krakow
 Football,14-Jan 13:00,Rwanda Premier League,Amagaju v APR FC Kigali
-Football,14-Jan 13:00,Club Friendly,Neuchatel Xamax v Servette U21
+Football,14-Jan 13:00,Israel U19 Elite Division,Hapoel Tel Aviv U19 v Hapoel Petach Tikva U19
 Football,14-Jan 13:00,Kenya Premier League,Kenya Police v Mara Sugar
+Football,14-Jan 13:00,Kenya Premier League,Gor Mahia FC v Muranga Seal FC
 Football,14-Jan 13:00,Club Friendly Women,VfL Wolfsburg Women v FC Basel Women
+Football,14-Jan 13:00,Club Friendly,Neuchatel Xamax v Servette U21
 Football,14-Jan 13:00,Zambian Super League,Power Dynamos v Green Eagles FC
+Football,14-Jan 13:00,Club Friendly,Puszcza Niepolomice v Hutnik Krakow
+Football,14-Jan 13:00,Malaysia Super League,Melaka FC v PDRM
+Football,14-Jan 13:00,Malaysia Super League,Selangor FA v Negeri Sembilan
 Football,14-Jan 13:00,Greece Cup,Levadiakos v AE Kifisia FC
+Football,14-Jan 13:00,Israel U19 Elite Division,Hapoel Raanana U19 v Bnei Yehuda Tel Aviv U19
+Football,14-Jan 13:00,Israel U19 Elite Division,Hapoel Kfar Saba U19 v Beitar Jerusalem Oren U19
 Football,14-Jan 13:20,Kuwait Premier League,Kuwait SC v Al Jahra
 Football,14-Jan 13:30,Italy Cup Serie C,Renate v Latina
 Football,14-Jan 13:30,Arena Cup,Nk Lokomotiva Zagreb v FK Velez Mostar
+Football,14-Jan 14:00,Nigeria Premier League,El Kanemi Wanderers v Bayelsa United
+Football,14-Jan 14:30,Iraq Stars League,Al Minaa v Al Karkh
+Football,14-Jan 14:30,Nigeria Premier League,Barau v Niger Tornadoes
+Football,14-Jan 14:30,Iraq Stars League,Al Najaf v Naft Maysan
 Football,14-Jan 14:45,Saudi Arabia Pro League,Al-Quadisiya (KSA) v Al Feiha (KSA)
 Football,14-Jan 15:00,Portugal League Cup Women,Valadares Gaia Women v CS Maritimo Funchal Women
-Football,14-Jan 15:00,Turkey Cup,Istanbulspor Region v Trabzonspor
-Football,14-Jan 15:00,Portugal League Cup Women,Racing Power Women v Rio Ave Women
-Football,14-Jan 15:00,Portugal League Cup Women,Sporting Braga Women v SL Benfica Women
-Football,14-Jan 15:00,Nigeria Premier League,El Kanemi Wanderers v Bayelsa United
 Football,14-Jan 15:00,Nigeria Premier League,Abia Warriors v Plateau United FC
-Football,14-Jan 15:00,Nigeria Premier League,Nasarawa United v Kano Pillars FC
-Football,14-Jan 15:00,Nigeria Premier League,Katsina United v Kun Khalifa
-Football,14-Jan 15:00,Nigeria Premier League,Shooting Stars SC v Enyimba
-Football,14-Jan 15:00,Nigeria Premier League,Kwara United v Bendel Insurance FC
-Football,14-Jan 15:00,Nigeria Premier League,Wikki Tourists v Warri Wolves
-Football,14-Jan 15:00,Nigeria Premier League,Enugo Rangers v Rivers United
-Football,14-Jan 15:00,Club Friendly,Sturm Graz v FC Copenhagen
-Football,14-Jan 15:00,Nigeria Premier League,Remo Stars v Ikorodu City
-Football,14-Jan 15:00,Portugal Liga Revelacao U23,UD Leiria U23 v Estrela Amadora U23
+Football,14-Jan 15:00,Portugal League Cup Women,Sporting Braga Women v SL Benfica Women
 Football,14-Jan 15:00,Portugal Liga Revelacao U23,Vizela U23 v Gil Vicente U23
+Football,14-Jan 15:00,Nigeria Premier League,Kwara United v Bendel Insurance FC
 Football,14-Jan 15:00,Portugal Cup,Sporting Lisbon v AVS SAD
+Football,14-Jan 15:00,Nigeria Premier League,Remo Stars v Ikorodu City
+Football,14-Jan 15:00,Portugal Liga 3,Covilha v Academica
+Football,14-Jan 15:00,Turkey Cup,Istanbulspor Region v Trabzonspor
+Football,14-Jan 15:00,Nigeria Premier League,Nasarawa United v Kano Pillars FC
+Football,14-Jan 15:00,Nigeria Premier League,Abia Warriors v Plateau United FC
+Football,14-Jan 15:00,Nigeria Premier League,Shooting Stars SC v Enyimba
+Football,14-Jan 15:00,Nigeria Premier League,Enugo Rangers v Rivers United
 Football,14-Jan 15:00,Greece Cup,AEK Athens v OFI Crete
-Football,14-Jan 15:30,Spain Tercera Division,Real Murcia II v Ud Caravaca
+Football,14-Jan 15:00,Portugal League Cup Women,Valadares Gaia Women v CS Maritimo Funchal Women
+Football,14-Jan 15:00,Portugal League Cup Women,Racing Power Women v Rio Ave Women
+Football,14-Jan 15:00,Nigeria Premier League,Wikki Tourists v Warri Wolves
+Football,14-Jan 15:00,Club Friendly,Sturm Graz v FC Copenhagen
 Football,14-Jan 15:30,Spain Tercera Division,Real Murcia II v Ud Caravaca
 Football,14-Jan 15:45,Kuwait Premier League,Al Salmiyah v Al Nasar (KUW)
 Football,14-Jan 15:45,United Arab Emirates Premier,Sharjah FC v Al Bataeh
-Football,14-Jan 16:00,Cyprus Cup,Apollon Limassol v Anorthosis
-Football,14-Jan 16:00,Rwanda Premier League,Al Hilal (Sudan) v As Muhanga
 Football,14-Jan 16:00,Cyprus Cup,Omonia Nicosia v AEK Larnaca
-Football,14-Jan 16:00,Bahrain Premier League,Ali CSC v Al Khalidiyah
-Football,14-Jan 16:00,Bahrain Premier League,Malkiya Club (BRN) v Al Hidd
+Football,14-Jan 16:00,Rwanda Premier League,Al Hilal (Sudan) v As Muhanga
+Football,14-Jan 16:00,Cyprus Cup,Apollon Limassol v Anorthosis
 Football,14-Jan 16:00,Albania Superliga,AF Elbasani v Flamurtari
+Football,14-Jan 16:00,Bahrain Premier League,Malkiya Club (BRN) v Al Hidd
+Football,14-Jan 16:00,Bahrain Premier League,Ali CSC v Al Khalidiyah
 Football,14-Jan 16:00,Albania Superliga,Vllaznia v KF Egnatia
-Football,14-Jan 16:00,Albania Superliga,Bylis Ballsh v KF Tirana
 Football,14-Jan 16:30,Club Friendly,Paide Linnameeskond v JK Welco Elekter
 Football,14-Jan 16:30,Greece Cup,Olympiakos v PAOK
-Football,14-Jan 16:30,Spain Tercera Division,Llosetense v Inter Ibiza
 Football,14-Jan 16:30,Spain Tercera Division,Mensajero v CD Union Sur Yaiza
+Football,14-Jan 16:30,Spain Tercera Division,Llosetense v Inter Ibiza
+Football,14-Jan 17:00,Africa Cup Of Nations,Senegal v Egypt
 Football,14-Jan 17:00,Africa Cup Of Nations,Senegal v Egypt
 Football,14-Jan 17:00,Israel State Cup,Hapoel Kiryat Shmona v Beitar Jerusalem
 Football,14-Jan 17:00,Italy Cup Serie C,Ternana v Potenza
 Football,14-Jan 17:30,Italy Serie A,Napoli v Parma FC
+Football,14-Jan 17:30,Turkey Cup,Beyoglu Yeni Carsi v Fenerbahce
 Football,14-Jan 17:30,Saudi Arabia Pro League,Al Shabab Riyadh v Neom SC
 Football,14-Jan 17:30,Saudi Arabia Pro League,Al Ahli Jeddah (KSA) v Al Taawon Buraydah (KSA)
-Football,14-Jan 17:30,Turkey Cup,Beyoglu Yeni Carsi v Fenerbahce
 Football,14-Jan 17:30,Germany Bundesliga 1,Wolfsburg v St Pauli
 Football,14-Jan 17:45,Spain Tercera Division,Tenerife C v UD Villa Santa Brigida
 Football,14-Jan 17:45,Netherlands KNVB Cup,Den Bosch v PSV Eindhoven
-Football,14-Jan 18:00,France Feminine Division 1,Strasbourg Women v Montpellier SC Women
-Football,14-Jan 18:00,France Feminine Division 1,Olympique Lyon Women v Lens Women
-Football,14-Jan 18:00,Brazil Potiguar 1 Division,Laguna RN v Quinho Futebol Clube
-Football,14-Jan 18:00,Israel State Cup,Hapoel Ra'anana v Maccabi Haifa
+Football,14-Jan 18:00,Brazil Pernambucano,Maguary PE v Santa Cruz PE
+Football,14-Jan 18:00,Spain Tercera Division,Vall de Uxo v FC Jove Espanol
 Football,14-Jan 18:00,Spain Tercera Division,CF Panaderia Pulido v SD Tenisca
-Football,14-Jan 18:00,Brazil Potiguar 1 Division,Globo Futebol Clube v America RN
-Football,14-Jan 18:00,Brazil Potiguar 1 Division,Globo Futebol Clube v America RN
-Football,14-Jan 18:00,Spain Tercera Division,Balompedica Linense v Club Atletico Central
-Football,14-Jan 18:00,Brazil Mineiro 1,EC Democrata GV v America Mineiro
 Football,14-Jan 18:00,Spain Tercera Division,UD San Fernando v Lanzarote
+Football,14-Jan 18:00,Spain Tercera Division,Balompedica Linense v Club Atletico Central
+Football,14-Jan 18:00,Spain Primera Division Women,FC Barcelona Women v Atletico Madrid Women
+Football,14-Jan 18:00,France Feminine Division 1,Strasbourg Women v Montpellier SC Women
+Football,14-Jan 18:00,Israel State Cup,Hapoel Ra'anana v Maccabi Haifa
+Football,14-Jan 18:00,Brazil Potiguar 1 Division,Laguna RN v Quinho Futebol Clube
+Football,14-Jan 18:00,Brazil Mineiro 1,EC Democrata GV v America Mineiro
 Football,14-Jan 18:00,Spain Tercera Division,Crevillente Deportivo v Levante B
 Football,14-Jan 18:00,Spain Tercera Division,UD Alzira v Saguntino
-Football,14-Jan 18:00,Spain Tercera Division,Vall de Uxo v FC Jove Espanol
-Football,14-Jan 18:00,Spain Primera Division Women,FC Barcelona Women v Atletico Madrid Women
+Football,14-Jan 18:00,France Feminine Division 1,Olympique Lyon Women v Lens Women
+Football,14-Jan 18:00,France Feminine Division 1,Le Havre Women v Fleury 91 Women
 Football,14-Jan 18:00,France Feminine Division 1,Marseille Women v AS Saint Etienne Women
 Football,14-Jan 18:00,Brazil Potiguar 1 Division,Laguna RN v Quinho FC
 Football,14-Jan 18:00,France Feminine Division 1,Dijon FCO Women v Paris Saint-Germain Women
-Football,14-Jan 18:00,France Feminine Division 1,Le Havre Women v Fleury 91 Women
 Football,14-Jan 18:00,Spain Tercera Division,San Bartolome v Arucas CF
 Football,14-Jan 18:15,Spain Tercera Division,CD Herbania v UD Tamaraceite
-Football,14-Jan 18:30,Spain Copa Catalunya,NSA Camp Joliu v Barcelona B
+Football,14-Jan 18:30,Israel State Cup,Hapoel Tel Aviv v Maccabi Tel Aviv
+Football,14-Jan 18:30,Spain Tercera Division,CD Alhaurino v Arenas de Armilla CD
 Football,14-Jan 18:30,Spain Tercera Division,CD Alhaurino v Arenas de Armilla CD
 Football,14-Jan 18:30,Club Friendly,FC Besa Biel/Bienne v FC Breitenrain
-Football,14-Jan 18:30,Israel State Cup,Hapoel Tel Aviv v Maccabi Tel Aviv
-Football,14-Jan 18:30,Spain Tercera Division,UD San Pedro v Churriana de la Vega CF
 Football,14-Jan 18:30,Greece Cup,Panathinaikos v Aris Thessaloniki
+Football,14-Jan 18:30,Spain Copa Catalunya,NSA Camp Joliu v Barcelona B
+Football,14-Jan 18:30,Spain Tercera Division,UD San Pedro v Churriana de la Vega CF
+Football,14-Jan 18:30,Spain Tercera Division,CD El Palo v Torreperogil
 Football,14-Jan 18:45,Portugal Cup,Fafe v Braga
-Football,14-Jan 19:00,England Premier League Cup,Coventry U21 v Leyton Orient U21
-Football,14-Jan 19:00,Iceland Reykjavik Cup,Leiknir Reykjavik v Fjolnir
-Football,14-Jan 19:00,Spain Tercera Division,UE Vilassar de Mar v Lleida CF
-Football,14-Jan 19:00,EFL Trophy,Northampton Town v Walsall
-Football,14-Jan 19:00,Netherlands KNVB Cup,Almere City v Telstar
-Football,14-Jan 19:00,Netherlands KNVB Cup,Go Ahead Eagles v Heracles Almelo
-Football,14-Jan 19:00,Brazil Pernambucano,Decisao v Nautico Capibaribe
 Football,14-Jan 19:00,Iceland Reykjavik Cup,Vikingur Reykjavik v IR Reykjavik
+Football,14-Jan 19:00,EFL Trophy,Northampton Town v Walsall
 Football,14-Jan 19:00,Spain Copa Catalunya,Terrassa Olimpica 2010 v CE Sabadell FC
+Football,14-Jan 19:00,Netherlands KNVB Cup,Go Ahead Eagles v Heracles Almelo
 Football,14-Jan 19:00,Spain Copa Catalunya,CF Montanesa v Gimnastic
-Football,14-Jan 19:00,Spain Copa Catalunya,CF Montanesa v Gimnastic
+Football,14-Jan 19:00,Iceland Reykjavik Cup,Leiknir Reykjavik v Fjolnir
 Football,14-Jan 19:00,Autonomicas - Cataluna,CF Ciudad Cooperativa v UA Horta
 Football,14-Jan 19:00,Spain Copa Catalunya,CE Europa v FC Andorra
-Football,14-Jan 19:30,Spain Tercera RFEF Women,CAP Ciudad de Murcia Women v Murcia FCF Women
-Football,14-Jan 19:30,Belgium Beker van Belgie,FCV Dender v Union St Gilloise
-Football,14-Jan 19:30,Germany Bundesliga 1,Hoffenheim v Borussia Monchengladbach
-Football,14-Jan 19:30,Germany Bundesliga 1,FC Koln v Bayern Munich
+Football,14-Jan 19:00,England Premier League Cup,Coventry U21 v Leyton Orient U21
+Football,14-Jan 19:00,Netherlands KNVB Cup,Almere City v Telstar
+Football,14-Jan 19:00,Spain Tercera Division,UE Vilassar de Mar v Lleida CF
 Football,14-Jan 19:30,Switzerland Super League,Servette v Lausanne
-Football,14-Jan 19:30,Germany Bundesliga 1,RB Leipzig v Freiburg
+Football,14-Jan 19:30,Germany Bundesliga 1,FC Koln v Bayern Munich
 Football,14-Jan 19:30,Switzerland Super League,Sion v Winterthur
-Football,14-Jan 19:45,Scotland Premiership,Falkirk v Celtic
-Football,14-Jan 19:45,England Isthmian League Division One South Central,Binfield v Ascot Utd
-Football,14-Jan 19:45,Italy Serie A,FC Internazionale v Lecce
-Football,14-Jan 19:45,England Southern Football League Division One Central,Aylesbury United v Hitchin Town FC
+Football,14-Jan 19:30,Germany Bundesliga 1,RB Leipzig v Freiburg
+Football,14-Jan 19:30,Germany Bundesliga 1,Hoffenheim v Borussia Monchengladbach
+Football,14-Jan 19:30,Belgium Beker van Belgie,FCV Dender v Union St Gilloise
+Football,14-Jan 19:30,Spain Tercera RFEF Women,CAP Ciudad de Murcia Women v Murcia FCF Women
 Football,14-Jan 19:45,England Southern League Division One South,Tavistock AFC v Winchester City FC
-Football,14-Jan 19:45,England Southern Premier Central,Stourbridge v Quorn
-Football,14-Jan 19:45,England Northern Premier League Division One West,Darlaston Town v Avro
 Football,14-Jan 19:45,Scotland Premiership,Hearts v St Mirren
+Football,14-Jan 19:45,England Northern Premier League Division One West,Darlaston Town v Avro
+Football,14-Jan 19:45,England Southern Premier Central,Stourbridge v Quorn
 Football,14-Jan 19:45,England Northern Premier League Division One East,Blyth Town v Redcar Athletic
+Football,14-Jan 19:45,England Southern Football League Division One Central,Aylesbury United v Hitchin Town FC
+Football,14-Jan 19:45,England Southern Football League Division One Central,Aylesbury United v Hitchin Town FC
+Football,14-Jan 19:45,Italy Serie A,FC Internazionale v Lecce
 Football,14-Jan 19:45,England Southern Premier South,Havant & Waterlooville v Dorchester Town
-Football,14-Jan 20:00,England League Cup,Chelsea v Arsenal
-Football,14-Jan 20:00,Jamaica Premier League,Dunbeholden FC v Chapelton
-Football,14-Jan 20:00,Spain Cup,Real Betis v Elche CF
-Football,14-Jan 20:00,Jamaica Premier League,Harbour View v Molynes
-Football,14-Jan 20:00,Netherlands KNVB Cup,AZ Alkmaar v Ajax
-Football,14-Jan 20:00,Jamaica Premier League,Portmore United FC v Mount Pleasant FC
-Football,14-Jan 20:00,Spain Cup,Albacete v Real Madrid
-Football,14-Jan 20:00,Brazil Carioca 1 Division,Volta Redonda v Boavista RJ
-Football,14-Jan 20:00,Spain Cup,Alaves v Rayo Vallecano
+Football,14-Jan 19:45,England Southern League Division One South,Tavistock AFC v Winchester City FC
+Football,14-Jan 19:45,England Isthmian League Division One South Central,Binfield v Ascot Utd
+Football,14-Jan 19:45,England Northern Premier League Division One West,Darlaston Town v Avro
 Football,14-Jan 20:00,Africa Cup Of Nations,Nigeria v Morocco
-Football,14-Jan 20:00,France Feminine Division 1,Paris FC Women v Nantes Women
-Football,14-Jan 20:00,Spain Cup,Alaves v Rayo Vallecano
-Football,14-Jan 20:00,Spain Cup,Real Betis v Elche CF
+Football,14-Jan 20:00,England League Cup,Chelsea v Arsenal
+Football,14-Jan 20:00,Brazil Carioca 1 Division,Volta Redonda v Boavista RJ
+Football,14-Jan 20:00,Brazil Baiano 1 Division,Galicia EC v Sociedade Desportiva Juazeirense
+Football,14-Jan 20:00,Jamaica Premier League,Dunbeholden FC v Chapelton
+Football,14-Jan 20:00,Brazil Pernambucano,Decisao v Nautico Capibaribe
+Football,14-Jan 20:00,Jamaica Premier League,Harbour View v Molynes
 Football,14-Jan 20:00,Spain Cup,Albacete v Real Madrid
+Football,14-Jan 20:00,Jamaica Premier League,Portmore United FC v Mount Pleasant FC
+Football,14-Jan 20:00,Spain Cup,Real Betis v Elche CF
+Football,14-Jan 20:00,Spain Cup,Alaves v Rayo Vallecano
+Football,14-Jan 20:00,Netherlands KNVB Cup,AZ Alkmaar v Ajax
+Football,14-Jan 20:00,France Feminine Division 1,Paris FC Women v Nantes Women
+Football,14-Jan 20:00,Gibraltar Premier Division,Lincoln Red Imps FC v St. Joseph's FC
 Football,14-Jan 20:45,Portugal Cup,FC Porto v Benfica
 Football,14-Jan 21:15,Club Friendly,Union Santa Fe v Alianza Lima
 Football,14-Jan 21:30,Brazil Mineiro 1,Betim FC v Uberlandia
-Football,14-Jan 21:30,Brazil Catarinense 1 Division,Camboriu v Barra SC
+Football,14-Jan 21:30,Brazil Goiano 1,Goiatuba v Jataiense
 Football,14-Jan 21:30,Brazil Paulista A2,Ituano (SP) v CA Votuporanguense
 Football,14-Jan 21:30,Brazil Catarinense 1 Division,Concordia Atletico Clube v Chapecoense
-Football,14-Jan 21:30,Brazil Goiano 1,Goiatuba v Jataiense
+Football,14-Jan 21:30,Brazil Catarinense 1 Division,Camboriu v Barra SC
 Football,14-Jan 22:00,Brazil Carioca 1 Division,Fluminense RJ v Madureira
-Football,14-Jan 22:00,Brazil Cearense 1,AD Iguatu v Tirol CE
+Football,14-Jan 22:00,Brazil Paulista A1,Esporte Clube Primavera v Mirassol
 Football,14-Jan 22:00,Brazil Mineiro 1,Athletic Club SJdR (MG) v URT
+Football,14-Jan 22:00,Copa de la Liga AUF,CA Torque v Cerro Largo
 Football,14-Jan 22:00,Brazil Paranaense,Galo Maringa v Foz do Iguacu
 Football,14-Jan 22:00,Brazil Gaucho 1 Division,Inter Santa Maria v Sao Luiz
 Football,14-Jan 22:00,Brazil Alagoano,Coruripe AL v CSE AL
@@ -834,32 +841,31 @@ Football,14-Jan 22:00,Brazil Paulista A2,Agua Santa v Linense
 Football,14-Jan 22:00,Copa de la Liga AUF,CA Torque v Cerro Largo
 Football,14-Jan 22:00,Brazil Paulista A1,Esporte Clube Primavera v Mirassol
 Football,14-Jan 22:15,Brazil Baiano 1 Division,Bahia de Feira v Bahia BA
-Football,14-Jan 22:30,Brazil Mineiro 1,North EC v Atletico Mineiro
-Football,14-Jan 22:30,Jamaica Premier League,Cavalier v Racing Utd
 Football,14-Jan 22:30,Brazil Maranhense 1,Santa Quiteria Futebol Clube v SD Imperatriz
+Football,14-Jan 22:30,Jamaica Premier League,Cavalier v Racing Utd
+Football,14-Jan 22:30,Brazil Mineiro 1,North EC v Atletico Mineiro
 Football,14-Jan 22:30,Brazil Maranhense 1,IAPE FC v Sampaio Correa MA
 Football,14-Jan 22:30,Brazil Maranhense 1,Luminense v SD Imperatriz
 Football,14-Jan 22:30,Brazil Maranhense 1,ITZ Sport v Moto Clube Sao Luis
 Football,14-Jan 22:30,Brazil Potiguar 1 Division,Potyguar CN v Santa Cruz RN
 Football,14-Jan 22:30,Brazil Maranhense 1,Maranhao v Tuntum Esporte Clube
 Football,14-Jan 22:30,Brazil Mineiro 1,North Esporte Clube v Atletico Mineiro
-Football,14-Jan 22:30,Brazil Mineiro 1,North Esporte Clube v Atletico Mineiro
-Football,14-Jan 22:30,Brazil Maranhense 1,Maranhao v Tuntum Esporte Clube
-Football,14-Jan 22:30,Jamaica Premier League,Cavalier v Racing Utd
+Football,14-Jan 22:30,Brazil Matogrossense,Uniao MT v Nova Mutum EC
+Football,14-Jan 22:30,Brazil Paulista A1,Palmeiras v Santos SP
+Football,14-Jan 23:00,Mexico Liga MX,Cruz Azul v Atlas
+Football,14-Jan 23:00,Brazil Paulista A2,AA Internacional Limeira v Sao Bento
+Football,14-Jan 23:00,Brazil Paranaense,Cascavel v Andraus Brasil
+Football,14-Jan 23:00,Brazil Paulista A2,EC Taubate v Oeste Itapolis
 Football,14-Jan 23:00,Brazil Paulista A2,Santo Andre v Atletico Monte Azul
 Football,14-Jan 23:00,Brazil Paulista A2,XV de Piracicaba v Sertaozinho
 Football,14-Jan 23:00,Brazil Paulista A2,Associacao Ferroviaria de Esportes v CA Juventus
-Football,14-Jan 23:00,Brazil Paulista A2,EC Taubate v Oeste Itapolis
-Football,14-Jan 23:00,Brazil Paranaense,Cascavel v Andraus Brasil
-Football,14-Jan 23:00,Brazil Paulista A2,AA Internacional Limeira v Sao Bento
-Football,14-Jan 23:00,Brazil Matogrossense,Varzea Grande v Luverdense
 Football,14-Jan 23:00,Brazil Paranaense,Azuriz FC v Londrina
-Football,14-Jan 23:00,Mexico Liga MX,Cruz Azul v Atlas
+Football,14-Jan 23:00,Brazil Matogrossense,Varzea Grande v Luverdense
 Football,14-Jan 23:00,Brazil Alagoano,Cruzeiro AL v ASA AL
+Football,14-Jan 23:00,Brazil Alagoano,Centro Sportivo Alagoano v Penedense
 Football,14-Jan 23:00,Brazil Potiguar 1 Division,ACD Potiguar Mossoro v ABC RN
 Football,14-Jan 23:00,Brazil Matogrossense,Sport Sinop v Primavera MT
 Football,14-Jan 23:00,Brazil Alagoano,Centro Sportivo Alagoano v Penedense
-Football,14-Jan 23:30,Brazil Pernambucano,Maguary PE v Santa Cruz PE
 Football,14-Jan 23:30,Brazil Paulista A2,Sao Jose EC SP v Gremio Prudente
 Football,14-Jan 23:30,Brazil Goiano 1,Anapolis FC v Centro Oeste FC
 Football,14-Jan 23:30,Brazil Paranaense,Athletico PR v Operario PR
@@ -867,17 +873,16 @@ Football,14-Jan 23:40,Brazil Goiano 1,Vila Nova FC Goiania v Anapolina
 Football,15-Jan 00:00,Brazil Mineiro 1,Pouso Alegre v Itabirito
 Football,15-Jan 00:00,Brazil Paulista A1,Ponte Preta v Velo Clube
 Football,15-Jan 00:00,Club Friendly,San Lorenzo v Cucuta Deportivo
+Football,15-Jan 00:30,Brazil Catarinense 1 Division,Brusque v Figueirense
+Football,15-Jan 00:30,Copa de la Liga AUF,Racing Club de Montevideo v Cerro
 Football,15-Jan 00:30,Brazil Cearense 1,Ceara v Maranguape Futebol Clube
 Football,15-Jan 00:30,Brazil Carioca 1 Division,Bangu v Flamengo
-Football,15-Jan 00:30,Brazil Catarinense 1 Division,Brusque v Figueirense
-Football,15-Jan 00:30,Brazil Capixaba,Porto Vitoria v Capixaba SC
 Football,15-Jan 00:30,Brazil Baiano 1 Division,Atletico BA v Barcelona BA
-Football,15-Jan 00:30,Copa de la Liga AUF,Racing Club de Montevideo v Cerro
-Football,15-Jan 00:30,Brazil Pernambucano,Sport Recife v Retro FC Brasil
+Football,15-Jan 00:30,Brazil Gaucho 1 Division,Caxias RS v Avenida
 Football,15-Jan 00:30,Brazil Pernambucano,Sport Recife v Retro FC Brasil
 Football,15-Jan 00:30,Brazil Gaucho 1 Division,Gremio v Sao Jose RS
+Football,15-Jan 00:30,Brazil Capixaba,Porto Vitoria v Capixaba SC
 Football,15-Jan 00:30,Brazil Catarinense 1 Division,Avai v Clube Atletico Carlos Renaux
-Football,15-Jan 00:30,Brazil Gaucho 1 Division,Caxias RS v Avenida
 Football,15-Jan 00:30,Brazil Mineiro 1,Tombense v Cruzeiro
 Football,15-Jan 00:30,Brazil Matogrossense,Cuiaba v CE Operario Varzea-Grandense (CEOV)
 Football,15-Jan 01:00,Mexico Liga MX,Queretaro FC v Club Tijuana
@@ -889,12 +894,15 @@ Football,15-Jan 03:10,Mexico Liga MX,Toluca v Club Santos Laguna
 Football,15-Jan 08:00,Liga Nusantara,Batavia FC v PSDS Deli Serdang
 Football,15-Jan 08:00,Liga Nusantara,Persikutim United v Persinab Sang Maestro
 Football,15-Jan 09:30,Czech Republic Tipsport Liga,MFK Chrudim v Hradec Kralove
+Football,15-Jan 09:30,Czech Republic Tipsport Liga,MFK Chrudim v Hradec Kralove
 Football,15-Jan 09:30,Czech Republic Tipsport Liga,MFK Chrudim v FC Hradec Kralove II
+Football,15-Jan 10:00,Club Friendly,Pardubice v Vysocina Jihlava
 Football,15-Jan 10:00,Turkey Cup,Erzurum BB Spor v Rizespor
-Football,15-Jan 12:00,Ethiopia Premier League,Ethiopian Medhin v Welwalo Adigrat University
+Football,15-Jan 11:00,Club Friendly,Shkendija v Brera Strumica
 Football,15-Jan 12:00,Czech Republic Tipsport Liga,Tatran Presov v OFK Malzenice
-Football,15-Jan 12:00,Club Friendly,Botev Plovdiv v Maritsa Plovdiv
+Football,15-Jan 12:00,Ethiopia Premier League,Ethiopian Medhin v Welwalo Adigrat University
 Football,15-Jan 12:00,Club Friendly,Fratria v Spartak Varna
+Football,15-Jan 12:00,Club Friendly,Botev Plovdiv v Maritsa Plovdiv
 Football,15-Jan 12:00,Liga Nusantara,Persika Karanganyar v Cilegon United FC
 Football,15-Jan 12:30,Albania Superliga,Partizani Tirana v FK Vora
 Football,15-Jan 12:30,Egypt Second Division,Abu Qir Semad v Asyut Petroleum
@@ -905,78 +913,151 @@ Football,15-Jan 12:30,Egypt Second Division,Aswan FC v Proxy
 Football,15-Jan 12:30,Egypt Second Division,Al Qanah v La Viena
 Football,15-Jan 12:30,Egypt Second Division,Maleyet Kafr El Zayiat v Dayrout
 Football,15-Jan 13:00,Tunisia Division 1,ES Tunis v AS Gabes
-Football,15-Jan 13:00,Premier League Kenya,KCB v Nairobi United FC
-Football,15-Jan 13:00,Tunisia Division 1,AS Slimane v Kairouan
-Football,15-Jan 13:00,Tunisia Division 1,ES Tunis v AS Gabes
-Football,15-Jan 13:00,Club Friendly,Ferencvaros v FC Midtjylland
-Football,15-Jan 13:00,Zambian Super League,Zanaco v NAPSA Stars
 Football,15-Jan 13:00,Algeria Cup,CA Batna v AC Paradou
+Football,15-Jan 13:00,Kenya Premier League,KCB v Nairobi United FC
+Football,15-Jan 13:00,Zambian Super League,Zanaco v NAPSA Stars
+Football,15-Jan 13:00,Tunisia Division 1,AS Slimane v Kairouan
+Football,15-Jan 13:00,Club Friendly,Ferencvaros v FC Midtjylland
+Football,15-Jan 13:00,Ethiopia Premier League,Bahirdar Ketema v Mekelle 70 Enderta FC
 Football,15-Jan 13:05,Oman Elite League,Bahla v Sohar
 Football,15-Jan 13:20,Kuwait Division 1,Al Jazeera SC (Kuwait) v Al Shamiya
 Football,15-Jan 13:20,Kuwait Premier League,Al Qadsia (KUW) v Al Shabab (KUW)
 Football,15-Jan 13:20,Kuwait Division 1,Khaitan v Al Yarmouk
 Football,15-Jan 14:00,Club Friendly,OB Odense BK v Skive
+Football,15-Jan 14:30,Nigeria Premier League,Katsina United v Kun Khalifa
 Football,15-Jan 14:30,Qatari Stars League,Al Wakrah v Al Duhail SC (QAT)
-Football,15-Jan 15:00,Turkey Cup,Bodrum Belediyesi Bodrumspor v Torku Konyaspor
-Football,15-Jan 15:00,Ghana Division One,Accra Lions v Port City
+Football,15-Jan 14:30,Nigeria Premier League,Katsina United v Kun Khalifa
 Football,15-Jan 15:00,Egypt League Cup,Al Ahly Cairo v El Geish
-Football,15-Jan 15:00,Club Friendly,Dinamo Zagreb v Hartberg
+Football,15-Jan 15:00,Ghana Division One,Accra Lions v Port City
 Football,15-Jan 15:00,Egypt League Cup,Pyramids FC v Petrojet
 Football,15-Jan 15:00,Algeria Cup,ES Mostaganem v JS Saoura
+Football,15-Jan 15:00,Club Friendly,Dinamo Zagreb v Hartberg
+Football,15-Jan 15:00,Turkey Cup,Bodrum Belediyesi Bodrumspor v Torku Konyaspor
 Football,15-Jan 15:30,Oman Elite League,Saham Club v Al Khaboora
 Football,15-Jan 15:45,Kuwait Premier League,Al Arabi (Kuwait) v Al Fehaiheel
 Football,15-Jan 15:45,United Arab Emirates Premier,Shabab Al-Ahli Dubai FC v Ajman
-Football,15-Jan 16:00,Bahrain Premier League,Al Ahli Manama v Al Muharraq Sports Club
-Football,15-Jan 16:00,Bahrain Premier League,Al Bahrain SC v Sitra Cultural & Sports Club
 Football,15-Jan 16:00,Albania Superliga,Teuta v Dinamo Tirana
+Football,15-Jan 16:00,Bahrain Premier League,Al Bahrain SC v Sitra Cultural & Sports Club
+Football,15-Jan 16:00,Bahrain Premier League,Al Ahli Manama v Al Muharraq Sports Club
+Football,15-Jan 16:00,Mali Premiere Division,Afrique Football Elite v Binga Fc
+Football,15-Jan 16:05,Israel Ligat Al Women,Hapoel Katamon Jerusalem Women v Maccabi Panthers Ashdod Women
+Football,15-Jan 16:05,Israel Ligat Al Women,Maccabi Holon FC Women v Kiryat Gat Women
 Football,15-Jan 16:05,Israel Ligat Al Women,Maccabi Tel Aviv FC Women v Hapoel Ra'anana Women
 Football,15-Jan 16:05,Israel Ligat Al Women,Ramat Hasharon Women v Maccabi Kishronot Hadera Women
-Football,15-Jan 16:10,Israel Ligat Al Women,Maccabi Holon FC Women v Kiryat Gat Women
-Football,15-Jan 16:15,Israel Ligat Al Women,Hapoel Katamon Jerusalem Women v Maccabi Panthers Ashdod Women
-Football,15-Jan 16:30,Qatari Stars League,Al Arabi SC (Qatar) v Al Gharafa
 Football,15-Jan 16:30,Qatar U19 League,Al Sadd U19 v Al Mesaimeer U19
-Football,15-Jan 17:30,Italy Serie A,Hellas Verona FC v Bologna
-Football,15-Jan 17:30,Italy Serie A,Hellas Verona FC v Bologna
+Football,15-Jan 16:30,Qatari Stars League,Al Arabi SC (Qatar) v Al Gharafa
+Football,15-Jan 17:00,Club Friendly,FC Midtjylland v Kryvbas Krivyi Rig
+Football,15-Jan 17:20,Israel Liga Bet,Hapoel Yafia v MS Netanya Kolet
 Football,15-Jan 17:30,Israel State Cup,Kfar Kasem v Hapoel Kfar Saba
+Football,15-Jan 17:30,Italy Serie A,Hellas Verona FC v Bologna
 Football,15-Jan 17:30,Turkey Cup,Besiktas JK v Keciorengucu
 Football,15-Jan 17:45,Netherlands KNVB Cup,Heerenveen v RKC Waalwijk
-Football,15-Jan 18:00,Algeria Cup,CR Belouizdad v AsM Oran
-Football,15-Jan 18:00,Spain Tercera Division,Motril CF v UD Torre del Mar
 Football,15-Jan 18:00,Egypt League Cup,Ceramica Cleopatra v Al Mokawloon Al Arab
 Football,15-Jan 18:00,Egypt League Cup,Al Masry v Zamalek
+Football,15-Jan 18:00,Algeria Cup,CR Belouizdad v AsM Oran
+Football,15-Jan 18:00,Spain Tercera Division,Motril CF v UD Torre del Mar
+Football,15-Jan 18:00,Egypt League Cup,Al Masry v Zamalek
+Football,15-Jan 18:00,Israel Liga Bet,MS Bnei Yaffo Orthodoksim v Beitar Tel Aviv Ramla
+Football,15-Jan 18:15,Israel Liga Bet,Beitar Ironi Kiryat Gat v SC Hapoel Yeruham
+Football,15-Jan 18:45,Israel Liga Bet,MS Tzerei Haifa v MS Tzeirey Kfar Kana
 Football,15-Jan 19:15,Spain Tercera Division,UD Alcudia v Manacor
 Football,15-Jan 19:30,England Women's FA Cup,West Bromwich Albion F.C. Women v Everton L.F.C
 Football,15-Jan 19:30,Belgium Beker van Belgie,Anderlecht v Gent
 Football,15-Jan 19:30,Germany Bundesliga 1,Augsburg v Union Berlin
 Football,15-Jan 19:45,Italy Serie A,Como v AC Milan
+Football,15-Jan 20:00,Spain Cup,Real Racing Club Santander v Barcelona
+Football,15-Jan 20:00,Netherlands KNVB Cup,Sparta Rotterdam v Volendam
+Football,15-Jan 20:00,Spain Cup,CD Burgos v Valencia
+Football,15-Jan 20:00,Brazil Carioca 1 Division,Sampaio Correa Futebol e Esporte v Nova Iguacu
+Football,15-Jan 20:00,FA Women's National League - Division One North,Chorley FC Women v Leeds United LFC Women
+Football,15-Jan 20:15,Portugal Division 2,Vizela v Pacos de Ferreira
+Football,15-Jan 21:00,Honduras Liga Nacional,CD Marathon v CD Olimpia
+Football,15-Jan 21:15,Club Friendly,CA Progreso v Atletico Tucuman
+Football,15-Jan 21:30,Brazil Goiano 1,Inhumas Esporte Clube v Abecat Ouvidorense
+Football,15-Jan 22:00,Brazil Carioca 1 Division,AA Portuguesa RJ v Botafogo RJ
+Football,15-Jan 22:00,Brazil Gaucho 1 Division,Ypiranga v Guarany de Bage
+Football,15-Jan 22:00,Brazil Paulista A1,Botafogo FC Ribeirao Preto v Noroeste
+Football,15-Jan 22:00,Brazil Capixaba,Real Noroeste v Forte FC
+Football,15-Jan 22:00,Brazil Gaucho 1 Division,Monsoon v SC Internacional Porto Alegre
+Football,15-Jan 22:00,Brazil Paranaense,Independente Futebol Sao Joseense v Cianorte
+Football,15-Jan 22:00,Jamaica Premier League,Spanish Town Police v Waterhouse FC
+Football,15-Jan 22:00,Brazil Capixaba,Real Noroeste v Forte FC
+Football,15-Jan 22:00,Brazil Acreano,Independencia Futebol Clube v Santa Cruz AC
+Football,15-Jan 22:15,Brazil Baiano 1 Division,AD Jequie v Porto BA
+Football,15-Jan 22:30,Brazil Goiano 1,CRAC v Goias
+Football,15-Jan 22:30,Brazil Paulista A1,Bragantino SP v Corinthians
+Football,15-Jan 23:00,Brazil Alagoano,CRB Maceio v Murici Futebol Clube
+Football,15-Jan 23:00,Brazil Alagoano,CRB Maceio v Murici Futebol Clube
+Football,15-Jan 23:00,Brazil Acreano,Senador Guiomard v Humaita
+Football,15-Jan 23:00,Brazil Potiguar 1 Division,Globo Futebol Clube v America RN
+Football,15-Jan 23:00,Brazil Catarinense 1 Division,Joinville Esporte Clube v Criciuma
+Football,15-Jan 23:30,Brazil Catarinense 1 Division,Marcilio Dias v Santa Catarina
+Football,15-Jan 23:30,Brazil Cearense 1,Fortaleza EC (Brazil) v Quixada FC
+Football,15-Jan 23:40,Brazil Goiano 1,Aparecidense v Atletico Goianiense
+Football,16-Jan 00:00,Saudi Arabia Pro League,Al Hazm Rass v Al-Quadisiya (KSA)
+Football,16-Jan 00:00,Saudi Arabia Pro League,Al-Riyadh v Al Taawon Buraydah (KSA)
+Football,16-Jan 00:00,Saudi Arabia Pro League,Neom SC v Al-Hilal (KSA)
+Football,16-Jan 00:00,Brazil Acreano,Galvez v Humaita
+Football,16-Jan 00:00,Club Friendly,Olimpia Asuncion v Colo Colo
+Football,16-Jan 00:30,Brazil Carioca 1 Division,Vasco da Gama v Marica
+Football,16-Jan 00:30,Jamaica Premier League,Arnett Gardens FC v Montego Bay United
+Football,16-Jan 00:30,Colombia Super Cup,CD Junior Barranquilla v Santa Fe
+Football,16-Jan 00:45,Brazil Paulista A1,Sao Paulo v Sao Bernardo
+Football,16-Jan 02:00,Costa Rica Primera Division,LD Alajuelense v Municipal Liberia
+Football,16-Jan 05:50,Australia A-League Women,Melbourne City FC Women v Newcastle Jets Women
+Football,16-Jan 08:00,Australia A-League Women,Western Sydney Wanderers Women v Brisbane Roar Women
+Football,16-Jan 08:00,Liga Nusantara,Perseden Denpasar v Waanal Brothers FC
+Football,16-Jan 08:00,Liga Nusantara,PSGC Ciamis v Tri Brata Rafflesia FC
+Football,16-Jan 08:35,Australia A-League,Melbourne City v Auckland FC
+Football,16-Jan 09:00,Myanmar National League,Yarmanya United FC v Rakhine Utd
+Football,16-Jan 09:00,Israel Liga Bet,Maccabi Ihud Bnei Avtin v Ahva Kafr Manda
+Football,16-Jan 09:30,Czech Republic Tipsport Liga,Slovan Liberec II v Mlada Boleslav
+Football,16-Jan 09:30,Israel Liga Bet,MS Ramla v Hapoel Bnei Ashdod
+Football,16-Jan 09:30,Myanmar National League,Dagon v Hantharwady Utd
+Football,16-Jan 09:30,Czech Republic Tipsport Liga,Slovan Liberec II v Mlada Boleslav II
+Football,16-Jan 10:00,Ethiopia Premier League,Sheger Ketema v Fasil Kenema
+Football,16-Jan 10:00,Israel Liga Alef South,Hapoel Nir Ramat HaSharon v Maccabi Ironi Kiryat Malakhi
+Football,16-Jan 10:30,Club Friendly,Legia Warsaw v SK Sigma Olomouc
+Football,16-Jan 10:30,Club Friendly,Legia Warsaw v SK Sigma Olomouc
+Football,16-Jan 10:30,Israel Liga Alef South,FC Jerusalem v Hapoel Marmorek Ironi Rehovot
+Football,16-Jan 10:30,Israel Liga Bet,Maccabi Ironi Netivot FC v Maccabi Beer Sheva
+Football,16-Jan 10:30,Israel Liga Alef South,Maccabi Yavne v Maccabi Ashdod
+Football,16-Jan 10:40,Israel Liga Alef North,Maccabi Neve Sha'anan Eldad FC v MS Tira
+Football,16-Jan 10:45,Australia A-League,Perth Glory v Brisbane Roar
+Football,16-Jan 11:00,Club Friendly,Austria Vienna v FC Nordsjaelland
+Football,16-Jan 11:30,Singapore Premier League,Tampines Rovers v Courts Young Lions
+Football,16-Jan 11:30,Singapore Premier League,Tampines Rovers v Lion City Sailors FC
+Football,16-Jan 11:30,AFC U23 Championship,Japan U23 v Jordan U23
+Football,16-Jan 11:30,Israel Liga Bet,MS Shefaram v Maccabi Bnei Jadida
+Football,16-Jan 11:30,Israel Liga Alef South,Kfar Saba 1928 v Hapoel Herzliya
+Football,16-Jan 12:00,Club Friendly,Lokomotiv Plovdiv v Etar Veliko Tarnovo
+Football,16-Jan 12:00,Thailand T2,Nakhonsi Utd v Pattaya United
+Football,16-Jan 12:00,Indonesia Liga II,FC Bekasi City v Sriwijaya FC Palembang
+Football,16-Jan 12:00,Ethiopia Premier League,Negele Arsi Ketema v Wolayta Dicha FC
 Golf,15-Jan 03:00,Dubai Invitational,Dubai Invitational
 Golf,15-Jan 15:00,Sony Open,Sony Open
-GreyhoundRacing,12-Jan 17:31,Monmore,{2026-01-12T17:31:00.0000000Z} @ Monmore
-GreyhoundRacing,12-Jan 19:49,Kinsley,{2026-01-12T19:49:00.0000000Z} @ Kinsley
-GreyhoundRacing,12-Jan 19:51,Oxford,{2026-01-12T19:51:00.0000000Z} @ Oxford
-GreyhoundRacing,12-Jan 19:56,Yarmouth,{2026-01-12T19:56:00.0000000Z} @ Yarmouth
-GreyhoundRacing,12-Jan 19:58,Harlow,{2026-01-12T19:58:00.0000000Z} @ Harlow
-GreyhoundRacing,12-Jan 20:01,Nottingham,{2026-01-12T20:01:00.0000000Z} @ Nottingham
-GreyhoundRacing,12-Jan 20:07,Kinsley,{2026-01-12T20:07:00.0000000Z} @ Kinsley
-GreyhoundRacing,12-Jan 20:09,Oxford,{2026-01-12T20:09:00.0000000Z} @ Oxford
-GreyhoundRacing,12-Jan 20:13,Yarmouth,{2026-01-12T20:13:00.0000000Z} @ Yarmouth
-GreyhoundRacing,12-Jan 20:16,Harlow,{2026-01-12T20:16:00.0000000Z} @ Harlow
-GreyhoundRacing,12-Jan 20:19,Nottingham,{2026-01-12T20:19:00.0000000Z} @ Nottingham
-GreyhoundRacing,12-Jan 20:24,Kinsley,{2026-01-12T20:24:00.0000000Z} @ Kinsley
-GreyhoundRacing,12-Jan 20:31,Yarmouth,{2026-01-12T20:31:00.0000000Z} @ Yarmouth
-GreyhoundRacing,12-Jan 20:34,Harlow,{2026-01-12T20:34:00.0000000Z} @ Harlow
-GreyhoundRacing,12-Jan 20:36,Nottingham,{2026-01-12T20:36:00.0000000Z} @ Nottingham
-GreyhoundRacing,12-Jan 20:41,Kinsley,{2026-01-12T20:41:00.0000000Z} @ Kinsley
-GreyhoundRacing,12-Jan 20:47,Yarmouth,{2026-01-12T20:47:00.0000000Z} @ Yarmouth
-GreyhoundRacing,12-Jan 20:54,Nottingham,{2026-01-12T20:54:00.0000000Z} @ Nottingham
-GreyhoundRacing,12-Jan 20:59,Kinsley,{2026-01-12T20:59:00.0000000Z} @ Kinsley
-GreyhoundRacing,12-Jan 21:04,Yarmouth,{2026-01-12T21:04:00.0000000Z} @ Yarmouth
-GreyhoundRacing,12-Jan 21:11,Nottingham,{2026-01-12T21:11:00.0000000Z} @ Nottingham
-GreyhoundRacing,12-Jan 21:16,Kinsley,{2026-01-12T21:16:00.0000000Z} @ Kinsley
-GreyhoundRacing,12-Jan 21:23,Yarmouth,{2026-01-12T21:23:00.0000000Z} @ Yarmouth
-GreyhoundRacing,12-Jan 21:28,Nottingham,{2026-01-12T21:28:00.0000000Z} @ Nottingham
-GreyhoundRacing,12-Jan 21:46,Nottingham,{2026-01-12T21:46:00.0000000Z} @ Nottingham
-Handball,12-Jan 18:00,Sweden Allsvenskan,HK Drott Halmstad v Lugi HF
+GreyhoundRacing,13-Jan 12:18,Newcastle,{2026-01-13T12:18:00.0000000Z} @ Newcastle
+GreyhoundRacing,13-Jan 12:26,Sheffield,{2026-01-13T12:26:00.0000000Z} @ Sheffield
+GreyhoundRacing,13-Jan 12:34,Newcastle,{2026-01-13T12:34:00.0000000Z} @ Newcastle
+GreyhoundRacing,13-Jan 12:42,Sheffield,{2026-01-13T12:42:00.0000000Z} @ Sheffield
+GreyhoundRacing,13-Jan 12:51,Newcastle,{2026-01-13T12:51:00.0000000Z} @ Newcastle
+GreyhoundRacing,13-Jan 12:59,Sheffield,{2026-01-13T12:59:00.0000000Z} @ Sheffield
+GreyhoundRacing,13-Jan 13:08,Newcastle,{2026-01-13T13:08:00.0000000Z} @ Newcastle
+GreyhoundRacing,13-Jan 13:17,Sheffield,{2026-01-13T13:17:00.0000000Z} @ Sheffield
+GreyhoundRacing,13-Jan 13:26,Newcastle,{2026-01-13T13:26:00.0000000Z} @ Newcastle
+GreyhoundRacing,13-Jan 13:33,Sheffield,{2026-01-13T13:33:00.0000000Z} @ Sheffield
+GreyhoundRacing,13-Jan 13:42,Newcastle,{2026-01-13T13:42:00.0000000Z} @ Newcastle
+GreyhoundRacing,13-Jan 13:51,Sheffield,{2026-01-13T13:51:00.0000000Z} @ Sheffield
+GreyhoundRacing,13-Jan 13:59,Newcastle,{2026-01-13T13:59:00.0000000Z} @ Newcastle
+GreyhoundRacing,13-Jan 14:07,Sheffield,{2026-01-13T14:07:00.0000000Z} @ Sheffield
+GreyhoundRacing,13-Jan 14:14,Newcastle,{2026-01-13T14:14:00.0000000Z} @ Newcastle
+GreyhoundRacing,13-Jan 18:21,Suffolk Downs,{2026-01-13T18:21:00.0000000Z} @ Suffolk Downs
+GreyhoundRacing,13-Jan 18:39,Suffolk Downs,{2026-01-13T18:39:00.0000000Z} @ Suffolk Downs
+GreyhoundRacing,13-Jan 18:56,Suffolk Downs,{2026-01-13T18:56:00.0000000Z} @ Suffolk Downs
+GreyhoundRacing,13-Jan 19:14,Suffolk Downs,{2026-01-13T19:14:00.0000000Z} @ Suffolk Downs
+GreyhoundRacing,13-Jan 19:31,Suffolk Downs,{2026-01-13T19:31:00.0000000Z} @ Suffolk Downs
+GreyhoundRacing,13-Jan 19:51,Suffolk Downs,{2026-01-13T19:51:00.0000000Z} @ Suffolk Downs
+GreyhoundRacing,13-Jan 20:09,Suffolk Downs,{2026-01-13T20:09:00.0000000Z} @ Suffolk Downs
 Handball,13-Jan 16:30,Finland SM-Sarja,Cocks v Dicken
 Handball,13-Jan 17:00,Finland SM-Sarja,AIFK v BK-46
 Handball,13-Jan 17:00,Hungary NB 1 Women,Esztergomi Women v Kozarmisleny Women
@@ -994,29 +1075,29 @@ Handball,14-Jan 14:00,Poland Ekstraklasa,Piotrkowianin Piotrkow Tryb v Azoty-Pul
 Handball,14-Jan 15:30,Romania Liga Nationala Women,HCM Baia Mare Women v CSM Bucuresti Women
 Handball,14-Jan 16:00,Hungary NB 1 Women,Dunaujvarosi KKA Women v Gyori Audi ETO KC Women
 Handball,14-Jan 16:45,Norway REMA1000-ligaen (Womens),Byasen Women v Gjerpen Women
-Handball,14-Jan 17:00,Norway REMA1000-ligaen (Womens),Gjerpen Women v Fana Women
-Handball,14-Jan 17:00,Hungary NB 1 Women,DVSC Schaeffler Women v FTC Women
-Handball,14-Jan 17:00,Norway Division 1 (Women),Glassverket Women v Pors Women
-Handball,14-Jan 17:00,Norway REMA1000-ligaen (Womens),Fjellhammer Women v Fana Women
-Handball,14-Jan 17:00,Hungary NB 1 Women,Budaors Women v Motherson Mosonmagyarovar Women
-Handball,14-Jan 17:00,Poland Ekstraklasa Women,KPR Gminy Kobierzyce Women v MKS Urbis Gniezno Women
 Handball,14-Jan 17:00,Norway REMA1000-ligaen (Womens),Larvik Women v Romerike Ravens Women
+Handball,14-Jan 17:00,Hungary NB 1 Women,DVSC Schaeffler Women v FTC Women
+Handball,14-Jan 17:00,Norway REMA1000-ligaen (Womens),Gjerpen Women v Fana Women
+Handball,14-Jan 17:00,Norway REMA1000-ligaen (Womens),Fjellhammer Women v Fana Women
 Handball,14-Jan 17:00,Norway REMA1000-ligaen (Womens),Molde Elite Women v Fredrikstad BKL Women
 Handball,14-Jan 17:00,Norway REMA1000-ligaen (Womens),Oppsal Women v Follo HK Women
+Handball,14-Jan 17:00,Norway Division 1 (Women),Glassverket Women v Pors Women
+Handball,14-Jan 17:00,Hungary NB 1 Women,Budaors Women v Motherson Mosonmagyarovar Women
+Handball,14-Jan 17:00,Poland Ekstraklasa Women,KPR Gminy Kobierzyce Women v MKS Urbis Gniezno Women
 Handball,14-Jan 17:15,Norway REMA1000-ligaen (Womens),Tertnes Bergen Women v Storhamar Handball Elite Women
-Handball,14-Jan 17:30,Finland SM-Sarja,EIF v GrIFK
+Handball,14-Jan 17:30,Sweden Elitserien (Womens),IF Hallby HK Women v HK Aranas Women
 Handball,14-Jan 17:30,Denmark Handball League Women,Team Esbjerg Women v Horsens Women
-Handball,14-Jan 17:30,Finland SM-Sarja,SIF v HIFK
 Handball,14-Jan 17:30,Finland SM-Sarja,EIF v GrIFK
 Handball,14-Jan 17:30,Denmark Handball League Women,Skanderborg Women v Viborg Women
-Handball,14-Jan 17:30,Finland SM-Sarja,SIF v HIFK
-Handball,14-Jan 18:00,Sweden Elitserien (Womens),IK Savehof Women v Kungalvs HK Women
-Handball,14-Jan 18:00,Sweden Elitserien (Womens),Kristianstad HK Women v Boden Handboll IF Women
+Handball,14-Jan 17:30,Denmark Handball League Women,Skanderborg Women v Viborg Women
+Handball,14-Jan 17:30,Sweden Elitserien (Womens),IF Hallby HK Women v HK Aranas Women
 Handball,14-Jan 18:00,Sweden Elitserien (Womens),Skara HF Women v Skovde HF Women
-Handball,14-Jan 18:00,Sweden Elitserien (Womens),Hoors HK H 65 Women v Onnereds HK Women
+Handball,14-Jan 18:00,Sweden Elitserien (Womens),Kristianstad HK Women v Boden Handboll IF Women
 Handball,14-Jan 18:00,Sweden Elitserien (Womens),Skuru Women v Vasterasirsta Women
-Handball,14-Jan 18:00,Denmark Handball League Women,Ringkobing Handbold Women v Nykoping Falster Women
+Handball,14-Jan 18:00,Sweden Elitserien (Womens),Hoors HK H 65 Women v Onnereds HK Women
 Handball,14-Jan 18:00,Denmark Handball League Women,Bjerringbro FH Women v Ikast Women
+Handball,14-Jan 18:00,Denmark Handball League Women,Ringkobing Handbold Women v Nykoping Falster Women
+Handball,14-Jan 18:00,Sweden Elitserien (Womens),IK Savehof Women v Kungalvs HK Women
 Handball,14-Jan 18:00,Sweden Allsvenskan,Tyreso Handball v IFK Tumba
 Handball,14-Jan 18:00,Spain Division de Honor Women,Beti Onak Women v Caja Rural Aula Valladolid Women
 Handball,14-Jan 18:30,Germany Bundesliga (W),Borussia Dortmund Women v Sachsen Zwickau Women
@@ -1038,7 +1119,7 @@ Handball,15-Jan 08:00,South Korean Handball League Women,Gyeongnam Women v Inche
 Handball,15-Jan 10:00,South Korean Handball League Women,Seoul City Women v Busan Women
 Handball,15-Jan 11:00,Asian Championship,Hong Kong v United Arab Emirates
 Handball,15-Jan 13:00,Asian Championship,Australia v Japan
-Handball,15-Jan 13:00,Asian Championship,Australia v Japan
+Handball,15-Jan 15:00,Asian Championship,India v Kuwait
 Handball,15-Jan 15:00,Asian Championship,India v Kuwait
 Handball,15-Jan 17:00,European Championship Men,France v Czech Republic
 Handball,15-Jan 17:00,European Championship Men,Spain v Serbia
@@ -1048,37 +1129,33 @@ Handball,15-Jan 18:00,Icelandic Olis Deild Women,IR Reykjavik Women v IBV Women
 Handball,15-Jan 19:30,Icelandic Olis Deild Women,Haukar Women v Selfoss Women
 Handball,15-Jan 19:30,European Championship Men,Germany v Austria
 Handball,15-Jan 19:30,European Championship Men,Norway v Ukraine
-HorseRacing,12-Jan 19:47,Philadelphia,{2026-01-12T19:47:00.0000000Z} 7f
-HorseRacing,12-Jan 20:00,Wolverhampton,{2026-01-12T20:00:00.0000000Z} 1m 1f 104y
-HorseRacing,12-Jan 20:14,Philadelphia,{2026-01-12T20:14:00.0000000Z} 1m 70yds
-HorseRacing,12-Jan 20:41,Philadelphia,{2026-01-12T20:41:00.0000000Z} 6f 110yds
-HorseRacing,12-Jan 21:08,Philadelphia,{2026-01-12T21:08:00.0000000Z} 7f
-HorseRacing,13-Jan 02:50,Muswellbrook,{2026-01-13T02:50:00.0000000Z} 0m 4f 213y
-HorseRacing,13-Jan 03:25,Muswellbrook,{2026-01-13T03:25:00.0000000Z} 0m 7f 45y
-HorseRacing,13-Jan 04:05,Muswellbrook,{2026-01-13T04:05:00.0000000Z} 0m 6f 79y
-HorseRacing,13-Jan 04:40,Muswellbrook,{2026-01-13T04:40:00.0000000Z} 0m 4f 104y
-HorseRacing,13-Jan 05:15,Muswellbrook,{2026-01-13T05:15:00.0000000Z} 0m 4f 213y
-HorseRacing,13-Jan 05:55,Muswellbrook,{2026-01-13T05:55:00.0000000Z} 0m 7f 45y
-HorseRacing,13-Jan 06:30,Muswellbrook,{2026-01-13T06:30:00.0000000Z} 0m 6f 79y
+Handball,16-Jan 08:00,South Korean Handball League Women,SK Sugar Gliders Women v Samcheok Women
+Handball,16-Jan 10:00,South Korean Handball League Women,Colorful Daegu Women v Gwangju City Women
+Handball,16-Jan 11:00,Asian Championship,Oman v Qatar
+HorseRacing,13-Jan 12:35,Kenilworth,{2026-01-13T12:35:00.0000000Z} 1m 0f 209y
 HorseRacing,13-Jan 12:48,Ayr,{2026-01-13T12:48:00.0000000Z} 2m 0f 0y
+HorseRacing,13-Jan 13:10,Kenilworth,{2026-01-13T13:10:00.0000000Z} 1m 0f 209y
 HorseRacing,13-Jan 13:18,Ayr,{2026-01-13T13:18:00.0000000Z} 2m 4f 100y
 HorseRacing,13-Jan 13:30,Dundalk,{2026-01-13T13:30:00.0000000Z} 1m 4f
 HorseRacing,13-Jan 13:38,Newcastle,{2026-01-13T13:38:00.0000000Z} 2m 0f 56y
+HorseRacing,13-Jan 13:45,Kenilworth,{2026-01-13T13:45:00.0000000Z} 1m 0f 209y
 HorseRacing,13-Jan 13:48,Ayr,{2026-01-13T13:48:00.0000000Z} 3m 0f 70y
 HorseRacing,13-Jan 14:00,Dundalk,{2026-01-13T14:00:00.0000000Z} 1m
 HorseRacing,13-Jan 14:08,Newcastle,{2026-01-13T14:08:00.0000000Z} 0m 6f 0y
 HorseRacing,13-Jan 14:18,Ayr,{2026-01-13T14:18:00.0000000Z} 2m 0f 110y
+HorseRacing,13-Jan 14:20,Kenilworth,{2026-01-13T14:20:00.0000000Z} 0m 5f 212y
 HorseRacing,13-Jan 14:30,Dundalk,{2026-01-13T14:30:00.0000000Z} 1m
 HorseRacing,13-Jan 14:38,Newcastle,{2026-01-13T14:38:00.0000000Z} 0m 7f 14y
 HorseRacing,13-Jan 14:48,Ayr,{2026-01-13T14:48:00.0000000Z} 3m 0f 20y
+HorseRacing,13-Jan 14:55,Kenilworth,{2026-01-13T14:55:00.0000000Z} 0m 4f 214y
 HorseRacing,13-Jan 15:00,Dundalk,{2026-01-13T15:00:00.0000000Z} 6f
 HorseRacing,13-Jan 15:08,Newcastle,{2026-01-13T15:08:00.0000000Z} 0m 5f 0y
 HorseRacing,13-Jan 15:18,Ayr,{2026-01-13T15:18:00.0000000Z} 2m 0f 0y
 HorseRacing,13-Jan 15:30,Dundalk,{2026-01-13T15:30:00.0000000Z} 6f
+HorseRacing,13-Jan 15:30,Kenilworth,{2026-01-13T15:30:00.0000000Z} 0m 4f 214y
 HorseRacing,13-Jan 15:40,Newcastle,{2026-01-13T15:40:00.0000000Z} 1m 0f 5y
 HorseRacing,13-Jan 15:48,Ayr,{2026-01-13T15:48:00.0000000Z} 2m 0f 0y
 HorseRacing,13-Jan 16:00,Dundalk,{2026-01-13T16:00:00.0000000Z} 6f
-HorseRacing,13-Jan 16:15,Newcastle,{2026-01-13T16:15:00.0000000Z} 0m 5f 0y
 HorseRacing,13-Jan 16:15,Newcastle,{2026-01-13T16:15:00.0000000Z} 0m 5f 0y
 HorseRacing,13-Jan 16:30,Southwell,{2026-01-13T16:30:00.0000000Z} 0m 4f 214y
 HorseRacing,13-Jan 16:35,Dundalk,{2026-01-13T16:35:00.0000000Z} 1m 2f 150yds
@@ -1086,36 +1163,42 @@ HorseRacing,13-Jan 16:45,Newcastle,{2026-01-13T16:45:00.0000000Z} 0m 7f 14y
 HorseRacing,13-Jan 17:00,Southwell,{2026-01-13T17:00:00.0000000Z} 0m 7f 14y
 HorseRacing,13-Jan 17:10,Dundalk,{2026-01-13T17:10:00.0000000Z} 1m 2f 150yds
 HorseRacing,13-Jan 17:30,Southwell,{2026-01-13T17:30:00.0000000Z} 0m 7f 14y
+HorseRacing,13-Jan 17:30,Southwell,{2026-01-13T17:30:00.0000000Z} 0m 7f 14y
 HorseRacing,13-Jan 18:00,Southwell,{2026-01-13T18:00:00.0000000Z} 0m 7f 14y
 HorseRacing,13-Jan 18:30,Southwell,{2026-01-13T18:30:00.0000000Z} 0m 6f 16y
 HorseRacing,13-Jan 19:00,Southwell,{2026-01-13T19:00:00.0000000Z} 0m 6f 16y
 HorseRacing,13-Jan 19:30,Southwell,{2026-01-13T19:30:00.0000000Z} 0m 4f 214y
 HorseRacing,13-Jan 20:00,Southwell,{2026-01-13T20:00:00.0000000Z} 1m 4f 14y
+HorseRacing,14-Jan 03:38,Doomben,{2026-01-14T03:38:00.0000000Z} 1m 2f 9y
+HorseRacing,14-Jan 04:13,Doomben,{2026-01-14T04:13:00.0000000Z} 1m 0f 6y
+HorseRacing,14-Jan 04:48,Doomben,{2026-01-14T04:48:00.0000000Z} 1m 0f 6y
+HorseRacing,14-Jan 05:23,Doomben,{2026-01-14T05:23:00.0000000Z} 0m 6f 156y
+HorseRacing,14-Jan 05:58,Doomben,{2026-01-14T05:58:00.0000000Z} 1m 2f 205y
+HorseRacing,14-Jan 06:33,Doomben,{2026-01-14T06:33:00.0000000Z} 0m 5f 212y
+HorseRacing,14-Jan 07:04,Launceston,{2026-01-14T07:04:00.0000000Z} 0m 5f 212y
+HorseRacing,14-Jan 07:10,Doomben,{2026-01-14T07:10:00.0000000Z} 0m 5f 212y
+HorseRacing,14-Jan 07:34,Launceston,{2026-01-14T07:34:00.0000000Z} 0m 7f 209y
+HorseRacing,14-Jan 07:45,Doomben,{2026-01-14T07:45:00.0000000Z} 0m 6f 156y
+HorseRacing,14-Jan 08:10,Launceston,{2026-01-14T08:10:00.0000000Z} 0m 5f 212y
+HorseRacing,14-Jan 08:40,Launceston,{2026-01-14T08:40:00.0000000Z} 0m 6f 211y
+HorseRacing,14-Jan 09:20,Launceston,{2026-01-14T09:20:00.0000000Z} 1m 2f 96y
+HorseRacing,14-Jan 09:50,Launceston,{2026-01-14T09:50:00.0000000Z} 1m 1f 207y
+HorseRacing,14-Jan 10:20,Launceston,{2026-01-14T10:20:00.0000000Z} 0m 6f 211y
+HorseRacing,14-Jan 10:51,Launceston,{2026-01-14T10:51:00.0000000Z} 0m 5f 102y
 HorseRacing,14-Jan 14:15,Fairyhouse,{2026-01-14T14:15:00.0000000Z} 2m 1f 30yds
 HorseRacing,14-Jan 15:15,Newbury,{2026-01-14T15:15:00.0000000Z} 2m 7f 91y
-IceHockey,12-Jan 00:00,Canada WHL,Prince Albert Raiders v Brandon Wheat Kings
-IceHockey,12-Jan 03:00,Canada WHL,Portland Winterhawks v Moose Jaw Warriors
 IceHockey,13-Jan 00:00,Canada WHL,Wenatchee Wild v Vancouver Giants
-IceHockey,13-Jan 00:05,US NHL,Florida Panthers @ Buffalo Sabres
-IceHockey,13-Jan 00:05,US NHL,Tampa Bay Lightning @ Philadelphia Flyers
-IceHockey,13-Jan 00:05,US NHL,Carolina Hurricanes @ Detroit Red Wings
-IceHockey,13-Jan 00:05,US NHL,Seattle Kraken @ New York Rangers
-IceHockey,13-Jan 00:35,US NHL,Vancouver Canucks @ Montreal Canadiens
-IceHockey,13-Jan 01:05,US NHL,New Jersey Devils @ Minnesota Wild
-IceHockey,13-Jan 01:35,US NHL,Edmonton Oilers @ Chicago Blackhawks
-IceHockey,13-Jan 03:05,US NHL,Toronto Maple Leafs @ Colorado Avalanche
-IceHockey,13-Jan 03:05,US NHL,Dallas Stars @ Los Angeles Kings
 IceHockey,13-Jan 15:30,US ECHL,Greenville Swamp Rabbits @ Savannah Ghost Pirates
 IceHockey,13-Jan 16:30,Finland Mestis,IPK v KeuPa
-IceHockey,13-Jan 16:30,Finland Mestis,JoKP v Hermes
-IceHockey,13-Jan 16:30,Finland SM-Liiga,Lukko v Pelicans
 IceHockey,13-Jan 16:30,Czechia Extraliga,BK Mlada Boleslav v HC Mountfield
+IceHockey,13-Jan 16:30,Finland SM-Liiga,Lukko v Pelicans
+IceHockey,13-Jan 16:30,Finland Mestis,JoKP v Hermes
 IceHockey,13-Jan 17:00,Czechia Extraliga,Bili Tygri Liberec v CEZ Ceske Budejovice
 IceHockey,13-Jan 17:30,Czechia Extraliga,HC Sparta Prague v HC Verva Litvinov
-IceHockey,13-Jan 18:00,European Champions Hockey League,Brynas IF v Frolunda HC
-IceHockey,13-Jan 18:00,Danish Metal Ligaen,Aalborg Pirates v Herlev Eagles
 IceHockey,13-Jan 18:00,Danish Metal Ligaen,Esbjerg Energy v Frederikshavn White Hawks
 IceHockey,13-Jan 18:00,Danish Metal Ligaen,Rodovre Mighty Bulls v Blue Fox Herning
+IceHockey,13-Jan 18:00,European Champions Hockey League,Brynas IF v Frolunda HC
+IceHockey,13-Jan 18:00,Danish Metal Ligaen,Aalborg Pirates v Herlev Eagles
 IceHockey,13-Jan 18:30,Switzerland NLB,EHC Arosa v GCK Lions
 IceHockey,13-Jan 18:45,European Champions Hockey League,EV Zug v Lulea HF
 IceHockey,13-Jan 18:45,Switzerland NLB,La Chaux Fonds v EHC Visp
@@ -1125,20 +1208,20 @@ IceHockey,13-Jan 19:15,France Ligue Magnus,Marseille v HC Amiens
 IceHockey,13-Jan 19:15,Switzerland NLB,GDT Bellinzona v Basel
 IceHockey,13-Jan 19:30,France Ligue Magnus,Briancon v GAP
 IceHockey,13-Jan 19:30,France Ligue Magnus,Cergy-Pontoise v Chamonix
-IceHockey,13-Jan 19:30,France Ligue Magnus,Briancon v GAP
 IceHockey,14-Jan 00:00,US ECHL,South Carolina Stingrays @ Orlando Solar Bears
 IceHockey,14-Jan 00:00,AHL,Springfield Thunderbirds @ Charlotte Checkers
 IceHockey,14-Jan 00:00,PWHL,Montreal Victoire Women v Ottawa Charge Women
 IceHockey,14-Jan 00:05,US NHL,Vancouver Canucks @ Ottawa Senators
 IceHockey,14-Jan 00:05,US NHL,Tampa Bay Lightning @ Pittsburgh Penguins
-IceHockey,14-Jan 00:05,US NHL,Montreal Canadiens @ Washington Capitals
 IceHockey,14-Jan 00:05,US NHL,Calgary Flames @ Columbus Blue Jackets
-IceHockey,14-Jan 00:35,US NHL,Detroit Red Wings @ Boston Bruins
+IceHockey,14-Jan 00:05,US NHL,Montreal Canadiens @ Washington Capitals
 IceHockey,14-Jan 00:35,US NHL,Carolina Hurricanes @ St Louis Blues
-IceHockey,14-Jan 01:00,Canada WHL,Prince Albert Raiders v Brandon Wheat Kings
-IceHockey,14-Jan 01:00,AHL,Manitoba Moose @ Rockford IceHogs
-IceHockey,14-Jan 01:00,AHL,Coachella Valley Firebirds @ Texas Stars
+IceHockey,14-Jan 00:35,US NHL,Detroit Red Wings @ Boston Bruins
 IceHockey,14-Jan 01:00,AHL,Grand Rapids Griffins @ Milwaukee Admirals
+IceHockey,14-Jan 01:00,AHL,Coachella Valley Firebirds @ Texas Stars
+IceHockey,14-Jan 01:00,AHL,Manitoba Moose @ Rockford IceHogs
+IceHockey,14-Jan 01:00,AHL,Grand Rapids Griffins @ Milwaukee Admirals
+IceHockey,14-Jan 01:00,Canada WHL,Prince Albert Raiders v Brandon Wheat Kings
 IceHockey,14-Jan 01:05,US NHL,New York Islanders @ Winnipeg Jets
 IceHockey,14-Jan 01:05,US NHL,Edmonton Oilers @ Nashville Predators
 IceHockey,14-Jan 02:05,AHL,Ontario Reign @ Colorado Eagles
@@ -1150,29 +1233,29 @@ IceHockey,14-Jan 15:30,Czechia 1. Liga,HC Stadion Litomerice v SK Horacka Slavia
 IceHockey,14-Jan 16:00,Czechia 1. Liga,HC Frydek-Mistek v VHK Vsetin
 IceHockey,14-Jan 16:30,Finland SM-Liiga,Oulun Karpat v SaiPa
 IceHockey,14-Jan 16:30,Czechia 1. Liga,Dukla Jihlava v HC Tabor
-IceHockey,14-Jan 16:30,Finland SM-Liiga,Ilves v JYP
-IceHockey,14-Jan 16:30,Finland Mestis,Imatran Kettera v Hermes
 IceHockey,14-Jan 16:30,Finland SM-Liiga,Kiekko Espoo v KalPa
-IceHockey,14-Jan 16:30,Finland Mestis,KeuPa v RoKi
 IceHockey,14-Jan 16:30,Czech Republic 2. Liga,HC AZ Havirov 2010 v BK Havlickuv Brod
-IceHockey,14-Jan 16:30,Czechia 2. Liga,HC AZ Havirov 2010 v Uhersky Brod
-IceHockey,14-Jan 16:30,Czechia 1. Liga,Dukla Jihlava v HC Tabor
+IceHockey,14-Jan 16:30,Finland SM-Liiga,Ilves v JYP
 IceHockey,14-Jan 16:30,Finland SM-Liiga,HIFK v KooKoo
-IceHockey,14-Jan 17:00,Czechia 2. Liga,HK Novy Jicin v HC Slezan Opava
+IceHockey,14-Jan 16:30,Czechia 2. Liga,HC AZ Havirov 2010 v Uhersky Brod
+IceHockey,14-Jan 16:30,Finland Mestis,KeuPa v RoKi
+IceHockey,14-Jan 16:30,Finland Mestis,Imatran Kettera v Hermes
+IceHockey,14-Jan 17:00,Czechia 2. Liga,HC Decin v HC Kobra Praha
 IceHockey,14-Jan 17:00,Czech Republic 1. Liga,Slavia Prague v PSG Zlin
-IceHockey,14-Jan 17:00,Czechia 2. Liga,Mostecti Lvi v HC Benatky nad Jizerou
+IceHockey,14-Jan 17:00,Czechia 2. Liga,HC Vrchlabi v Pisek
 IceHockey,14-Jan 17:00,Czechia 2. Liga,Velke Mezirici v HC Orli Znojmo
-IceHockey,14-Jan 17:00,Slovakia Extraliga,HK Nitra v HC Kosice
+IceHockey,14-Jan 17:00,Czechia 2. Liga,HC Most v HC Benatky nad Jizerou
 IceHockey,14-Jan 17:00,Czechia 2. Liga,Cheb v Milevsko
-IceHockey,14-Jan 17:00,Czechia 2. Liga,Koprivinice v LHK Jestrabi Prostejov
+IceHockey,14-Jan 17:00,Czechia 2. Liga,HK Novy Jicin v HC Slezan Opava
 IceHockey,14-Jan 17:00,Czechia 1. Liga,SC Kolin v HC RT Torax Poruba
-IceHockey,14-Jan 17:00,Czechia 2. Liga,HK Kromeriz v Draci Pars Sumperk
+IceHockey,14-Jan 17:00,Czechia 1. Liga,HC Banik Sokolov v Pirati Chomutov
+IceHockey,14-Jan 17:00,Czechia 2. Liga,Mostecti Lvi v HC Benatky nad Jizerou
+IceHockey,14-Jan 17:00,Czechia 2. Liga,HC Decin v HC Kobra Praha
 IceHockey,14-Jan 17:00,Czechia 2. Liga,Hokej Usti nad Labem v BK Havlickuv Brod
+IceHockey,14-Jan 17:00,Czechia 2. Liga,HK Novy Jicin v HC Slezan Opava
+IceHockey,14-Jan 17:00,Czechia 2. Liga,HK Kromeriz v Draci Pars Sumperk
 IceHockey,14-Jan 17:00,Czechia 2. Liga,HC Most v HC Benatky nad Jizerou
 IceHockey,14-Jan 17:00,Czechia 2. Liga,SHK Hodonin v Valasske Mezirici
-IceHockey,14-Jan 17:00,Czechia 2. Liga,HC Vrchlabi v Pisek
-IceHockey,14-Jan 17:00,Czechia 1. Liga,HC Banik Sokolov v Pirati Chomutov
-IceHockey,14-Jan 17:00,Czechia 2. Liga,HC Decin v HC Kobra Praha
 IceHockey,14-Jan 17:00,Czechia 1. Liga,Pardubice B v HC Zubr Prerov
 IceHockey,14-Jan 17:15,Latvia LHL,Kyiv Capitals v HK Prizma
 IceHockey,14-Jan 17:30,Czechia 2. Liga,Kadan v Pribram
@@ -1181,22 +1264,22 @@ IceHockey,14-Jan 17:30,Czechia 2. Liga,Technika Hockey Brno v Zdar nad Sazavou
 IceHockey,14-Jan 17:30,Czechia 2. Liga,Kralupy v HC Wikov Hronov
 IceHockey,14-Jan 18:00,Norway 1st Division,IK Comet Halden v Manglerud Star
 IceHockey,14-Jan 18:00,Norway 1st Division,Kongsvinger IL v Ringerike
-IceHockey,14-Jan 18:00,Danish Metal Ligaen,Rodovre Mighty Bulls v Odense Bulldogs
-IceHockey,14-Jan 18:00,Sweden Allsvenskan,Sodertalje SK v Mora IK
 IceHockey,14-Jan 18:00,Sweden Allsvenskan,IF Bjorkloven v Kalmar HC
-IceHockey,14-Jan 18:00,Sweden Hockeyettan,Halmstad HF v Mjolby HC
-IceHockey,14-Jan 18:00,Sweden Allsvenskan,Almtuna IS v IK Oskarshamn
-IceHockey,14-Jan 18:00,Sweden Allsvenskan,Almtuna IS v IK Oskarshamn
 IceHockey,14-Jan 18:00,Sweden Allsvenskan,Sodertalje SK v Mora IK
-IceHockey,14-Jan 18:00,Sweden Allsvenskan,VIK Vasteras HK v BIK Karlskoga
+IceHockey,14-Jan 18:00,Sweden Allsvenskan,Almtuna IS v IK Oskarshamn
 IceHockey,14-Jan 18:00,Sweden Allsvenskan,Ostersund IK v Vimmerby HC
-IceHockey,14-Jan 18:00,Sweden Allsvenskan,MODO Hockey v AIK IF Stockholm
+IceHockey,14-Jan 18:00,Sweden Allsvenskan,VIK Vasteras HK v BIK Karlskoga
 IceHockey,14-Jan 18:00,Sweden Hockeyettan,Forshaga IF v Falu IF
+IceHockey,14-Jan 18:00,Sweden Allsvenskan,MODO Hockey v AIK IF Stockholm
+IceHockey,14-Jan 18:00,Sweden Hockeyettan,HC Vita Hasten v Jarfalla HC
 IceHockey,14-Jan 18:00,Sweden Hockeyettan,Pitea HC v Clemensnas HC
-IceHockey,14-Jan 18:00,Sweden Hockeyettan,Hudiksvalls HC v IF Sundsvall Hockey
+IceHockey,14-Jan 18:00,Sweden Hockeyettan,Tranas AIF v Hanvikens SK
 IceHockey,14-Jan 18:00,Sweden Hockeyettan,Lindlovens IF v Enkopings SK HK
+IceHockey,14-Jan 18:00,Sweden Hockeyettan,Boras HC v Tingsryds AIF
+IceHockey,14-Jan 18:00,Danish Metal Ligaen,Rodovre Mighty Bulls v Odense Bulldogs
+IceHockey,14-Jan 18:00,Sweden Allsvenskan,Nybro Vikings IF v IF Troja/Ljungby
+IceHockey,14-Jan 18:00,Sweden Hockeyettan,Hudiksvalls HC v IF Sundsvall Hockey
 IceHockey,14-Jan 18:00,Sweden Hockeyettan,Surahammars IF v Wings HC Arlanda
-IceHockey,14-Jan 18:00,Sweden Hockeyettan,Nykopings SK v HC Dalen
 IceHockey,14-Jan 18:00,Sweden Hockeyettan,Kungalvs IK v Grastorps IK
 IceHockey,14-Jan 18:00,Sweden Hockeyettan,Halmstad HF v Mjolby HC
 IceHockey,14-Jan 18:00,Sweden Hockeyettan,HC Vita Hasten v Jarfalla HC
@@ -1217,7 +1300,6 @@ IceHockey,15-Jan 00:00,AHL,Hartford Wolf Pack @ Hershey Bears
 IceHockey,15-Jan 00:00,AHL,Belleville Senators @ Laval Rocket
 IceHockey,15-Jan 00:00,PWHL,Boston Fleet Women v Toronto Sceptres Women
 IceHockey,15-Jan 00:05,AHL,Wilkes-Barre/Scranton Penguins @ Providence Bruins
-IceHockey,15-Jan 00:05,AHL,Wilkes-Barre/Scranton Penguins @ Providence Bruins
 IceHockey,15-Jan 00:05,US ECHL,Reading Royals @ Worcester Railers
 IceHockey,15-Jan 00:05,US NHL,Seattle Kraken @ New Jersey Devils
 IceHockey,15-Jan 00:05,AHL,Syracuse Crunch @ Rochester Americans
@@ -1228,6 +1310,7 @@ IceHockey,15-Jan 01:00,Canada WHL,Regina Pats v Swift Current Broncos
 IceHockey,15-Jan 01:00,Canada WHL,Saskatoon Blades v Brandon Wheat Kings
 IceHockey,15-Jan 01:00,US ECHL,Kalamazoo Wings @ Iowa Heartlanders
 IceHockey,15-Jan 01:00,AHL,Coachella Valley Firebirds @ Texas Stars
+IceHockey,15-Jan 02:00,Canada WHL,Lethbridge Hurricanes v Red Deer Rebels
 IceHockey,15-Jan 02:00,Canada WHL,Lethbridge Hurricanes v Red Deer Rebels
 IceHockey,15-Jan 02:00,Canada WHL,Calgary Hitmen v Tri-City Americans
 IceHockey,15-Jan 02:00,Canada WHL,Edmonton Oil Kings v Medicine Hat Tigers
@@ -1248,7 +1331,6 @@ IceHockey,15-Jan 17:30,Elitehockeyligaen,Lillehammer IK v Valerenga Ishockey
 IceHockey,15-Jan 17:30,Czechia Extraliga,HC Sparta Prague v HC Kometa Brno
 IceHockey,15-Jan 18:00,Elitehockeyligaen,Nidaros Hockey v Storhamar Hockey
 IceHockey,15-Jan 18:00,Sweden Hockeyettan,Norrtalje IK v Bodens HF
-IceHockey,15-Jan 18:00,Sweden Hockeyettan,Norrtalje IK v Bodens HF
 IceHockey,15-Jan 18:00,Sweden Hockey League,Timra IK v Frolunda HC
 IceHockey,15-Jan 18:00,Sweden Hockey League,Leksands IF v Brynas IF
 IceHockey,15-Jan 18:00,Sweden Hockey League,Djurgardens IF v Vaxjo Lakers HC
@@ -1260,242 +1342,198 @@ IceHockey,15-Jan 18:30,Germany DEL,SERC Wild Wings v Eisbaren Berlin
 IceHockey,15-Jan 18:45,Switzerland NLB,Basel v HC Sierre
 IceHockey,15-Jan 19:00,Continental Cup,HC GKS Katowice v Mogo Riga
 IceHockey,15-Jan 19:00,Switzerland NLA,EHC Biel v HC Ambri-Piotta
-Snooker,12-Jan 19:00,The Masters,Zhao Xintong v Gary Wilson
-Snooker,12-Jan 19:07,The Masters,Zhao Xintong v Gary Wilson
-Snooker,13-Jan 13:00,The Masters,Kyren Wilson v Si Jiahui
+IceHockey,15-Jan 19:00,Switzerland NLA,EHC Biel v HC Ambri-Piotta
+IceHockey,15-Jan 22:30,Canada QMJHL,Newfoundland Growlers v Rimouski Oceanic
+IceHockey,15-Jan 23:00,Canada QMJHL,Halifax Mooseheads v Chicoutimi Sagueneens
+IceHockey,16-Jan 00:00,Canada OHL,North Bay Battalion v Sudbury Wolves
+IceHockey,16-Jan 00:00,Canada QMJHL,Val-D’Or Foreurs v Saint John Sea Dogs
+IceHockey,16-Jan 00:00,Canada OHL,Niagara Icedogs v Guelph Storm
+IceHockey,16-Jan 00:00,Canada OHL,Barrie Colts v Flint Firebirds
+IceHockey,16-Jan 00:00,Canada QMJHL,Shawinigan Cataractes v Cape Breton Screaming Eagles
+IceHockey,16-Jan 00:00,US ECHL,Idaho Steelheads @ Orlando Solar Bears
+IceHockey,16-Jan 00:05,Canada OHL,Sarnia Sting v Sault Sainte Marie Greyhounds
+IceHockey,16-Jan 00:05,US NHL,Philadelphia Flyers @ Pittsburgh Penguins
+IceHockey,16-Jan 00:05,US NHL,San Jose Sharks @ Washington Capitals
+IceHockey,16-Jan 00:05,US NHL,Vancouver Canucks @ Columbus Blue Jackets
+IceHockey,16-Jan 00:05,US NHL,Montreal Canadiens @ Buffalo Sabres
+IceHockey,16-Jan 01:05,US ECHL,Tahoe Knight Monsters @ Wichita Thunder
+IceHockey,16-Jan 01:05,US NHL,Seattle Kraken @ Boston Bruins
+IceHockey,16-Jan 01:05,US NHL,Winnipeg Jets @ Minnesota Wild
+IceHockey,16-Jan 01:35,US NHL,Calgary Flames @ Chicago Blackhawks
+IceHockey,16-Jan 02:05,US NHL,Dallas Stars @ Utah Mammoth
+IceHockey,16-Jan 02:05,US NHL,New York Islanders @ Edmonton Oilers
+IceHockey,16-Jan 02:35,US NHL,Toronto Maple Leafs @ Vegas Golden Knights
+Snooker,13-Jan 13:10,The Masters,Kyren Wilson v Si Jiahui
 Snooker,13-Jan 19:00,The Masters,John Higgins v Barry Hawkins
 Snooker,14-Jan 13:00,The Masters,Judd Trump v Ding Junhui
 Snooker,14-Jan 19:00,The Masters,Neil Robertson v Ronnie O'Sullivan
 Snooker,14-Jan 19:00,The Masters,Neil Robertson v Chris Wakelin
 Snooker,15-Jan 13:00,The Masters,Wu Yize v Xiao Guodong
-TableTennis,12-Jan 12:30,Challenger Series,Florian Bluhm v Marius Henninger
-TableTennis,12-Jan 16:00,Challenger Series,Nikolaosz Kizakisz v Florian Bluhm
-TableTennis,13-Jan 07:30,Challenger Series,Jaime Lama v Florian Bluhm
-TableTennis,13-Jan 08:00,Challenger Series,Alexander Valuch v Matthias Danzer
 TableTennis,13-Jan 08:30,Challenger Series,Alex Moreno v Mike Hollo
-TableTennis,13-Jan 09:00,Challenger Series,Nikolaosz Kizakisz v Alexander Valuch
-TableTennis,13-Jan 09:30,Challenger Series,Jaime Lama v Marius Henninger
-Tennis,12-Jan 00:00,Adelaide,Mirra Andreeva v Leylah Annie Fernandez
-Tennis,12-Jan 00:00,Adelaide,Kimberly Birrell v Diana Shnaider
-Tennis,12-Jan 03:00,Australian Open,Yannick Hanfmann v Benjamin Hassan
-Tennis,12-Jan 17:40,Buenos Aires Challenger,Juan Bautista Torres v Juan Manuel La Serna
-Tennis,12-Jan 18:00,Buenos Aires Challenger,Pedro Dias v Mariano Kestelboim
-Tennis,12-Jan 18:10,Buenos Aires Challenger,Mateus Alves v Matheus Pucinelli De Almeida
-Tennis,12-Jan 20:15,Buenos Aires Challenger,Juan Pablo Varillas v Gonzalo Villanueva
-Tennis,12-Jan 20:15,Buenos Aires Challenger,Nikolas Sanchez Izquierdo v Joao Eduardo Schiessl
-Tennis,12-Jan 22:30,Auckland,Alejandro Tabilo v Camilo Ugo Carabelli
-Tennis,12-Jan 23:00,Australian Open,Blake Ellis v Stefano Travaglia
-Tennis,12-Jan 23:00,Auckland,Mariano Navone v Alex Michelsen
-Tennis,12-Jan 23:00,Australian Open,Pavle Marinkov v James McCabe
-Tennis,12-Jan 23:00,Australian Open,Alvaro Guillen Meza v Thiago Seyboth Wild
-Tennis,12-Jan 23:00,Australian Open,Ye-Xin Ma v Varvara Lepchenko
-Tennis,12-Jan 23:00,Australian Open,Chun Hsin Tseng v Martin Landaluce
-Tennis,12-Jan 23:00,Australian Open,Tahlia Kokkinis v Anouk Koevermans
-Tennis,12-Jan 23:00,Australian Open,Lorenzo Giustino v Francesco Maestrelli
-Tennis,12-Jan 23:00,Australian Open,Anhelina Kalinina v Joanna Garland
-Tennis,12-Jan 23:00,Australian Open,Yosuke Watanuki v Nicolai Budkov Kjaer
-Tennis,12-Jan 23:00,Australian Open,Jessica Pieri v Harmony Tan
-Tennis,12-Jan 23:00,Australian Open,Sijia Wei v Elvina Kalieva
-Tennis,12-Jan 23:00,Australian Open,Greetje Minnen v Francisca Jorge
-Tennis,12-Jan 23:00,Australian Open,Storm Hunter v Ekaterine Gorgodze
-Tennis,12-Jan 23:00,Australian Open,Alana Subasic v Lola Radivojevic
-Tennis,13-Jan 00:00,Hobart,Anna Bondar v Ella Seidel
-Tennis,13-Jan 00:00,Hobart,Rebecca Sramkova v Varvara Gracheva
 Tennis,13-Jan 00:00,Australian Open,Anastasia Zakharova v Kristina Mladenovic
 Tennis,13-Jan 00:00,Australian Open,Katie Boulter v Luisina Giovannini
-Tennis,13-Jan 00:30,Auckland,Roberto Bautista Agut v Giovanni Perricard
-Tennis,13-Jan 00:30,Adelaide,Tomas Machac v James Duckworth
-Tennis,13-Jan 00:30,Adelaide,Diana Shnaider v Leylah Annie Fernandez
-Tennis,13-Jan 00:30,Adelaide,Diana Shnaider v Leylah Annie Fernandez
-Tennis,13-Jan 01:00,Auckland,Alexandre Muller v Marcos Giron
-Tennis,13-Jan 01:00,Hobart,Peyton Stearns v Barbora Krejcikova
-Tennis,13-Jan 01:00,Australian Open,Otto Virtanen v Nicolas Mejia
-Tennis,13-Jan 01:00,Australian Open,Yibing Wu v Mitchell Krueger
-Tennis,13-Jan 01:00,Australian Open,Chak Lam Coleman Wong v Ugo Blanchet
-Tennis,13-Jan 01:00,Australian Open,Billy Harris v Chris Rodesch
-Tennis,13-Jan 01:00,Australian Open,Alex Bolt v Elias Ymer
-Tennis,13-Jan 01:00,Australian Open,Pablo Llamas Ruiz v Henry Bernet
-Tennis,13-Jan 01:00,Australian Open,Astra Sharma v Carson Branstine
-Tennis,13-Jan 01:00,Australian Open,Elmer Moller v Marc Polmans
-Tennis,13-Jan 01:00,Australian Open,Hanne Vandewinkel v Carol Lee
-Tennis,13-Jan 01:00,Australian Open,Daria Snigur v Katarzyna Kawa
-Tennis,13-Jan 01:00,Australian Open,Carole Monnet v Elena Micic
-Tennis,13-Jan 01:00,Australian Open,Anastasija Sevastova v Whitney Osuigwe
-Tennis,13-Jan 01:00,Australian Open,Li Tu v Rafael Jodar
-Tennis,13-Jan 01:00,Australian Open,Eva Vedder v Lucrezia Stefanini
-Tennis,13-Jan 02:00,Hobart,Iva Jovic v Janice Tjen
 Tennis,13-Jan 02:00,Nonthaburi Challenger 2,Jason Jung v Andres Martin
-Tennis,13-Jan 02:00,Adelaide,Jacob Fearnley v Quentin Halys
-Tennis,13-Jan 02:30,Adelaide,Tristan Schoolkate v Rinky Hijikata
-Tennis,13-Jan 02:30,Adelaide,Ludmilla Samsonova v Marketa Vondrousova
-Tennis,13-Jan 02:30,Adelaide,Kimberly Birrell v Anastasia Potapova
-Tennis,13-Jan 03:00,Australian Open,Jason Kubler v Harold Mayot
-Tennis,13-Jan 03:00,Nonthaburi Challenger 2,Rio Noguchi v Stefanos Sakellaridis
-Tennis,13-Jan 03:00,Australian Open,Polina Iatcenko v Maria Lourdes Carle
-Tennis,13-Jan 03:00,Australian Open,Zhuoxuan Bai v Alina Korneeva
-Tennis,13-Jan 03:00,Australian Open,Hanyu Guo v Dominika Salkova
-Tennis,13-Jan 03:00,Australian Open,Louisa Chirico v Yue Yuan
-Tennis,13-Jan 03:00,Australian Open,Darja Vidmanova v Mingge Xu
-Tennis,13-Jan 03:00,Australian Open,Tamara Korpatsch v Miriam Bulgaru
-Tennis,13-Jan 03:00,Australian Open,Tamara Korpatsch v Miriam Bulgaru
-Tennis,13-Jan 03:00,Australian Open,Marcelo Tomas Barrios-Vera v Sascha Gueymard Wayenburg
-Tennis,13-Jan 03:00,Nonthaburi Challenger 2,Andre Ilagan v Florent Bax
-Tennis,13-Jan 03:00,Australian Open,Jason Kubler v Harold Mayot
-Tennis,13-Jan 03:00,Australian Open,Polina Iatcenko v Maria Lourdes Carle
-Tennis,13-Jan 03:00,Australian Open,Hanyu Guo v Dominika Salkova
-Tennis,13-Jan 03:00,Australian Open,Darja Vidmanova v Mingge Xu
-Tennis,13-Jan 03:00,Australian Open,Tara Wuerth v Claire Liu
-Tennis,13-Jan 03:00,Australian Open,Silvia Ambrosio v Ana Sofia Sanchez
-Tennis,13-Jan 03:00,Australian Open,Maddison Inglis v Leyre Romero Gormaz
-Tennis,13-Jan 03:00,Auckland,Hamad Medjedovic v Aleksandar Kovacevic
-Tennis,13-Jan 03:00,Australian Open,Chloe Paquet v Kristina Mladenovic
-Tennis,13-Jan 04:00,Adelaide,Damir Dzumhur v Alexander Shevchenko
 Tennis,13-Jan 04:00,Adelaide,Damir Dzumhur v Brandon Nakashima
-Tennis,13-Jan 04:00,Adelaide,Maya Joint v Sofia Kenin
-Tennis,13-Jan 04:00,Hobart,Elsa Jacquemot v Magdalena Frech
-Tennis,13-Jan 04:30,Adelaide,Jelena Ostapenko v Tereza Valentova
-Tennis,13-Jan 04:30,Adelaide,Andrea Vavassori v Gabriel Diallo
-Tennis,13-Jan 05:00,Australian Open Qualifying,Vitaliy Sachko v Viktor Durasovic
-Tennis,13-Jan 05:00,Hobart,Xinyu Wang v Talia Gibson
-Tennis,13-Jan 05:00,Auckland,Fabian Marozsan v Gael Monfils
-Tennis,13-Jan 05:00,Australian Open,Jan Choinski v Leandro Riedi
-Tennis,13-Jan 05:00,Australian Open,Kimmer Coppejans v Kei Nishikori
-Tennis,13-Jan 05:00,Australian Open,Juan Pablo Ficovich v Jurij Rodionov
-Tennis,13-Jan 05:00,Australian Open,Hady Habib v Zachary Svajda
+Tennis,13-Jan 04:35,Australian Open,Kimmer Coppejans v Omar Jasika
 Tennis,13-Jan 05:00,Australian Open,Vitaliy Sachko v Michael Mmoh
-Tennis,13-Jan 05:00,Australian Open,Mackenzie McDonald v Dmitry Popko
-Tennis,13-Jan 05:00,Australian Open,Sho Shimabukuro v Alex Molcan
-Tennis,13-Jan 05:00,Australian Open,Manon Leonard v Himeno Sakatsume
-Tennis,13-Jan 05:00,Australian Open,Alexander Blockx v Marco Cecchinato
-Tennis,13-Jan 05:00,Nonthaburi Challenger 2,Marek Gengel v Renta Tokuda
-Tennis,13-Jan 05:00,Nonthaburi Challenger 2,Marek Gengel v Renta Tokuda
-Tennis,13-Jan 05:00,Australian Open,Daniel Elahi Galan v Hugo Grenier
-Tennis,13-Jan 05:00,Nonthaburi Challenger 2,Yasutaka Uchiyama v Andres Martin
-Tennis,13-Jan 05:00,Australian Open,Moerani Bouzige v Liam Draxl
-Tennis,13-Jan 05:00,Nonthaburi Challenger 2,Philip Henning v Pol Martin Tiffon
-Tennis,13-Jan 05:00,Australian Open,Mai Hontama v Maria Timofeeva
-Tennis,13-Jan 05:00,Australian Open,Iryna Shymanovich v Arina Rodionova
-Tennis,13-Jan 06:30,Adelaide,Ethan Quinn v Marton Fucsovics
-Tennis,13-Jan 06:30,Adelaide,Yulia Putintseva v Dalma Galfi
-Tennis,13-Jan 07:00,Australian Open,Zdenek Kolar v Arthur Gea
-Tennis,13-Jan 07:00,Auckland,Nuno Borges v Tomas Martin Etcheverry
-Tennis,13-Jan 07:00,Australian Open,Lilli Tagger v Xinyu Gao
-Tennis,13-Jan 07:00,Nonthaburi Challenger 2,James Trotter v Kasidit Samrej
-Tennis,13-Jan 07:00,Australian Open,Destanee Aiava v Harriet Dart
-Tennis,13-Jan 07:00,Australian Open,Lloyd George Harris v Federico Cina
-Tennis,13-Jan 07:00,Australian Open,Diane Parry v Elena Pridankina
-Tennis,13-Jan 07:00,Australian Open,Rodrigo Pacheco Mendez v Adolfo Daniel Vallejo
-Tennis,13-Jan 07:00,Australian Open,Marina Bassols Ribera v Luisina Giovannini
-Tennis,13-Jan 07:00,Australian Open,Roman Andres Burruchaga v Ryan Peniston
-Tennis,13-Jan 07:00,Australian Open,Sofia Costoulas v Lanlana Tararudee
-Tennis,13-Jan 07:00,Nonthaburi Challenger 2,Yi Zhou v Neil Oberleitner
-Tennis,13-Jan 07:00,Nonthaburi Challenger 2,Jie Cui v Christian Langmo
-Tennis,13-Jan 07:30,Hobart,Emma Raducanu v Maria Camila Osorio Serrano
-Tennis,13-Jan 08:00,Adelaide,Victoria Mboko v Anna Kalinskaya
-Tennis,13-Jan 08:00,Adelaide,Stefanos Tsitsipas v Aleksandar Vukic
+Tennis,13-Jan 05:00,Australian Open,Kimmer Coppejans v Kei Nishikori
 Tennis,13-Jan 08:30,Adelaide,Sorana Cirstea v Dayana Yastremska
-Tennis,13-Jan 08:30,Adelaide,Katerina Siniakova v Dayana Yastremska
-Tennis,13-Jan 09:00,Nonthaburi Challenger 2,Yuta Shimizu v Daniel Michalski
-Tennis,13-Jan 09:00,Nonthaburi Challenger 2,Duje Ajdukovic v Timofey Skatov
-Tennis,13-Jan 09:00,Nonthaburi Challenger 2,Marat Sharipov v Hyeon Chung
-Tennis,13-Jan 09:30,Adelaide,Mirra Andreeva v Marie Bouzkova
-Tennis,13-Jan 09:30,Adelaide,Mirra Andreeva v Marie Bouzkova
-Tennis,13-Jan 09:30,Hobart,Oksana Selekhmeteva v Magda Linette
-Tennis,13-Jan 10:30,Glasgow Challenger,Mika Brunold v Tiago Pereira
-Tennis,13-Jan 10:30,Glasgow Challenger,Mathys Erhard v Hynek Barton
-Tennis,13-Jan 10:30,Glasgow Challenger,Harry Wendelken v Stefan Kozlov
+Tennis,13-Jan 10:40,Glasgow Challenger,Mathys Erhard v Hynek Barton
+Tennis,13-Jan 10:40,Glasgow Challenger,Harry Wendelken v Stefan Kozlov
+Tennis,13-Jan 10:45,Glasgow Challenger,Mika Brunold v Tiago Pereira
 Tennis,13-Jan 12:30,Glasgow Challenger,Alastair Gray v Giles Hussey
 Tennis,13-Jan 12:30,Glasgow Challenger,Henri Squire v Lui Maxted
 Tennis,13-Jan 12:30,Glasgow Challenger,Daniel Masur v Milos Karol
 Tennis,13-Jan 13:00,Buenos Aires Challenger,Daniel Dutra Da Silva v Nicolas Kicker
-Tennis,13-Jan 13:00,Buenos Aires Challenger,Pedro Dias v Valerio Aboian
 Tennis,13-Jan 13:00,Buenos Aires Challenger,Luciano Emanuel Ambrogi v Andrea Collarini
-Tennis,13-Jan 14:30,Glasgow Challenger,Tom Gentzsch v Carl Emil Overbeck
+Tennis,13-Jan 13:00,Buenos Aires Challenger,Pedro Dias v Valerio Aboian
 Tennis,13-Jan 14:30,Glasgow Challenger,Marvin Moeller v Federico Ferreira Silva
 Tennis,13-Jan 14:30,Glasgow Challenger,Henry Searle v Clement Chidekh
+Tennis,13-Jan 14:30,Glasgow Challenger,Tom Gentzsch v Carl Emil Overbeck
 Tennis,13-Jan 15:00,Buenos Aires Challenger,Juan Estevez v Guido Ivan Justo
 Tennis,13-Jan 15:00,Buenos Aires Challenger,Dante Pagani v Lucio Ratti
 Tennis,13-Jan 15:00,Buenos Aires Challenger,Lorenzo Joaquin Rodriguez v Stefan Palosi
 Tennis,13-Jan 16:30,Glasgow Challenger,Johannus Monday v Martin Krumich
 Tennis,13-Jan 17:00,Buenos Aires Challenger,Santiago Fa Rodriguez Taverna v Gabi Adrian Boitan
-Tennis,13-Jan 17:00,Buenos Aires Challenger,Bruno Kuzuhara v Franco Agamenone
 Tennis,13-Jan 17:00,Buenos Aires Challenger,Alexis Gurmendi v Maximo Zeitune
+Tennis,13-Jan 17:00,Buenos Aires Challenger,Bruno Kuzuhara v Franco Agamenone
 Tennis,13-Jan 19:00,Buenos Aires Challenger,Murkel Dellien v Joaquín Aguilar Cardozo
 Tennis,13-Jan 19:00,Buenos Aires Challenger,Wilson Leite v Lautaro Midon
-Tennis,14-Jan 00:00,Adelaide,Thanasi Kokkinakis v Valentin Vacherot
-Tennis,14-Jan 00:00,Adelaide,Tallon Griekspoor v Ugo Humbert
-Tennis,14-Jan 00:00,Australian Open,Nishesh Basavareddy v Sebastian Ofner
-Tennis,14-Jan 00:00,Australian Open,Roberto Carballes Baena v Gilles Arnaud Bailly
-Tennis,14-Jan 00:00,Australian Open,Zeynep Sonmez v Julia Riera
+Tennis,13-Jan 22:30,Auckland,Ben Shelton v Francisco Comesana
+Tennis,13-Jan 22:30,Auckland,Marcos Giron v Alex Michelsen
+Tennis,13-Jan 22:30,Auckland,Marcos Giron v Alex Michelsen
+Tennis,13-Jan 23:00,Australian Open,Roberto Carballes Baena v Gilles Arnaud Bailly
+Tennis,13-Jan 23:00,Australian Open,Nishesh Basavareddy v Sebastian Ofner
+Tennis,13-Jan 23:00,Australian Open,Brandon Holt v Giulio Zeppieri
+Tennis,13-Jan 23:00,Australian Open,Zeynep Sonmez v Julia Riera
+Tennis,13-Jan 23:00,Australian Open,Rei Sakamoto v Colton Smith
+Tennis,13-Jan 23:00,Australian Open,Martin Damm v Titouan Droguet
+Tennis,13-Jan 23:00,Australian Open,Justina Mikulskyte v Anastasia Gasanova
+Tennis,13-Jan 23:00,Australian Open,Yoshihito Nishioka v George Loffhagen
+Tennis,13-Jan 23:00,Australian Open,Elvina Kalieva v Ye-Xin Ma
+Tennis,13-Jan 23:00,Australian Open,Lucia Bronzetti v Mary Stoiana
+Tennis,13-Jan 23:00,Australian Open,Yuliia Starodubtseva v Despina Papamichail
+Tennis,13-Jan 23:00,Australian Open,Viktoria Hruncakova v Viktoriya Tomova
+Tennis,13-Jan 23:00,Australian Open,Guiomar M Zuleta de Reales v Tatiana Prozorova
 Tennis,14-Jan 00:00,Australian Open,Sloane Stephens v Olivia Gadecki
-Tennis,14-Jan 00:00,Australian Open,Martin Damm v Titouan Droguet
-Tennis,14-Jan 00:00,Australian Open,Nikola Bartunkova v Tina Nadine Smith
-Tennis,14-Jan 00:00,Australian Open,Nikola Bartunkova v Tina Nadine Smith
-Tennis,14-Jan 00:00,Australian Open,Yoshihito Nishioka v George Loffhagen
-Tennis,14-Jan 00:00,Australian Open,Jerome Kym v Dane Sweeny
-Tennis,14-Jan 00:00,Australian Open,Lucia Bronzetti v Mary Stoiana
-Tennis,14-Jan 00:00,Australian Open,Dino Prizmic v Gustavo Heide
-Tennis,14-Jan 00:00,Australian Open,Yuliia Starodubtseva v Despina Papamichail
-Tennis,14-Jan 00:00,Australian Open,Lizette Cabrera v Linda Klimovicova
-Tennis,14-Jan 00:00,Auckland,Ben Shelton v Francisco Comesana
-Tennis,14-Jan 00:00,Australian Open,Victoria Jimenez Kasintseva v Lin Zhu
-Tennis,14-Jan 00:00,Australian Open,Viktoria Hruncakova v Viktoriya Tomova
-Tennis,14-Jan 00:00,Australian Open,Brandon Holt v Giulio Zeppieri
-Tennis,14-Jan 00:00,Australian Open,Guiomar M Zuleta de Reales v Tatiana Prozorova
-Tennis,14-Jan 00:00,Australian Open,Henrique Rocha v Marco Trungelliti
-Tennis,14-Jan 00:00,Australian Open,Benjamin Hassan v Jaime Faria
-Tennis,14-Jan 00:00,Australian Open,Tristan Boyer v Francesco Passaro
 Tennis,14-Jan 00:00,Hobart,Elisabetta Cocciaretto v Ann Li
-Tennis,14-Jan 00:00,Australian Open,Rei Sakamoto v Colton Smith
-Tennis,14-Jan 00:00,Australian Open,Gonzalo Bueno v Pierre-Hugues Herbert
-Tennis,14-Jan 00:00,Australian Open,Aliaksandra Sasnovich v Kathinka Von Deichmann
-Tennis,14-Jan 00:00,Australian Open,Rebeka Masarova v Maja Chwalinska
-Tennis,14-Jan 00:00,Australian Open,Daniil Glinka v Luca Van Assche
-Tennis,14-Jan 00:00,Adelaide,Reilly Opelka v Tommy Paul
-Tennis,14-Jan 00:00,Australian Open,Arthur Fery v Bernard Tomic
-Tennis,14-Jan 00:00,Australian Open,Daniel Merida Aguilar v Lukas Klein
-Tennis,14-Jan 00:00,Australian Open,Justina Mikulskyte v Anastasia Gasanova
-Tennis,14-Jan 00:00,Hobart,Antonia Ruzic v Solana Sierra
-Tennis,14-Jan 00:00,Australian Open,Lina Gjorcheska v Tamara Zidansek
-Tennis,14-Jan 00:00,Australian Open,Teodora Kostovic v Marina Stakusic
-Tennis,14-Jan 00:00,Adelaide,Jaume Munar v Francisco Cerundolo
-Tennis,14-Jan 00:00,Australian Open,Dusan Lajovic v Murphy Cassone
-Tennis,14-Jan 00:00,Australian Open,Taylor Townsend v Jazmin Ortenzi
-Tennis,14-Jan 00:00,Australian Open,Taylor Townsend v Jazmin Ortenzi
-Tennis,14-Jan 00:00,Australian Open,Fiona Ferro v Linda Fruhvirtova
-Tennis,14-Jan 00:00,Auckland,Jenson Brooksby v Sebastian Baez
-Tennis,14-Jan 00:00,Adelaide,Daria Kasatkina v Jaqueline Cristian
+Tennis,14-Jan 00:30,Adelaide,Jaume Munar v Francisco Cerundolo
+Tennis,14-Jan 00:30,Auckland,Luciano Darderi v Alejandro Tabilo
+Tennis,14-Jan 00:30,Auckland,Jenson Brooksby v Sebastian Baez
+Tennis,14-Jan 00:30,Adelaide,Daria Kasatkina v Jaqueline Cristian
+Tennis,14-Jan 00:30,Adelaide,Marketa Vondrousova v Kimberly Birrell
+Tennis,14-Jan 01:00,Australian Open,Benjamin Hassan v Jaime Faria
+Tennis,14-Jan 01:00,Australian Open,Jerome Kym v Dane Sweeny
+Tennis,14-Jan 01:00,Australian Open,Gonzalo Bueno v Pierre-Hugues Herbert
+Tennis,14-Jan 01:00,Australian Open,Dino Prizmic v Gustavo Heide
+Tennis,14-Jan 01:00,Australian Open,Rebeka Masarova v Maja Chwalinska
+Tennis,14-Jan 01:00,Australian Open,Lizette Cabrera v Linda Klimovicova
+Tennis,14-Jan 01:00,Australian Open,Anouk Koevermans v Anhelina Kalinina
+Tennis,14-Jan 01:00,Australian Open,Henrique Rocha v Marco Trungelliti
+Tennis,14-Jan 01:00,Australian Open,Arthur Fery v Bernard Tomic
+Tennis,14-Jan 01:00,Australian Open,Fiona Ferro v Linda Fruhvirtova
+Tennis,14-Jan 01:00,Australian Open,Fiona Ferro v Linda Fruhvirtova
+Tennis,14-Jan 01:00,Australian Open,Martin Landaluce v Stefano Travaglia
+Tennis,14-Jan 01:00,Australian Open,Greetje Minnen v Harmony Tan
+Tennis,14-Jan 01:00,Hobart,Rebecca Sramkova v Taylah Preston
+Tennis,14-Jan 01:00,Australian Open,Carol Lee v Elena Micic
+Tennis,14-Jan 02:00,Nonthaburi Challenger 2,Rio Noguchi v Sumit Nagal
+Tennis,14-Jan 02:00,Nonthaburi Challenger 2,Petr Bar Biryukov v Maximus Jones
+Tennis,14-Jan 02:00,Nonthaburi Challenger 2,Beibit Zhukayev v Florent Bax
+Tennis,14-Jan 02:00,Nonthaburi Challenger 2,Kaichi Uchida v Pol Martin Tiffon
+Tennis,14-Jan 02:00,Nonthaburi Challenger 2,Yi Zhou v Christian Langmo
+Tennis,14-Jan 02:00,Nonthaburi Challenger 2,Marek Gengel v Yasutaka Uchiyama
+Tennis,14-Jan 02:00,Nonthaburi Challenger 2,Marat Sharipov v Daniel Michalski
+Tennis,14-Jan 02:00,Nonthaburi Challenger 2,Kasidit Samrej v Timofey Skatov
+Tennis,14-Jan 02:00,Hobart,Oksana Selekhmeteva v Magda Linette
+Tennis,14-Jan 02:00,Australian Open,James McCabe v Nicolai Budkov Kjaer
+Tennis,14-Jan 02:00,Adelaide,Tomas Machac v Quentin Halys
+Tennis,14-Jan 02:30,Adelaide,Reilly Opelka v Tommy Paul
+Tennis,14-Jan 02:30,Adelaide,Tallon Griekspoor v Ugo Humbert
+Tennis,14-Jan 02:30,Auckland,Nuno Borges v Eliot Spizzirri
+Tennis,14-Jan 02:30,Auckland,Cameron Norrie v Giovanni Perricard
+Tennis,14-Jan 02:30,Adelaide,Tereza Valentova v Madison Keys
+Tennis,14-Jan 03:00,Australian Open,Nicolas Mejia v Yibing Wu
+Tennis,14-Jan 03:00,Australian Open,Nikola Bartunkova v Tina Nadine Smith
+Tennis,14-Jan 03:00,Australian Open,Chris Rodesch v Rafael Jodar
+Tennis,14-Jan 03:00,Australian Open,Victoria Jimenez Kasintseva v Lin Zhu
+Tennis,14-Jan 03:00,Australian Open,Whitney Osuigwe v Lucrezia Stefanini
+Tennis,14-Jan 03:00,Australian Open,Tristan Boyer v Francesco Passaro
+Tennis,14-Jan 03:00,Hobart,Emma Raducanu v Maria Camila Osorio Serrano
+Tennis,14-Jan 03:00,Australian Open,Daniil Glinka v Luca Van Assche
+Tennis,14-Jan 03:00,Australian Open,Teodora Kostovic v Marina Stakusic
+Tennis,14-Jan 03:00,Australian Open,Dusan Lajovic v Murphy Cassone
+Tennis,14-Jan 03:00,Australian Open,Dusan Lajovic v Murphy Cassone
+Tennis,14-Jan 03:00,Australian Open,Taylor Townsend v Jazmin Ortenzi
+Tennis,14-Jan 03:00,Australian Open,Thiago Seyboth Wild v Francesco Maestrelli
+Tennis,14-Jan 03:00,Australian Open,Elmer Moller v Elias Ymer
+Tennis,14-Jan 03:00,Australian Open,Pablo Llamas Ruiz v Chak Lam Coleman Wong
+Tennis,14-Jan 04:00,Australian Open,Storm Hunter v Lola Radivojevic
+Tennis,14-Jan 04:00,Hobart,Iva Jovic v Renata Zarazua
+Tennis,14-Jan 04:00,Hobart,Tatjana Maria v Anna Bondar
+Tennis,14-Jan 04:30,Adelaide,Aleksandar Vukic v Andrea Vavassori
+Tennis,14-Jan 04:30,Adelaide,Diana Shnaider v Katerina Siniakova
+Tennis,14-Jan 04:30,Adelaide,Marton Fucsovics v Alexander Shevchenko
+Tennis,14-Jan 05:00,Australian Open,Daniel Merida Aguilar v Lukas Klein
+Tennis,14-Jan 05:00,Australian Open,Aliaksandra Sasnovich v Kathinka Von Deichmann
+Tennis,14-Jan 05:00,Australian Open,Darja Vidmanova v Dominika Salkova
+Tennis,14-Jan 05:00,Australian Open,Lina Gjorcheska v Tamara Zidansek
+Tennis,14-Jan 05:00,Australian Open,Claire Liu v Maddison Inglis
+Tennis,14-Jan 05:00,Australian Open,Carson Branstine v Daria Snigur
+Tennis,14-Jan 05:00,Australian Open,Tamara Korpatsch v Silvia Ambrosio
+Tennis,14-Jan 05:00,Australian Open,Maria Lourdes Carle v Yue Yuan
+Tennis,14-Jan 05:00,Australian Open,Leandro Riedi v Kimmer Coppejans
+Tennis,14-Jan 05:00,Australian Open,Chloe Paquet v Zhuoxuan Bai
+Tennis,14-Jan 05:00,Australian Open,Jurij Rodionov v Zachary Svajda
+Tennis,14-Jan 05:00,Australian Open,Marcelo Tomas Barrios-Vera v Michael Zheng
+Tennis,14-Jan 05:00,Australian Open,Alexander Blockx v Alex Molcan
+Tennis,14-Jan 05:00,Auckland,Fabian Marozsan v Casper Ruud
+Tennis,14-Jan 06:00,Australian Open,Jason Kubler v Vilius Gaubas
+Tennis,14-Jan 06:30,Adelaide,Yulia Putintseva v Emma Navarro
+Tennis,14-Jan 06:30,Hobart,Antonia Ruzic v Solana Sierra
+Tennis,14-Jan 07:00,Australian Open,Vitaliy Sachko v Liam Draxl
+Tennis,14-Jan 07:00,Auckland,Hamad Medjedovic v Jakub Mensik
+Tennis,14-Jan 07:00,Australian Open,Harriet Dart v Lanlana Tararudee
+Tennis,14-Jan 07:00,Australian Open,Harriet Dart v Lanlana Tararudee
+Tennis,14-Jan 07:00,Australian Open,Mackenzie McDonald v Hugo Grenier
+Tennis,14-Jan 07:00,Australian Open,Federico Cina v Adolfo Daniel Vallejo
+Tennis,14-Jan 07:00,Australian Open,Himeno Sakatsume v Mai Hontama
+Tennis,14-Jan 07:00,Australian Open,Roman Andres Burruchaga v Arthur Gea
+Tennis,14-Jan 07:00,Australian Open,Elena Pridankina v Lilli Tagger
+Tennis,14-Jan 08:00,Adelaide,Thanasi Kokkinakis v Valentin Vacherot
+Tennis,14-Jan 08:30,Adelaide,Alejandro Davidovich Fokina v Rinky Hijikata
+Tennis,14-Jan 09:30,Hobart,Peyton Stearns v Olga Danilovic
 Tennis,14-Jan 10:00,Glasgow Challenger,Remy Bertola v Mikhail Kukushkin
+Tennis,14-Jan 10:00,Adelaide,Maya Joint v Ajla Tomljanovic
 Tennis,14-Jan 10:00,Glasgow Challenger,Liam Broady v Dimitar Kuzmanov
-TennisDoubles,12-Jan 21:00,Auckland,"Finn Reynolds, James Watt v Sander Gille, Sem Verbeek"
-TennisDoubles,12-Jan 21:00,Auckland,"Constantin Frantzen, Robin Haase v Robert Cash, Jj Tracy"
-TennisDoubles,12-Jan 21:00,Auckland,"Sadio Doumbia, Fabien Reboul v Alexander Erler, Robert Galloway"
-TennisDoubles,12-Jan 21:00,Auckland,"Vasil Kirkov, Bart Stevens v Theo Arribage, Albano Olivetti"
-TennisDoubles,12-Jan 22:35,Auckland,"Santiago Gonzalez, David Pel v Patrik Rikl, Petr Nouza"
-TennisDoubles,13-Jan 00:30,Adelaide,"Asia Muhammad, Erin Routliffe v Cristina Bucsa, Nicole Melichar"
-TennisDoubles,13-Jan 00:30,Adelaide,"Patrick Harper, Blake Bayldon v Evan King, John Peers"
-TennisDoubles,13-Jan 00:30,Adelaide,"Austin Krajicek, Nikola Mektic v Rafael Matos, Orlando Luz"
+Tennis,14-Jan 15:00,Buenos Aires Challenger,Juan Pablo Varillas v Pedro Sakamoto
 TennisDoubles,13-Jan 01:00,Hobart,"Jessica Bouzas Maneiro, Elisabetta Cocciaretto v Eri Hozumi, Fang-Hsien Wu"
-TennisDoubles,13-Jan 02:30,Adelaide,"Romain Arneodo, Sander Arends v Maximo Gonzalez, Andres Molteni"
+TennisDoubles,13-Jan 01:35,Hobart,"Momoko Kobori, Ayano Shimizu v Eri Hozumi, Fang-Hsien Wu"
 TennisDoubles,13-Jan 03:35,Adelaide,"Rajeev Ram, Matthew Ebden v Hendrik Jebens, Ray Ho"
 TennisDoubles,13-Jan 05:00,Adelaide,"Anastasia Potapova, Vera Zvonareva v Ellen Perez, Demi Schuurs"
-TennisDoubles,13-Jan 06:00,Adelaide,"Jan Zielinski, Luke Johnson v Ariel Behar, Joran Vliegen"
-TennisDoubles,13-Jan 06:30,Hobart,"Katarzyna Piter, Janice Tjen v Gabriella Da Silva Fick, Alexandra Osborne"
-TennisDoubles,13-Jan 08:00,Hobart,"Yi-Fan Xu, Zhaoxuan Yang v Xinyu Wang, Saisai Zheng"
-TennisDoubles,14-Jan 00:00,Hobart,"Magali Kempen, Anna Siskova v Talia Gibson, Taylah Preston"
-TennisDoubles,14-Jan 00:00,Adelaide,"Timea Babos, Leylah Annie Fernandez v Katerina Siniakova, Shuai Zhang"
-TennisDoubles,14-Jan 00:00,Adelaide,"Marie Bouzkova, Luisa Stefani v Anna Danilina, Aleksandra Krunic"
-TennisDoubles,14-Jan 00:00,Adelaide,"Su-Wei Hsieh, Jelena Ostapenko v Lyudmyla Kichenok, Desirae Krawczyk"
-TennisDoubles,14-Jan 02:00,Adelaide,"Matej Vocel, Tomas Machac v Edouard Roger-Vasselin, Hugo Nys"
-TennisDoubles,14-Jan 13:00,Auckland,"Marcelo Melo, Fernando Romboli v Lucas Miedler, Francisco Cabral"
+TennisDoubles,13-Jan 21:00,Auckland,"Vasil Kirkov, Bart Stevens v Theo Arribage, Albano Olivetti"
+TennisDoubles,14-Jan 00:00,Hobart,"Giuliana Olmos, Aldila Sutjiadi v Eri Hozumi, Fang-Hsien Wu"
+TennisDoubles,14-Jan 00:30,Auckland,"Sadio Doumbia, Fabien Reboul v Alexander Erler, Robert Galloway"
+TennisDoubles,14-Jan 00:35,Adelaide,"Jakob Schnaitter, Mark Wallner v Harri Heliovaara, Henry Patten"
+TennisDoubles,14-Jan 00:35,Adelaide,"Rafael Matos, Orlando Luz v Chris Harrison, Neal Skupski"
+TennisDoubles,14-Jan 02:00,Hobart,"Katarzyna Piter, Janice Tjen v Nadiya Kichenok, Makoto Ninomiya"
+TennisDoubles,14-Jan 02:30,Auckland,"Marcelo Melo, Fernando Romboli v Lucas Miedler, Francisco Cabral"
+TennisDoubles,14-Jan 02:30,Adelaide,"Lloyd Glasspool, Julian Cash v Matthew Christopher Romios, Ryan Seggerman"
+TennisDoubles,14-Jan 04:30,Auckland,"Yuki Bhambri, Andre Goransson v Patrik Rikl, Petr Nouza"
+TennisDoubles,14-Jan 04:30,Adelaide,"Kevin Krawietz, Tim Puetz v Evan King, John Peers"
+TennisDoubles,14-Jan 04:30,Adelaide,"Guido Andreozzi, Manuel Guinard v Maximo Gonzalez, Andres Molteni"
+TennisDoubles,14-Jan 05:00,Hobart,"Magali Kempen, Anna Siskova v Talia Gibson, Taylah Preston"
+TennisDoubles,14-Jan 06:00,Adelaide,"Marie Bouzkova, Luisa Stefani v Anna Danilina, Aleksandra Krunic"
+TennisDoubles,14-Jan 06:30,Adelaide,"Asia Muhammad, Erin Routliffe v Ellen Perez, Demi Schuurs"
+TennisDoubles,14-Jan 06:30,Adelaide,"Matej Vocel, Tomas Machac v Edouard Roger-Vasselin, Hugo Nys"
+TennisDoubles,14-Jan 06:30,Adelaide,"Hendrik Jebens, Ray Ho v Mate Pavic, Marcelo Arevalo"
+TennisDoubles,14-Jan 07:30,Adelaide,"Timea Babos, Leylah Annie Fernandez v Katerina Siniakova, Shuai Zhang"
+TennisDoubles,14-Jan 08:00,Hobart,"Yi-Fan Xu, Zhaoxuan Yang v Xinyu Wang, Saisai Zheng"
+TennisDoubles,14-Jan 08:30,Adelaide,"Simone Bolelli, Andrea Vavassori v Jan Zielinski, Luke Johnson"
+TennisDoubles,15-Jan 00:00,Adelaide,"Su-Wei Hsieh, Jelena Ostapenko v Lyudmyla Kichenok, Desirae Krawczyk"
 Test Cricket,15-Jan 08:00,CSA 4-Day Series Division 2,Knights v Garden Route Badgers
 Test Cricket,15-Jan 08:00,CSA 4-Day Series Division 2,Eastern Storm v Northern Cape Heat
-Volleyball,12-Jan 18:00,Greece A1,AO Kalamata 80 v AONS Milon
-Volleyball,12-Jan 21:30,Brazil Superliga Women,Camponesa/Minas Women v Hinode Barueri Women
-Volleyball,12-Jan 21:30,Brazil Superliga Women,Batavo Mackenzie Women v Volei Bauru Women
 Volleyball,13-Jan 00:00,Brazil Superliga Women,Renasce Sorocaba U21 Women v Osasco Women
-Volleyball,13-Jan 00:00,Brazil Superliga Women,Unilife Maringa v Dentil Praia Women
-Volleyball,13-Jan 10:00,South Korea V League Women,Daejeon JKJ Women v AI Peppers Women
 Volleyball,13-Jan 10:00,South Korea V League,Incheon Korean Air Jumbos v Ansan
 Volleyball,13-Jan 12:00,Turkish Erkekler 1. Ligi,Osmangazi v TVF Spor Lisesi Women
 Volleyball,13-Jan 16:00,Champions League Women,Fenerbahce Women v Igor Gorgonzola Novara Women
@@ -1512,51 +1550,51 @@ Volleyball,13-Jan 19:30,CEV Cup (W),Radomka Radom Women v Mladost Zagreb Women
 Volleyball,13-Jan 21:30,Brazil Superliga Women,BRB/Brasilia Volei Women v Tijuca TC Women
 Volleyball,14-Jan 10:00,South Korea V League Women,Incheon Pink Spiders Women v Korea Expressway Women
 Volleyball,14-Jan 10:00,South Korea V League,Hyundai Skywalkers v Daejeon Samsung Bluefangs
-Volleyball,14-Jan 16:00,Champions League Women,Vakifbank Women v CS Alba Blaj Women
-Volleyball,14-Jan 16:00,Poland Plusliga,Cuprum Lubin v Asseco Resovia Rzeszow
 Volleyball,14-Jan 16:00,Poland Plusliga,Politechnika Lublin v CHKS Chelm
+Volleyball,14-Jan 16:00,Poland Plusliga,Cuprum Lubin v Asseco Resovia Rzeszow
 Volleyball,14-Jan 16:00,Poland Plusliga,ZAKSA Kedzierzyn Kozle v PGE Skra Belchatow
-Volleyball,14-Jan 16:30,CEV Cup (W),Galatasaray Women v Roeselare Women
-Volleyball,14-Jan 16:30,Finland Mestaruusliiga Men,AC Oulu Volley v TUTO Volley
+Volleyball,14-Jan 16:00,Champions League Women,Vakifbank Women v CS Alba Blaj Women
 Volleyball,14-Jan 16:30,Finland Mestaruusliiga Men,Akaa Volley v Savo Volley
-Volleyball,14-Jan 16:30,Spain Superliga,CV San Roque v Cisneros Alter Tenerife
+Volleyball,14-Jan 16:30,Finland Mestaruusliiga Men,AC Oulu Volley v TUTO Volley
 Volleyball,14-Jan 16:30,CEV Challenge Cup Women,CSM Lugoj Women v GEN-I Volley Nova Gorica Women
-Volleyball,14-Jan 16:30,CEV Challenge Cup Women,CSM Lugoj Women v GEN-I Volley Nova Gorica Women
+Volleyball,14-Jan 16:30,CEV Cup (W),Galatasaray Women v Roeselare Women
 Volleyball,14-Jan 17:00,CEV Challenge Cup Women,Ostrava Women v Olympiada Neapolis Women
 Volleyball,14-Jan 17:00,Italy Serie A Men,Taiwan Excellence Latina v Gi Group Monza
 Volleyball,14-Jan 17:00,CEV Cup (W),Nova KBM Branik Maribor Women v BKS Bielsko-Biala Women
 Volleyball,14-Jan 17:00,Champions League Women,Developres SkyRes Rzeszow Women v Levallois Women
 Volleyball,14-Jan 17:00,Champions League Women,Savino Del Bene Scandicci Women v Le Cannet-Rocheville Women
 Volleyball,14-Jan 17:00,Greece A1,A.O. Foinikas Syros v OFI
+Volleyball,14-Jan 17:00,Greece A1,A.O. Foinikas Syros v OFI
 Volleyball,14-Jan 17:30,Denmark VolleyLiga (Men),Ikast KFUM v DHV Odense
 Volleyball,14-Jan 17:30,Germany 1. Bundesliga,SV Warnemunde v Berlin Recycling Volleys
 Volleyball,14-Jan 17:30,Germany 1. Bundesliga,SWD powervolleys Duren v VfB Friedrichshafen
 Volleyball,14-Jan 17:30,Germany 1. Bundesliga,SVG Luneburg v TSV Unterhaching
-Volleyball,14-Jan 18:00,CEV Cup (W),Asptt Mulhouse Women v Linamar Bekescsabai RSE Women
+Volleyball,14-Jan 17:30,Spain Superliga,CV San Roque v Cisneros Alter Tenerife
 Volleyball,14-Jan 18:00,Denmark VolleyLiga (Women),Ikast KFUM Women v DHG Odense Women
+Volleyball,14-Jan 18:00,CEV Cup (W),Asptt Mulhouse Women v Linamar Bekescsabai RSE Women
 Volleyball,14-Jan 18:00,Germany 1. Bundesliga,ASV Dachau v MTV Ludwigsburg
 Volleyball,14-Jan 18:00,Sweden Elitserien Women,Gislaved v Goteborg Women
 Volleyball,14-Jan 18:00,Sweden Elitserien Men,RIG Falkoping v Vingaker
 Volleyball,14-Jan 18:30,Netherlands Eredivisie,Sliedrecht Sport v RECO ZVH Volleybal
 Volleyball,14-Jan 18:30,Denmark VolleyLiga (Men),Amager VK v Hvidovre VK
 Volleyball,14-Jan 18:30,CEV Cup (W),Asterix Avo Beveren Women v Sagres Neuchatel UC Women
-Volleyball,14-Jan 18:30,Italy Serie A Men,Revivre Milano v LPR Piacenza
 Volleyball,14-Jan 18:30,Germany 1. Bundesliga,Freiburg v Bitterfeld Wolfen
+Volleyball,14-Jan 18:30,Italy Serie A Men,Revivre Milano v LPR Piacenza
 Volleyball,14-Jan 18:30,CEV Cup (W),Allianz MTV Stuttgart Women v THY Women
 Volleyball,14-Jan 19:00,Denmark VolleyLiga (Men),Nordenskov Ungdoms-og IF v ASV Arhus
 Volleyball,14-Jan 19:00,Netherlands Eredivisie,Abiant Lycurgus v SV Dynamo
 Volleyball,14-Jan 19:00,CEV Cup (W),Reale Mutua Fenera Chieri Women v Vandoeuvre Nancy Women
 Volleyball,14-Jan 19:00,Denmark VolleyLiga (Men),Odense Volleyball v Middelfart VK
 Volleyball,14-Jan 19:00,Netherlands Eredivisie,Numidia TopVolleyball Limburg v Orion Doetinchem
-Volleyball,14-Jan 19:00,Champions League Women,Saugella Team Monza Women v Zeleznicar Lajkovac Women
 Volleyball,14-Jan 19:00,Denmark VolleyLiga (Men),DHV Odense v Middelfart VK
 Volleyball,14-Jan 19:00,CEV Challenge Cup Women,Megabox Vallefoglia Women v Fatum Nyiregyhaza Women
 Volleyball,14-Jan 19:00,CEV Challenge Cup Women,Nebo Zapresic Women v IBSA CV Gran Canaria Women
-Volleyball,14-Jan 19:00,CEV Challenge Cup Women,Nebo Zapresic Women v IBSA CV Gran Canaria Women
+Volleyball,14-Jan 19:00,Champions League Women,Saugella Team Monza Women v Zeleznicar Lajkovac Women
 Volleyball,14-Jan 19:00,Poland Plusliga,ONICO Warszawa v Jastrzebski Wegiel
 Volleyball,14-Jan 19:30,Denmark VolleyLiga (Women),Brondby VK Women v Holte IF Women
 Volleyball,14-Jan 19:30,Italy Serie A Men,Azimut Modena v Diatec Trentino
 Volleyball,14-Jan 19:30,Italy Serie A Men,Calzedonia Verona v Kioene Padova
+Volleyball,14-Jan 19:30,Italy Serie A Men,Videx Grottazzolina v Cucine Lube Civitanova
 Volleyball,14-Jan 19:30,Italy Serie A Men,Videx Grottazzolina v Cucine Lube Civitanova
 Volleyball,14-Jan 19:30,Italy Serie A Men,Bre Banca Lannutti Cuneo v Sir Safety Conad Perugia
 Volleyball,14-Jan 19:30,Champions League Women,LKS Commercecon Lodz Women v Zeren Spor Women
@@ -1567,20 +1605,27 @@ Volleyball,15-Jan 10:00,South Korea V League Women,GS Caltex Kixx Women v IBK Al
 Volleyball,15-Jan 10:00,South Korea V League,Suwon Kepco Vixtorm v Woori
 Volleyball,15-Jan 11:00,Czech Republic Extraliga,CEZ Karlovarsko v VK Euro Sitex Pribram
 Volleyball,15-Jan 15:30,CEV Challenge Cup Women,Panathinaikos Athens Women v Braga Women
+Volleyball,15-Jan 16:00,CEV Challenge Cup Women,Panionios Women v Unicaja Andalucía Women
 Volleyball,15-Jan 16:00,Czech Republic Extraliga,Fatra Zlin v VK Dukla Liberec
 Volleyball,15-Jan 16:00,Champions League Women,Eczacibasi Women v Olympiakos Women
 Volleyball,15-Jan 16:00,CEV Challenge Cup Women,Crvena Zvezda Beograd Women v Holte IF Women
+Volleyball,15-Jan 16:30,Poland Liga Siatkowki (W),MKS Sokol Mogilno Women v KS PALAC Bydgoszcz Women
 Volleyball,15-Jan 17:00,Czech Republic Extraliga,AERO Odolena Voda v SK Volejbal Usti nad Labem
 Volleyball,15-Jan 17:00,Czech Republic Extraliga,Volejbal Brno v VK Jihostroj Ceske Budejovice
 Volleyball,15-Jan 17:00,Czech Republic Extraliga,VK Benatky nad Jizerou v VK Ostrava
 Volleyball,15-Jan 17:00,Czech Republic Extraliga,Kladno Volejbal v Black Volley Beskydy
 Volleyball,15-Jan 17:00,CEV Cup (W),Voluntari Women v VfB Suhl LOTTO Thuringen Women
 Volleyball,15-Jan 17:00,Champions League Women,Schweriner SC Women v Maritsa Plovdiv Women
-Volleyball,15-Jan 17:30,CEV Challenge Cup Women,Panionios Women v Unicaja Andalucía Women
 Volleyball,15-Jan 18:30,Denmark VolleyLiga (Women),Farum VK Women v Gentofte Volley Women
 Volleyball,15-Jan 19:00,Netherlands Eredivisie,Numidia TopVolleyball Limburg v Orion Doetinchem
 Volleyball,15-Jan 19:00,Denmark VolleyLiga (Men),Amager VK v Hvidovre VK
+Volleyball,15-Jan 19:00,France LNV,Montpellier v Plessis-Robinson
 Volleyball,15-Jan 19:00,Poland Plusliga,Cuprum Lubin v Asseco Resovia Rzeszow
 Volleyball,15-Jan 19:30,Champions League Women,Imoco Volley Conegliano Women v Dresdner SC Women
 Volleyball,15-Jan 19:30,Italy Serie A Men,Taiwan Excellence Latina v Gi Group Monza
-Volleyball,15-Jan 19:30,Italy Serie A Men,Taiwan Excellence Latina v Gi Group Monza
+Volleyball,15-Jan 21:30,Brazil SuperLiga,Monte Carmelo v JF Volei
+Volleyball,15-Jan 22:30,Brazil SuperLiga,Joinville v Minas Tenis Clube
+Volleyball,16-Jan 00:00,Brazil SuperLiga,Sesi-SP v Sada Cruzeiro
+Volleyball,16-Jan 00:00,Brazil SuperLiga,Sesi-SP v Sada Cruzeiro
+Volleyball,16-Jan 10:00,South Korea V League Women,Hyundai Hillstate Women v Daejeon JKJ Women
+Volleyball,16-Jan 10:00,South Korea V League,KB Stars v Incheon Korean Air Jumbos
